@@ -2,6 +2,10 @@ import argparse
 import torch
 import torch.utils.data
 import torch.nn.functional
+try:
+    import torch_xla.core.xla_model as xm
+except Exception as e:
+    xm = None
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
@@ -16,6 +20,7 @@ class Trainer():
     _pretrained: str = 'jcblaise/roberta-tagalog-base'
     _truncation: str = 'both'
     _device: str = 'cpu'
+    _tpu: bool = False
     _checkpoint: str = 'checkpoint/fake-roberta-tagalog.pt'
     _batch_size: int
     _seed: int
@@ -70,6 +75,8 @@ class Trainer():
                             default=42, help='Seed')
         parser.add_argument('--cuda', type=bool, action='store',
                             const=True, dest='cuda', nargs='?', help='Enable GPU')
+        parser.add_argument('--tpu', type=bool, action='store',
+                            const=True, dest='tpu', nargs='?', help='Enable TPU')
         parser.add_argument('--checkpoint', type=str,
                             help='Where to save/load the main.')
 
@@ -90,6 +97,11 @@ class Trainer():
 
         if options.cuda:
             self._device = 'cuda:0'
+        elif options.tpu:
+            if xm == None:
+                raise 'torch_xla not installed'
+            self._device = xm.xla_device()
+            self._tpu = True
         if options.epochs:
             self.epochs = options.epochs
         if options.checkpoint:
@@ -108,7 +120,7 @@ class Trainer():
     def __init__(self):
         self.get_options()
 
-        torch.cuda.set_device(self._device)
+        torch.cuda.set_device('cuda:0' if self._tpu else self._device)
 
         np.random.seed(self._seed)
         torch.manual_seed(self._seed)
@@ -213,6 +225,8 @@ class Trainer():
 
             loss.backward()
             self._optimizer.step()
+            if self._tpu:
+                xm.mark_step()
 
         train_loss = sum(losses) / len(losses)
         train_acc = correct / total
@@ -239,12 +253,8 @@ class Trainer():
                 total += len(labels)
                 correct += int((pred == labels).sum())
 
-                # errors = output.data[pred != labels]
-                # self.errors[i] += errors.tolist()
-
                 del articles
                 del labels
-                torch.cuda.empty_cache()
 
         valid_loss = sum(losses) / len(losses)
         valid_acc = correct / total
@@ -274,7 +284,6 @@ class Trainer():
 
                 del articles
                 del labels
-                torch.cuda.empty_cache()
 
         eval_loss = sum(losses) / len(losses)
         eval_acc = correct / total
