@@ -1,0 +1,4936 @@
+ID,ENG,FIL,polarity
+1,abash,tarantahin,negative
+2,abhor,mapoot,negative
+3,abhorred,abhorred,negative
+4,abhorrence,poot,negative
+5,abhors,abhors,negative
+6,abide,mamalagi,positive
+7,abides,sumusunod,positive
+8,abominable,kasuklam-suklam,negative
+9,abominably,abominably,negative
+10,abomination,pagkasuklam,negative
+11,abrasive,nakasasakit,negative
+12,absent-minded,absent ang pag-iisip,negative
+13,absolve,magpawalang-sala,positive
+14,absolves,mapawalang-sala,positive
+15,absolved,napawalang-sala,positive
+16,absolute,lubos,neutral
+17,absolutely,walang pasubali,neutral
+18,absurd,walang katotohanan,negative
+19,absurdity,kahangalan,negative
+20,absurdly,pabaligho,negative
+21,absurdness,absurdness,negative
+22,abuse,pag-abuso,negative
+23,abuses,nang-aabusos,negative
+24,abusive,abusado,negative
+25,abysmal,hindi maarok,negative
+26,abysmally,abysmally,negative
+27,abyss,isang hindi maarok na kalaliman,negative
+28,accede,pumayag,positive
+29,accentuate,magpatingkad,neutral
+30,acclaim,pagbubunyi,positive
+31,acclaims,pinagbubunyi,positive
+32,acclaimed,acclaimed,positive
+33,acclamation,palakpakan,positive
+34,accolade,puri,positive
+35,accolades,accolades,positive
+36,accursed,sinumpa,negative
+37,accusation,bigay-sala,negative
+38,accusations,accusations,negative
+39,accuse,akusahan,negative
+40,accuses,accuses,negative
+41,accusing,akusasyon,negative
+42,accusingly,accusingly,negative
+43,acerbate,sumama ang loob,negative
+44,acerbic,maasim,negative
+45,acerbically,acerbically,negative
+46,ache,sumakit,negative
+47,aches,sumasakit,negative
+48,acrid,mapakla,negative
+49,acridly,acridly,negative
+50,acridness,acridness,negative
+51,acrimonious,masakit,negative
+52,acrimoniously,acrimoniously,negative
+53,acrimony,tulis,negative
+54,activist,aktibista,neutral
+55,activist,activista,neutral
+56,actual,tunay,neutral
+57,actuality,katunayan,neutral
+58,actually,talaga,neutral
+59,acumen,katalasan ng isip,positive
+60,adamant,matatag,negative
+61,adamantly,adamantly,negative
+62,admirable,kapuri-puri,positive
+63,admirer,tagahanga,positive
+64,admirably,admirably,positive
+65,admiration,paghanga,positive
+66,admire,humanga,positive
+67,admires,humahanga,positive
+68,admiring,hanga,positive
+69,admiringly,admiringly,positive
+70,admit,umamin,positive
+71,admits,inaamin,neutral
+72,admitted,inamin,neutral
+73,admittedly,tinatanggap na,positive
+74,admonish,pagsabihan,negative
+75,admonishes,pinagsasabihan,negative
+76,admonished,pinagsabihan,negative
+77,admonisher,admonisher,negative
+78,admonishingly,admonishingly,negative
+79,admonishment,admonishment,negative
+80,admonition,pagpapaalaala,negative
+81,adolescents,kabataan,neutral
+82,adorable,kaibig-ibig,positive
+83,adore,pakamahalin,positive
+84,adored,adored,positive
+85,adores,minamahal,positive
+86,adoring,adoring,positive
+87,adoringly,adoringly,positive
+88,adroit,sanay,positive
+89,adulation,paglalangis,negative
+90,adulterate,may banto,negative
+91,adulterated,adulterado,negative
+92,adulteration,pagbabanto,negative
+93,advantageous,magaling,positive
+94,adventuresome,adventuresome,positive
+95,adventurism,adventurism,positive
+96,adversity,kagipitan,negative
+97,advocate,tagataguyod,positive
+98,advocates,tinataguyod,positive
+99,advocacy,pagtatanggol,positive
+100,affable,madaling lapitan,positive
+101,affected,apektado,neutral
+102,affection,pagmamahal,positive
+103,affectionate,magiliw,positive
+104,affirm,magpatibay,positive
+105,affirms,pinagtitibay,positive
+106,affirmation,paninindigan,positive
+107,afflict,afflict,negative
+108,afflicts,afflicts,negative
+109,afflictive,afflictive,negative
+110,affront,lantaran,negative
+111,afraid,takot,negative
+112,aggravate,magpalubha,negative
+113,aggravated,pinalubha,negative
+114,aggravates,pinalulubha,negative
+115,aggravating,nagpapalubha,negative
+116,aggravation,paglala,negative
+117,aggression,handulong,negative
+118,aggressive,agresibo,negative
+119,aggressiveness,handulong,negative
+120,aggressor,aggressor,negative
+121,aggrieve,magpalungkot,negative
+122,aggrieved,agrabyado,negative
+123,aghast,takot,negative
+124,agitate,makabagabag,negative
+125,agitated,nabalisa,negative
+126,agitation,pagtatalo,negative
+127,agitator,manunulsol,negative
+128,agonies,agonies,negative
+129,agonize,maghirap,negative
+130,agonizes,naghihirap,negative
+131,agonizing,naghihirap,negative
+132,agonizingly,agonizingly,negative
+133,agony,paghihingalo,negative
+134,agree,sumang-ayon,positive
+135,agrees,sumang-ayon,positive
+136,agreeability,agreeability,positive
+137,agreeable,nakalulugod,positive
+138,agreeableness,hiyang,positive
+139,agreeably,nakalulugod,positive
+140,aha,aha,neutral
+141,aimless,walang layon,negative
+142,air,himpapawid,neutral
+143,alarmed,alarmed,negative
+144,alarming,may alarma,negative
+145,alarmingly,alarmingly,negative
+146,alas,sayang,negative
+147,allay,sumugpo,positive
+148,allays,sumusugpo,positive
+149,allegation,paninindigan,negative
+150,allegations,paratang,negative
+151,allegorize,allegorize,neutral
+152,alliance,alyansa,neutral
+153,alliances,alliances,neutral
+154,allure,gayuma,positive
+155,alluring,nakatutukso,positive
+156,alluringly,alluringly,positive
+157,allusion,parunggit,neutral
+158,allusions,allusions,neutral
+159,ally,kapanig,neutral
+160,allies,pumanig,neutral
+161,almighty,makapangyarihan,positive
+162,aloof,malayo,negative
+163,altogether,lahatan,neutral
+164,altruist,altruista,positive
+165,altruistic,altruistic,positive
+166,altruistically,altruistically,positive
+167,amaze,labis na magtaka,positive
+168,amazes,namangha,positive
+169,amazed,labis na nagtaka,positive
+170,amazement,paghanga,positive
+171,amazing,kagulat-gulat,negative
+172,amazing,kamangha-mangha,positive
+173,amazingly,amazingly,positive
+174,ambiguous,hindi maliwanag,negative
+175,ambiguity,kalabuan,negative
+176,ambivalence,pagtitigalawa ng mga damdamin,negative
+177,ambivalent,pinagtigalawa,negative
+178,ameliorate,magpaunlad,positive
+179,amenable,palasunod,positive
+180,amiability,pagkamabait,positive
+181,amiabily,amiabily,positive
+182,amiable,magiliw,positive
+183,amicability,pagkamabait,positive
+184,amicable,mapayapa,positive
+185,amicably,amicably,positive
+186,amiss,mali,negative
+187,amour,pag-iibigan,positive
+188,amuse,magpatawa,positive
+189,amuses,pinatatawa,positive
+190,amused,pinatawa,positive
+191,amusement,libangan,positive
+192,amusing,nakakatawa,positive
+193,amusingly,amusingly,positive
+194,anarchism,anarchism,negative
+195,anarchist,anarchist,negative
+196,anarchistic,anarchistic,negative
+197,anarchy,kawalan ng pamahalaan,negative
+198,angelic,angheliko,positive
+199,anger,galit,negative
+200,angers,ginagalit,negative
+201,angered,ginalit,negative
+202,angrily,pagalit,negative
+203,angriness,angriness,negative
+204,angry,nagagalit,negative
+205,anguish,dalamhati,negative
+206,anguished,nagdalamhati,negative
+207,annihilate,lipulin,negative
+208,annihilates,linilipon,negative
+209,annihated,linipon,negative
+210,annihilation,paglipol,negative
+211,animosity,malaking poot,negative
+212,annoy,mabuwisit,negative
+213,annoys,nabubuwisit,negative
+214,annoyance,pagkayamot,negative
+215,annoyed,nayayamot,negative
+216,annoying,buwisit,negative
+217,annoyingly,annoyingly,negative
+218,antagonism,kagalitan,negative
+219,antagonistic,magkagalit,negative
+220,antagonize,lumaban,negative
+221,anti,laban sa,negative
+222,anti,kontra,negative
+223,antipathy,pagkainis,negative
+224,antiquated,lipas na,negative
+225,anxieties,anxieties,negative
+226,anxiety,pag-aagam-agam,negative
+227,anxious,sabik,negative
+228,anxiously,balisa,negative
+229,anxiousness,anxiousness,negative
+230,anyhow,kahit papano,neutral
+231,anyway,gayon pa man,neutral
+232,anyways,anyways,neutral
+233,apathetic,nagwawalang-bahala,negative
+234,apathetically,apathetically,negative
+235,apathy,kawalang-pagpapahalaga,negative
+236,ape,unggoy,negative
+237,apocalypse,pahayag,negative
+238,apocalyptic,apocalyptic,negative
+239,apologist,tagapagtanggol,negative
+240,apologists,apologists,negative
+241,apostle,apostol,positive
+242,apotheosis,pagpupuri,positive
+243,appal,makapanlumo,negative
+244,appall,makapanlumo,negative
+245,appalled,appalled,negative
+246,appalling,nakapanlulumo,negative
+247,appallingly,katakut-takot,negative
+248,appealing,sumasamo,positive
+249,applaud,pumalakpak,positive
+250,appreciate,pinahahalagahan,positive
+251,appreciates,pinahahalagahan,positive
+252,appreciated,pinahalagahan,positive
+253,appreciation,pagpapahalaga,positive
+254,appreciative,nagpapasalamat,positive
+255,appreciatively,appreciatively,positive
+256,appreciativeness,appreciativeness,positive
+257,apprehension,pagkakahuli,negative
+258,apprehensions,apprehensions,negative
+259,apprehensive,nag-aalaala,negative
+260,apprehensively,apprehensively,negative
+261,arbitrary,hindi makatwiran,negative
+262,arcane,arcane,negative
+263,archaic,lipas na,negative
+264,ardent,maalab,positive
+265,ardently,masigasig,positive
+266,ardor,alab,positive
+267,arduous,nakapapagod,negative
+268,arduously,arduously,negative
+269,argue,pagtalunan,negative
+270,argues,nagtatalo,negative
+271,argued,nagtalo,negative
+272,arguing,nagtatalo,negative
+273,argumentative,mahilig sa pakikipagtalo,negative
+274,arousal,pagpukaw,positive
+275,arouse,pukawin,positive
+276,arouses,arouses,positive
+277,arousing,arousing,positive
+278,arresting,sa pag-aaresto,positive
+279,arrogance,pagmamataas,negative
+280,arrogant,mayabang,negative
+281,arrogant,yabang,negative
+282,arrogant,kupal,negative
+283,arrogantly,arrogantly,negative
+284,articulate,sinasabi,positive
+285,articulate,sinasabi,positive
+286,articulated,sinabi,positive
+287,ascendant,ascendant,positive
+288,ascertainable,ascertainable,positive
+289,ashame,nahiya,negative
+290,ashamed,napapahiya,negative
+291,asinine,tanga,negative
+292,asininely,asininely,negative
+293,asinininity,asinininity,negative
+294,askance,hindi nagugustuhan,negative
+295,asperse,paninirang-puri,negative
+296,aspersion,paninirang-puri,negative
+297,aspersions,aspersions,negative
+298,aspiration,hangad,positive
+299,aspirations,aspirations,positive
+300,aspire,naghahangad,positive
+301,aspires,naghahangad,positive
+302,aspired,naghangad,positive
+303,assassin,mamamatay-tao,negative
+304,assent,magpahintulot,positive
+305,assertions,assertions,positive
+306,assess,tasahan,neutral
+307,assiduous,matiyaga,positive
+308,assiduously,assiduously,positive
+309,assure,tiyakin,positive
+310,assuredly,tiyak,positive
+311,astonish,mamangha,positive
+312,astonished,astonished,positive
+313,astonishing,kataka-taka,positive
+314,astonishingly,astonishingly,positive
+315,astonishment,labis na pagtataka,positive
+316,astound,magtaka,positive
+317,astounded,astounded,positive
+318,astounding,lubhang kataka-taka,positive
+319,astoundingly,astoundingly,positive
+320,astronomic,pang-astronomya,neutral
+321,astronomical,pang-astronomya,neutral
+322,astronomically,astronomically,neutral
+323,astute,matalas,positive
+324,astutely,astutely,positive
+325,asunder,nalagot ang kadena,negative
+326,atrocious,mabangis,negative
+327,atrocities,mga kalupitan,negative
+328,atrocity,bagsik,negative
+329,atrophy,pagkasayang,negative
+330,attentive,masigasig,positive
+331,attest,magpatotoo,positive
+332,attitude,saloobin,neutral
+333,attract,umakit,positive
+334,attracts,umaakit,positive
+335,attraction,pang-akit,positive
+336,attractive,kaakit-akit,positive
+337,attractively,attractively,positive
+338,audacious,pangahas,negative
+339,audaciously,audaciously,negative
+340,audaciousness,tapang,negative
+341,audacity,katapangan,negative
+342,auspicious,mapalad,positive
+343,austere,mabagsik,negative
+344,autocrat,punong may lubos na kapangyarihan,negative
+345,autocratic,autokratiko,negative
+346,awareness,kamalayan,neutral
+347,aware,alam,neutral
+348,avalanche,pagguho ng yelo,negative
+349,avarice,katakawan sa pera,negative
+350,avaricious,sakim,negative
+351,avariciously,avariciously,negative
+352,avenge,maghiganti,negative
+353,aver,sabihin nang buong tiwala,positive
+354,averse,tutol,negative
+355,aversion,pag-ayaw,negative
+356,avid,sabik,positive
+357,avidly,avidly,positive
+358,awe,pangingimi,positive
+359,awed,hanga,positive
+360,awesome,kasindak-sindak,positive
+361,awesomely,awesomely,positive
+362,awesomeness,awesomeness,positive
+363,awestruck,awestruck,positive
+364,awful,katakut-takot,negative
+365,awfully,katakut-takot,negative
+366,awfulness,awfulness,negative
+367,awkward,nakahihiya,negative
+368,awkwardness,kaasiwaan,negative
+369,ax,palakol,negative
+370,babble,ngumawa,negative
+371,baby,sanggol,neutral
+372,backbite,manirang-puri sa kapwa,negative
+373,backbiting,backbiting,negative
+374,backward,palubha,negative
+375,backwardness,kamahinaan,negative
+376,bad,masama,negative
+377,badly,masama,negative
+378,baffle,malas,negative
+379,baffled,baffled,negative
+380,bafflement,bafflement,negative
+381,baffling,mahirap,negative
+382,bait,pain,negative
+383,balk,biglang tumigil,negative
+384,banal,karaniwan,negative
+385,banalize,banalize,negative
+386,bane,bane,negative
+387,banish,pinalalayas,negative
+388,banishes,pinalalayas,negative
+389,banished,pinalayas,negative
+390,banishment,pagpapalayas,negative
+391,barbarian,napakawalang hiya,negative
+392,barbaric,barbariko,negative
+393,barbarically,barbarically,negative
+394,barbarity,kabangisan,negative
+395,barbarous,walang kabihasnan,negative
+396,barbarously,barbarously,negative
+397,bargain,magkaunawaan,positive
+398,barren,hindi namumunga,negative
+399,baseless,walang saligan,negative
+400,bashful,silong,negative
+401,bastard,anak sa labas,negative
+402,battle-lines,labanan-linya,negative
+403,battleground,larangan ng digmaan,negative
+404,batty,batty,negative
+405,beast,hayop,negative
+406,beastly,nang malupit,negative
+407,beatify,magkaloob,positive
+408,beauteous,napakarikit,positive
+409,beautiful,maganda,positive
+410,beautifully,maganda,positive
+411,beautify,pagandahin,positive
+412,beauty,kagandahan,positive
+413,bedlam,panlokong bahay,negative
+414,bedlamite,bedlamite,negative
+415,befit,maangkop,positive
+416,befitting,befitting,positive
+417,befoul,magpasama,negative
+418,befriend,kaibiganin,positive
+419,beg,humihingi,negative
+420,begs,humihingi,negative
+421,begged,humingi,negative
+422,beggarly,dukha,negative
+423,begging,kadukhaan,negative
+424,beguile,lumibang,negative
+425,belabor,pumalo,negative
+426,beleaguer,kumubkob,negative
+427,belie,magbigay ng maling akala,negative
+428,belief,paniniwala,neutral
+429,believable,malamang,positive
+430,believe,maniwala,neutral
+431,belittles,minaliit,negative
+432,belittle,maliitin,negative
+433,belittled,belittled,negative
+434,belittling,derogasyon,negative
+435,bellicose,paladigma,negative
+436,belligerence,belligerence,negative
+437,belligerent,mapanlaban,negative
+438,belligerently,belligerently,negative
+439,beloved,minamahal,positive
+440,bemoan,tumangis,negative
+441,bemoaning,bemoaning,negative
+442,bemused,nabaghan,negative
+443,beneficent,mapagbigay,positive
+444,beneficial,kapaki-pakinabang,positive
+445,beneficially,beneficially,positive
+446,beneficiary,benepisyaryo,positive
+447,benevolence,kabaitan,positive
+448,benevolent,mapagkawanggawa,positive
+449,berate,basta-bastahin,negative
+450,bereave,maulila,negative
+451,bereavement,pangungulila,negative
+452,bereft,nawalan,negative
+453,berserk,nagngangalit,negative
+454,beseech,magmakaamo,negative
+455,besides,bukod sa,neutral
+456,besmirch,manira,negative
+457,best,pinakamagaling,positive
+458,best-known,pinakamahusay na-kilala,positive
+459,best-performing,pinakamahusay gumanap,positive
+460,bestial,makahayop,negative
+461,betray,ipagkanulo,negative
+462,betrays,betrays,negative
+463,betrayed,betrayed,negative
+464,betrayal,pagkakanulo,negative
+465,betrayals,betrayals,negative
+466,betrayer,taksil,negative
+467,better,mas mabuti,positive
+468,better-known,mas mahusay na-kilala,positive
+469,better-than-expected,mas mahusay na-kaysa-inaasahang,positive
+470,bewail,tumangis,negative
+471,bewilder,malito,negative
+472,bewildered,bewildered,negative
+473,bewildering,bewildering,negative
+474,bewilderingly,bewilderingly,negative
+475,bewilderment,kalituhan,negative
+476,bewitch,gumayuma,negative
+477,bias,pagkiling,negative
+478,biased,makiling,negative
+479,biases,biases,negative
+480,bicker,magtaltalan,negative
+481,bickering,bickering,negative
+482,bitch,asong babae,negative
+483,bitchy,bitchy,negative
+484,biting,masakit,negative
+485,bitingly,bitingly,negative
+486,bitter,mapait,negative
+487,bitterly,nang masakit,negative
+488,bitterness,kapaitan,negative
+489,bizarre,kakaiba,negative
+490,blab,magsitsit,negative
+491,blabber,blabber,negative
+492,blah,kalokohan,negative
+493,blame,magbigay-sala,negative
+494,blames,sinisisi,negative
+495,blamed,sinisi,negative
+496,blameless,hindi dapat managot,positive
+497,blameworthy,dapat sisihin,negative
+498,bland,mura,negative
+499,blandish,magsumamo,negative
+500,blaspheme,lumapastangan sa diyos,negative
+501,blasphemous,lapastangan sa diyos,negative
+502,blasphemy,kalapastangan sa diyos,negative
+503,blasted,blasted,negative
+504,blatant,maingay,negative
+505,blatantly,blatantly,negative
+506,blather,magdaldal ng kalokohan,negative
+507,bleak,malungkot,negative
+508,bleakly,bleakly,negative
+509,bleakness,lamig,negative
+510,bless,magpala,positive
+511,blessed,pinagpala,positive
+512,blessing,mabuting kapalaran,positive
+513,blinding,pagbulag,negative
+514,blindingly,blindingly,negative
+515,blindside,blindside,negative
+516,bliss,sobrang saya,positive
+517,blissful,napakasaya,positive
+518,blissfully,blissfully,positive
+519,blister,paltos,negative
+520,blistering,blistering,negative
+521,blithe,maligaya,positive
+522,bloated,tinapa,negative
+523,blockhead,ulol,negative
+524,bloodshed,pagdanak ng dugo,negative
+525,bloodthirsty,uhaw sa dugo,negative
+526,blunder,malaking pagkakamali,negative
+527,blundering,mali,negative
+528,blunders,blunders,negative
+529,blunt,tapatang magsalita,negative
+530,blurt,blurt,negative
+531,boast,magyabang,negative
+532,boasts,pinagyayabang,negative
+533,boasted,nagyabang,negative
+534,boastful,mayabang,negative
+535,boggle,matakot,negative
+536,bogus,bogus,negative
+537,boil,maglaga,neutral
+538,boiling,bulak,negative
+539,boisterous,maingay,negative
+540,bold,matapang,positive
+541,boldly,matapang,positive
+542,boldness,katapangan,positive
+543,bolster,magbolster,positive
+544,bombardment,panganganyon,negative
+545,bombastic,mayabang,negative
+546,bondage,pagkaalipin,negative
+547,bonkers,bonkers,negative
+548,bonny,maganda,positive
+549,bore,nakayayamot na tao,negative
+550,bores,nakakatamad,negative
+551,bored,timamad,negative
+552,boredom,hinawa,negative
+553,boring,mayamot,negative
+554,botch,sumira ng trabaho,negative
+555,bother,mag-abala,negative
+556,bothers,nag-aabala,negative
+557,bothered,nag-abala,negative
+558,bothersome,nakaaabala,negative
+559,boundless,walang hanggan,positive
+560,bountiful,sagana,positive
+561,bowdlerize,bowdlerize,negative
+562,brag,magmayabang,negative
+563,brags,nagyayabaang,negative
+564,bragged,nagyabang,negative
+565,braggart,mayabang,negative
+566,bragger,bragger,negative
+567,brains,talino,positive
+568,brainwash,magpropaganda,negative
+569,brainy,matalino,positive
+570,brash,mga labi,negative
+571,brashly,brashly,negative
+572,brashness,brashness,negative
+573,brat,pilyong bata,negative
+574,bravado,pagtatapang-tapangan,negative
+575,brave,malakas ang loob,positive
+576,braves,lakas loob,positive
+577,braved,tinapangan,positive
+578,bravery,kagitingan,positive
+579,brazen,walang hiya,negative
+580,brazenly,brazenly,negative
+581,brazenness,brazenness,negative
+582,break-point,masira-point,negative
+583,breathlessness,breathlessness,positive
+584,breathtaking,kapansin-pansin,positive
+585,breathtakingly,breathtakingly,positive
+586,brilliant,makinang,positive
+587,brilliantly,brilliantly,positive
+588,brimstone,asupre,negative
+589,bristle,mangalisag,negative
+590,bristles,bristles,negative
+591,broken-hearted,nawasak ang puso,negative
+592,brood,malungkot na pakaisipin,negative
+593,brook,ilug-ilugan,positive
+594,browbeat,tumakot,negative
+595,brusque,bastos,negative
+596,brutal,brutal,negative
+597,brutalising,brutalizing,negative
+598,brutalities,brutalities,negative
+599,brutality,lupit,negative
+600,brutalize,brutalize,negative
+601,brutalizing,brutalizing,negative
+602,brutally,brutally,negative
+603,brute,taong ganid,negative
+604,brutish,malupit,negative
+605,bullied,inapi,negative
+606,bullies,bullies,negative
+607,bully,nang-aapi,negative
+608,bully,mapang-api,negative
+609,bullyingly,bullyingly,negative
+610,bungle,gumawa nang paloko,negative
+611,bungler,manggagawang hindi bihasa,negative
+612,burden,imposisyon,negative
+613,burdensome,madaling makapagod,negative
+614,burdensomely,burdensomely,negative
+615,burn,sumunog,negative
+616,busybody,mapanghimasok,negative
+617,butchery,pagpatayan,negative
+618,bwahaha,bwahaha,negative
+619,byzantine,Byzantine,negative
+620,cackle,putak,negative
+621,cajole,mang-akit,negative
+622,calamities,calamities,negative
+623,calamitous,mapanganib,negative
+624,calamitously,calamitously,negative
+625,calamity,matinding kapighatian,negative
+626,callous,hindi marunong maawa,negative
+627,calming,pagpapatahimik,positive
+628,calumniate,manira sa kapwa,negative
+629,calumniation,pagsinungaling,negative
+630,calumnies,calumnies,negative
+631,calumnious,sinunggalinggan,negative
+632,calumniously,calumniously,negative
+633,calumny,pagsisinungaling laban sa puri ng kapwa,negative
+634,candid,matapat,positive
+635,candor,katapatan sa pagsasalita,positive
+636,cannibal,hayop na kumakain ng kapwa hayop,negative
+637,cannibalize,cannibalize,negative
+638,capricious,paiba-iba,negative
+639,capriciously,capriciously,negative
+640,capriciousness,capriciousness,negative
+641,captivate,makabihag,positive
+642,captivating,mapang-akit,positive
+643,captivation,captivation,positive
+644,carefree,walang inaalaala,positive
+645,careless,hindi isinasaloob ang ginagawa,negative
+646,carelessness,kawalang-isip,negative
+647,caricature,karikatura,negative
+648,carnage,pagpatay,negative
+649,carp,pamumula,negative
+650,cartoonish,cartoonish,negative
+651,castigate,magsalita nang masakit,negative
+652,cataclysm,kataklismo,negative
+653,cataclysmal,cataclysmal,negative
+654,cataclysmic,cataclysmic,negative
+655,cataclysmically,cataclysmically,negative
+656,catalyst,katalista,positive
+657,catastrophe,malaking kapahamakan,negative
+658,catastrophes,catastrophes,negative
+659,catastrophic,sakuna,negative
+660,catastrophically,catastrophically,negative
+661,catchy,nakatataranta,positive
+662,caustic,mapang-uyam,negative
+663,caustically,caustically,negative
+664,cautionary,cautionary,negative
+665,celebrate,ipagdiwang,positive
+666,celebrates,nagdiriwang,positive
+667,celebrated,bantog,positive
+668,celebration,pagdiriwang,positive
+669,celebratory,celebratory,positive
+670,censure,bigyang-sala,negative
+671,censures,censures,negative
+672,censured,censured,negative
+673,certainly,tiyak,neutral
+674,chafe,magkagasgas,negative
+675,chaff,ipa,negative
+676,chagrin,kahihiyan,negative
+677,chaos,ganap na kaguluhan,negative
+678,chaotic,may gulo,negative
+679,charisma,charisma,negative
+680,charismatic,charismatic,positive
+681,charm,bighani,positive
+682,charms,binighani,positive
+683,charmed,nabighani,positive
+684,charming,kaakit-akit,positive
+685,charmingly,charmingly,positive
+686,chaste,dalaga,positive
+687,chasten,magparusa,negative
+688,chastise,pumalo,negative
+689,chastisement,parusa,negative
+690,chatter,magsasatsat,negative
+691,chatterbox,daldalera,negative
+692,cheapen,pababain ang pagkatao o sarili,negative
+693,cheap,mura,negative
+694,cheat,manlilinlang,negative
+695,cheat,daya,negative
+696,cheats,nanloloko,negative
+697,cheats,mandaraya,negative
+698,cheater,nanloloko,negative
+699,cheated,nandaya,negative
+700,cheer,masayang sigaw,positive
+701,cheery,masigla,positive
+702,cheerful,galak na galak,positive
+703,cheerless,walang saya,negative
+704,cherish,mahalin,positive
+705,cherishes,minamahal,positive
+706,cherished,itinatangi,positive
+707,cherub,magandang bata,positive
+708,chic,makisig,positive
+709,chide,magmura,negative
+710,chides,minura,negative
+711,childish,parang bata,negative
+712,chit,maikling sulat,negative
+713,chivalry,kagalantihan,positive
+714,chivalrous,marangal,positive
+715,civility,pagkamagalang,positive
+716,clear-cut,litaw na litaw,positive
+717,clears,nililinaw,neutral
+718,cleared,nilinaw,neutral
+719,clearer,mas malinaw,positive
+720,clearly,maliwanag,positive
+721,clever,matalino,positive
+722,cliche,klisey,negative
+723,cliched,cliched,negative
+724,closeness,pagkakalapit,positive
+725,cloud,ulap,negative
+726,clout,humampas,positive
+727,clumsy,pangit ang yari ng bangkang iyon,negative
+728,coax,isamo,positive
+729,cocky,bastos,negative
+730,coerce,puwersahin,negative
+731,coercion,pagpipigil,negative
+732,coercive,pumipilit,negative
+733,cogent,kapani-paniwala,positive
+734,cogitate,pag-isipin,neutral
+735,cognizant,nababatid,neutral
+736,coherence,pagkakaugnay-ugnay,positive
+737,coldly,nang walang bahala,negative
+738,collude,collude,negative
+739,collusion,sapakatan,negative
+740,comely,maganda,positive
+741,comforting,umaaliw,positive
+742,commend,purihin,positive
+743,commendable,kapuri-puri,positive
+744,commendably,commendably,positive
+745,commiserate,makiramay,negative
+746,commotion,iskandalo,negative
+747,compassion,pakikiramay,positive
+748,compassionate,mahabagin,positive
+749,compel,pilitin,negative
+750,compelling,makabagbag-damdamin,positive
+751,compensate,bumayad,positive
+752,complacent,may kasiyahan,negative
+753,complain,magreklamo,negative
+754,complains,nagrereklamo,negative
+755,complaining,nagrereklamong,negative
+756,complaint,reklamo,negative
+757,complaints,mga reklamo,negative
+758,complement,ganap na bilang,positive
+759,compliant,sang-ayon,positive
+760,complicit,complicit,negative
+761,compliment,papuri,positive
+762,compliments,pinupuri,positive
+763,complimentary,kaloob,positive
+764,comprehend,intindihin,neutral
+765,compulsion,pamimilit,negative
+766,compulsive,mapilit,negative
+767,comrades,comrades,positive
+768,concede,umamin,positive
+769,concedes,umaamin,positive
+770,conceded,umamin,positive
+771,conceit,pagpapahalaga sa sarili,negative
+772,conceited,mapagpahalaga sa sarili,negative
+773,conceivable,nalilikhang isip,positive
+774,concern,pag-aalala,negative
+775,concerns,problema,negative
+776,concerned,nag-aalala,negative
+777,concerns,alalahanin,negative
+778,conciliate,palubagin ang loob,positive
+779,conciliatory,pampalubag-loob,positive
+780,concur,pagkaisahan,positive
+781,condescend,magpakababa,negative
+782,condescending,condescending,negative
+783,condescendingly,condescendingly,negative
+784,condescension,paglait,negative
+785,condemn,isumpa,negative
+786,condemns,sinusumpa,negative
+787,condemned,sinumpa,negative
+788,condemnable,condemnable,negative
+789,condemnation,pagbabawal sa paggamit,negative
+790,condolence,pakikiramay,negative
+791,condolences,condolences,negative
+792,condone,palampasin,positive
+793,confess,tanggapin ang kasalanan,negative
+794,confesses,confesses,negative
+795,confession,pag-amin,negative
+796,confessions,confessions,negative
+797,confide,magtiwala,neutral
+798,confidence,pagtitiwala,positive
+799,confident,nagtitiwala,positive
+800,confrontation,paghaharap,negative
+801,confuse,makalito,negative
+802,confused,nalilito,negative
+803,confusing,nakalilito,negative
+804,confusion,pagkalito,negative
+805,confute,pasinungalingan,positive
+806,congenial,kasundo,positive
+807,congratulate,bumati,positive
+808,congratulates,bumabati,positive
+809,congratulations,pagbati,positive
+810,congratulatory,bumabati,positive
+811,conjecture,paghahaka-haka,neutral
+812,conscientious,matapat,positive
+813,consensus,pinagkaisahan,positive
+814,consent,pagsang-ayon,positive
+815,consents,sumang-ayon,positive
+816,consequently,dahil dito,neutral
+817,consider,isaalang-alang,neutral
+818,considerable,hindi kakaunti,neutral
+819,considerably,lubha,neutral
+820,considerate,maalalahanin,positive
+821,conspicuous,hayag,negative
+822,conspicuously,conspicuously,negative
+823,conspirator,kasabwat,negative
+824,conspiratorial,masabwat,negative
+825,conspire,magtulung-tulong,negative
+826,constancy,tiyaga,positive
+827,consternation,panghihilakbot,negative
+828,consummate,malubos,positive
+829,contemplate,magnilay-nilay,neutral
+830,contempt,pag-upasala,negative
+831,contemptible,napakahamak,negative
+832,contemptuous,mapanlait,negative
+833,contemptuously,palait,negative
+834,contend,makipaglaban,negative
+835,content,nilalaman,positive
+836,contention,pagtatalo,negative
+837,contentment,kaligayahan,positive
+838,contentious,palakontra,negative
+839,contort,mapangiwi,negative
+840,contortions,contortions,negative
+841,contradict,magkasalungatan,negative
+842,contradiction,pagkakasalungatan,negative
+843,contradictory,nagkakasalungatan,negative
+844,contrariness,katigasan ng ulo,negative
+845,contrary,kasalungat,negative
+846,contravene,labagin,negative
+847,contrive,balakin,negative
+848,contrived,contrived,negative
+849,convenient,maginhawa,positive
+850,conveniently,Maginhawang,positive
+851,convincing,kapani-paniwala,positive
+852,convincingly,convincingly,positive
+853,convoluted,convoluted,negative
+854,cornerstone,pundasyon,positive
+855,correctly,wasto,positive
+856,corrupt,sira,negative
+857,corruption,katiwalian,negative
+858,counterproductive,counterproductive,negative
+859,coupists,coupists,negative
+860,courage,tapang,positive
+861,courageous,malakas ang loob,positive
+862,courageously,courageously,positive
+863,courageousness,courageousness,positive
+864,court,hukuman,positive
+865,courteous,magalang,positive
+866,courtesy,kagandahang-loob,positive
+867,courtly,magalang,positive
+868,covet,mag-imbot,both
+869,coveting,coveting,both
+870,covetingly,covetingly,both
+871,covetous,mapag-imbot,negative
+872,covetously,covetously,both
+873,coward,bahag ang buntot,negative
+874,cowardly,duwag,negative
+875,cozy,maaliwalas,positive
+876,crafty,manlilinlang,negative
+877,cranky,mainit ang ulo,negative
+878,crass,puno,negative
+879,crave,manabik nang labis,positive
+880,craven,craven,negative
+881,cravenly,cravenly,negative
+882,craving,labis na pananabik,positive
+883,craze,pagkahumaling,negative
+884,crazily,crazily,negative
+885,craziness,hibang,negative
+886,crazy,basag ang pula,negative
+887,creative,malikhain,positive
+888,credence,paniniwala,positive
+889,credible,kapani-paniwala,positive
+890,credulous,madaling malinlang,negative
+891,cringe,sumukot,negative
+892,cripple,sumalanta,negative
+893,crippling,kapilayan,negative
+894,critic,kritiko,negative
+895,critical,mapanganib,negative
+896,criticism,panunuring pampanitikan,negative
+897,criticisms,criticisms,negative
+898,criticize,pumuna,negative
+899,critics,kritiko,negative
+900,crook,masamang-loob,negative
+901,crooked,hindi tapat,negative
+902,cross,tumawid,negative
+903,cruel,malupit,negative
+904,cruelties,cruelties,negative
+905,cruelty,kalupitan,negative
+906,crusade,krusada,positive
+907,crusader,crusader,positive
+908,cry,sigaw,negative
+909,culpable,dapat sisihin,negative
+910,cuplrit,cuplrit,negative
+911,cumbersome,pahirap,negative
+912,cure-all,gamutin-lahat,positive
+913,curious,kataka-taka,positive
+914,curiously,pausisa,positive
+915,curse,sumpa,negative
+916,cursed,nasumpa,negative
+917,curses,curses,negative
+918,cuss,mura,negative
+919,cute,nakatutuwa,positive
+920,cutthroat,mamamatay-tao,negative
+921,cynical,mapang-uyam,negative
+922,cynicism,pangungutya,negative
+923,damn,mapahamak,negative
+924,damnable,kasumpa-sumpa,negative
+925,damnably,damnably,negative
+926,damnation,pagsumpa,negative
+927,damned,sinumpa,negative
+928,damning,nakakapinsala,negative
+929,dangerousness,dangerousness,negative
+930,dangle,lumawit-lawit,negative
+931,dare,maglakas-loob,positive
+932,daring,walang takot,positive
+933,daringly,daringly,positive
+934,darling,sinta,positive
+935,darn,nagsulsi,negative
+936,dashing,masigla,positive
+937,dastard,tuso,negative
+938,dastardly,parang tuso,negative
+939,daunt,magpawala,negative
+940,daunting,daunting,negative
+941,dauntingly,dauntingly,negative
+942,dauntless,walang takot,positive
+943,dawdle,magtamad-tamaran,negative
+944,daydream,mangarap ng gising,positive
+945,daydreamer,daydreamer,positive
+946,daze,mawalan ng ulirat,negative
+947,dazed,masilaw,negative
+948,dazzle,silawin,positive
+949,dazzled,dazzled,positive
+950,dazzling,nakasisilaw,positive
+951,deadbeat,deadbeat,negative
+952,deadlock,kawalan ng pagkakasundo,negative
+953,deadweight,kabigatan,negative
+954,dear,mahal,positive
+955,dearth,pagdarahop,negative
+956,debacle,debacle,negative
+957,debase,magpababa,negative
+958,debasement,pag-unti ng galing,negative
+959,debaser,debaser,negative
+960,debatable,mapagtatalunan,negative
+961,debate,debate,negative
+962,debauch,pasamain,negative
+963,debaucher,debaucher,negative
+964,debauchery,marawal na pamumuhay,negative
+965,decadence,panghihina,negative
+966,decadent,dekadent,negative
+967,decay,pagkabulok,negative
+968,decayed,bulok,negative
+969,deceit,panlilinlang,negative
+970,deceitful,mapang-ulol,negative
+971,deceitfully,deceitfully,negative
+972,deceitfulness,kamadayaan,negative
+973,deceiving,deceiving,negative
+974,deceive,linlangin,negative
+975,deceiver,magdaraya,negative
+976,deceivers,deceivers,negative
+977,deception,daya,negative
+978,deceptive,mapanlinlang,negative
+979,deceptively,deceptively,negative
+980,declaim,magtalumpati,negative
+981,decrepit,matanda at mahina,negative
+982,decrepitude,kahunaan,negative
+983,decry,masamain,negative
+984,dedicated,dedikado,positive
+985,deduce,mahinula,neutral
+986,deep,malalim,positive
+987,deeply,buong kataimtiman,neutral
+988,deepening,deepening,negative
+989,defamation,paninirang-puri,negative
+990,defamations,defamations,negative
+991,defamatory,naninirang-puri,negative
+992,defame,magbintang ng hindi totoo,negative
+993,defective,may sira,negative
+994,defender,tagapag-adya,positive
+995,deference,pitagan,positive
+996,defiance,paglaban,negative
+997,defiant,matigas ang ulo,negative
+998,defiantly,defiantly,negative
+999,defile,marungisan,negative
+1000,defiler,defiler,negative
+1001,definitively,definitively,positive
+1002,defrauding,defrauding,negative
+1003,deft,sanay,positive
+1004,defunct,patay na,negative
+1005,defy,suminsay,negative
+1006,degenerate,masamang tao,negative
+1007,degenerately,degenerately,negative
+1008,degeneration,pagkabulok,negative
+1009,degradation,marawal na kalagayan,negative
+1010,degrade,pababain ang sarili,negative
+1011,degrading,nanghihiya,negative
+1012,degradingly,degradingly,negative
+1013,dehumanization,dehumanization,negative
+1014,dehumanize,magpalupit,negative
+1015,deign,pagindapatin,negative
+1016,deject,ikalungkot,negative
+1017,dejected,walang sigla,negative
+1018,dejectedly,dejectedly,negative
+1019,dejection,kawalang-sigla,negative
+1020,delectable,kaiga-igaya,positive
+1021,delicious,masarap,positive
+1022,delight,galak,positive
+1023,delighted,delighted,positive
+1024,delightful,kasiya-siya,positive
+1025,delightfully,delightfully,positive
+1026,delightfulness,delightfulness,positive
+1027,delirious,nahihibang,negative
+1028,delirium,pagkahaling,negative
+1029,delude,dayain,negative
+1030,deluded,deluded,negative
+1031,delusion,kahibangan,negative
+1032,delusional,delusional,negative
+1033,delusions,delusyon,negative
+1034,demand,pangangailangan,both
+1035,demean,kumilos,negative
+1036,demeaning,demeaning,negative
+1037,demise,pagpapamana ng ari-arian,negative
+1038,demon,demonyo,negative
+1039,demonic,ng diyablo,negative
+1040,demonize,demonize,negative
+1041,demoralize,pahinain ang loob,negative
+1042,demoralizing,demoralizing,negative
+1043,demoralizingly,demoralizingly,negative
+1044,demystify,demystify,positive
+1045,denial,pagtanggi,negative
+1046,denigrate,manirang-puri,negative
+1047,deny,itanggi,negative
+1048,denounce,tumuligsa,negative
+1049,denunciate,denunciate,negative
+1050,denunciation,pagsasalita laban sa,negative
+1051,denunciations,denunciations,negative
+1052,deplorable,malungkot,negative
+1053,deplorably,deplorably,negative
+1054,deplore,pagsisihan,negative
+1055,deploring,deploring,negative
+1056,deploringly,deploringly,negative
+1057,deprave,pasamain,negative
+1058,depraved,mahalay,negative
+1059,depravedly,depravedly,negative
+1060,deprecate,magtakwil,negative
+1061,depressed,nalulumbay,negative
+1062,depressing,mapagpahirap,negative
+1063,depressingly,depressingly,negative
+1064,deprive,bawian,negative
+1065,deprived,deprived,negative
+1066,deride,mang-uyam,negative
+1067,derision,pang-uuyam,negative
+1068,derisive,mapanukso,negative
+1069,derisively,derisively,negative
+1070,derisiveness,derisiveness,negative
+1071,derogatory,mapanira,negative
+1072,desecrate,magwalang-galang,negative
+1073,deserve,marapat,positive
+1074,deserved,marapat,positive
+1075,deservedly,karampatan,positive
+1076,deserving,karapat-dapat,positive
+1077,desert,disyerto,negative
+1078,desertion,pagtakas sa hukbo,negative
+1079,desiccate,magpatuyo,negative
+1080,desiccated,desiccated,negative
+1081,desirable,kanais-nais,positive
+1082,desire,pagnanais,positive
+1083,desirous,mapagnais,positive
+1084,desolate,hindi masaya,negative
+1085,desolately,desolately,negative
+1086,desolation,lagim,negative
+1087,despair,kawalan ng pag-asa,negative
+1088,despairing,despairing,negative
+1089,despairingly,nang walang pag-asa,negative
+1090,desperate,wala nang pag-asa,negative
+1091,desperately,desperately,negative
+1092,desperation,pagkawalang-taros,negative
+1093,despicable,kasuklam-suklam,negative
+1094,despicably,despicably,negative
+1095,despise,pag-alimura,negative
+1096,despised,kinamuhian,negative
+1097,despite,sa kabila ng,negative
+1098,despoil,mang-agaw,negative
+1099,despoiler,despoiler,negative
+1100,despondence,kalumbayan,negative
+1101,despondency,kawalang pag-asa,negative
+1102,despondent,walang pag-asa,negative
+1103,despondently,despondently,negative
+1104,despot,punong malupit,negative
+1105,despotic,despotiko,negative
+1106,despotism,despotismo,negative
+1107,destabilisation,destabilization,negative
+1108,destinies,destinies,positive
+1109,destiny,kapalaran,positive
+1110,destitute,aba,negative
+1111,destitution,pagdarahop,negative
+1112,destroyer,destroyer,negative
+1113,destructive,mapanira,negative
+1114,desultory,magulo,negative
+1115,determination,pagtitika,positive
+1116,detest,kamuhian,negative
+1117,detestable,kasuklam-suklam,negative
+1118,detestably,detestably,negative
+1119,detriment,kapinsalaan,negative
+1120,detrimental,pumipinsala,negative
+1121,devastate,ganap na sumira,negative
+1122,devastated,devastated,negative
+1123,devastating,nagwawasak,negative
+1124,devastatingly,devastatingly,negative
+1125,devil,satanas,negative
+1126,devilish,parang demonyo,negative
+1127,devilishly,devilishly,negative
+1128,devilment,kahayupan,negative
+1129,devilry,katusuhan,negative
+1130,devious,palihis,negative
+1131,deviously,deviously,negative
+1132,deviousness,kalihisan,negative
+1133,devoid,walang wala,negative
+1134,devote,pag-ukulan,positive
+1135,devoted,maalalahanin,positive
+1136,devotee,taong madasalin,positive
+1137,devotion,malasakit,positive
+1138,dexterous,mahusay ang kamay,positive
+1139,dexterously,dexterously,positive
+1140,dextrous,mahusay ang kamay,positive
+1141,diabolic,parang demonyo,negative
+1142,diabolical,parang demonyo,negative
+1143,diabolically,diabolically,negative
+1144,diametrically,sa haba ng dyametro,negative
+1145,diatribe,talumpating umaatake sa kapwa,negative
+1146,diatribes,diatribes,negative
+1147,difficulty,paghihirap,negative
+1148,diffidence,pagkakimi,negative
+1149,dignified,marangal,positive
+1150,dignity,karangalan,positive
+1151,digress,lumihis sa pinag-uusapan,negative
+1152,dilapidated,gula-gulanit,negative
+1153,dilly-dally,magpatayung-tayong,negative
+1154,dim,hindi maliwanag,negative
+1155,dire,katakut-takot,negative
+1156,direly,direly,negative
+1157,direness,direness,negative
+1158,disaccord,hindi sumang-ayon,negative
+1159,disadvantage,katalunan,negative
+1160,disadvantageous,hindi mabuti,negative
+1161,disaffect,disaffect,negative
+1162,disaffected,hindi nasisiyahan,negative
+1163,disaffirm,tumanggi,negative
+1164,disagree,hindi sumang-ayon,negative
+1165,disagreeable,mainit ang ulo,negative
+1166,disagreeably,disagreeably,negative
+1167,disagreement,hindi pagkakaintindihan,negative
+1168,disallow,hindi pahintulutan,negative
+1169,disappoint,biguin,negative
+1170,disappointed,nabigo,negative
+1171,disappointing,disappointing,negative
+1172,disappointingly,disappointingly,negative
+1173,disappointment,pagkabigo,negative
+1174,disapprobation,pagsalungat,negative
+1175,disapproval,hindi pagsang-ayon,negative
+1176,disapprove,hindi pagtibayin,negative
+1177,disapproving,hindi pag-apruba,negative
+1178,disarray,pagkakagulo,negative
+1179,disaster,sakuna,negative
+1180,disastrous,mapaminsala,negative
+1181,disastrously,disastrously,negative
+1182,disavow,ayaw umamin,negative
+1183,disavowal,pagtanggi,negative
+1184,disbelief,kawalang-paniwala,negative
+1185,disbelieve,ayaw maniwala,negative
+1186,disbeliever,disbeliever,negative
+1187,discern,pagwariin,neutral
+1188,discerning,marunong makita ang kaibhan,positive
+1189,disclaim,magkaila,negative
+1190,discombobulate,discombobulate,negative
+1191,discomfit,mapahiya,negative
+1192,discomfititure,discomfititure,negative
+1193,disconcert,mapahiya,negative
+1194,disconcerted,hindi mapalagay,negative
+1195,disconcerting,disconcerting,negative
+1196,disconcertingly,disconcertingly,negative
+1197,disconsolate,walang sigla,negative
+1198,disconsolately,disconsolately,negative
+1199,disconsolation,disconsolation,negative
+1200,discontent,kawalang-kasiyahan,negative
+1201,discontented,nayayamot,negative
+1202,discontentedly,nang walang kasiyahan,negative
+1203,discontinuity,pagpigil,negative
+1204,discord,hindi magkasundo,negative
+1205,discordance,kawalan ng kasunduan,negative
+1206,discordant,hindi magkakatugma,negative
+1207,discountenance,ayaw sumang-ayon,negative
+1208,discourage,pahinain ang loob,negative
+1209,discouragement,kawalang pag-asa,negative
+1210,discouraging,nakapanghihina ng loob,negative
+1211,discouragingly,discouragingly,negative
+1212,discourteous,walang galang,negative
+1213,discourteously,discourteously,negative
+1214,discredit,kasiraan ng puri,negative
+1215,discriminatory,maselan,negative
+1216,disdain,mang-aba,negative
+1217,disdainful,mapanlibak,negative
+1218,disdainfully,disdainfully,negative
+1219,disfavor,hindi sumang-ayon,negative
+1220,disgrace,kahihiyan,negative
+1221,disgraced,desgrasyado,negative
+1222,disgraceful,kahiya-hiya,negative
+1223,disgracefully,disgracefully,negative
+1224,disgruntle,manggalit,negative
+1225,disgruntled,masama ang loob,negative
+1226,disgust,makasawa,negative
+1227,disgusted,naiinis,negative
+1228,disgustedly,disgustedly,negative
+1229,disgustful,nakaiinis,negative
+1230,disgustfully,disgustfully,negative
+1231,disgusting,kasumpa-sumpa,negative
+1232,disgustingly,disgustingly,negative
+1233,dishearten,mawalan ng pag-asa,negative
+1234,disheartening,disheartening,negative
+1235,dishearteningly,dishearteningly,negative
+1236,dishonest,hindi tapat,negative
+1237,dishonestly,dishonestly,negative
+1238,dishonesty,pagbubulaan,negative
+1239,dishonor,siraan ng puri,negative
+1240,dishonorable,kahiya-hiya,negative
+1241,dishonorablely,dishonorablely,negative
+1242,disillusion,magbago ng maling akala,negative
+1243,disillusioned,disillusioned,negative
+1244,disinclination,kawalan ng nais,negative
+1245,disinclined,walang gusto,negative
+1246,disingenuous,hindi matapat,negative
+1247,disingenuously,disingenuously,negative
+1248,disinterest,kawalan ng interes,negative
+1249,disinterested,walang pag-iimbot,negative
+1250,dislike,pag-ayaw,negative
+1251,disloyal,taksil,negative
+1252,disloyalty,pagtataksil,negative
+1253,dismal,mamanglaw,negative
+1254,dismally,dismally,negative
+1255,dismalness,dismalness,negative
+1256,dismay,masiraan ng loob,negative
+1257,dismayed,dismayed,negative
+1258,dismaying,dismaying,negative
+1259,dismayingly,dismayingly,negative
+1260,dismissive,dismissive,negative
+1261,dismissively,dismissively,negative
+1262,disobedience,pagsuway,negative
+1263,disobedient,hindi masunurin,negative
+1264,disobey,sumuway,negative
+1265,disown,magtakwil,negative
+1266,disorganized,ginulo,negative
+1267,disorient,tumaranta,negative
+1268,disoriented,disoriented,negative
+1269,disparage,maliitin,negative
+1270,disparaging,nanghahamak,negative
+1271,disparagingly,disparagingly,negative
+1272,dispirit,pahinain ang loob,negative
+1273,dispirited,malungkot,negative
+1274,dispiritedly,dispiritedly,negative
+1275,dispiriting,dispiriting,negative
+1276,displease,magpasama ng loob,negative
+1277,displeasing,nakayayamot,negative
+1278,displeasure,sama ng loob,negative
+1279,disposition,pag-aayaw-ayaw,neutral
+1280,disprove,pasinungalingan,negative
+1281,disputable,matututulan,negative
+1282,dispute,pagtatalo,negative
+1283,disputed,dispute,negative
+1284,disquiet,makabagabag,negative
+1285,disquieting,disquieting,negative
+1286,disquietingly,disquietingly,negative
+1287,disquietude,kabalisahan,negative
+1288,disregard,pagwawalang-bahala,negative
+1289,disregardful,disregardful,negative
+1290,disreputable,may masamang pagkakilala ang mga tao,negative
+1291,disrepute,pagkasira ng pangalan,negative
+1292,disrespect,kawalang-pitagan,negative
+1293,disrespectable,disrespectable,negative
+1294,disrespectablity,disrespectablity,negative
+1295,disrespectful,walang galang,negative
+1296,disrespectfully,disrespectfully,negative
+1297,disrespectfulness,impertinensiya,negative
+1298,disrespecting,disrespecting,negative
+1299,disrupt,pumatid,negative
+1300,disruption,pagputol,negative
+1301,disruptive,Nakakaantalang,negative
+1302,dissatisfaction,sama ng loob,negative
+1303,dissatisfactory,hindi kasiya-siya,negative
+1304,dissatisfied,masama ang loob,negative
+1305,dissatisfy,magbigay ng hindi kasiyahan,negative
+1306,dissatisfying,dissatisfying,negative
+1307,dissemble,magpakunwari,negative
+1308,dissembler,magdaraya,negative
+1309,dissension,pag-aaway,negative
+1310,dissent,hindi sumang-ayon,negative
+1311,dissenter,dissenter,negative
+1312,dissention,dissention,negative
+1313,disservice,masamang paglilingkod,negative
+1314,dissidence,tutol,negative
+1315,dissident,dissident,negative
+1316,dissidents,dissidents,negative
+1317,dissocial,dissocial,negative
+1318,dissolute,napakasamang pamumuhay,negative
+1319,dissonance,kawalan ng armonya,negative
+1320,dissonant,nagkakasalungatan,negative
+1321,dissonantly,dissonantly,negative
+1322,dissuade,himuking huwag gawin ang isang bagay,negative
+1323,dissuasive,pinapagpayuhang huwag gawin ang isang bagay,negative
+1324,distaste,hindi magustuhan,negative
+1325,distasteful,nakawawala ng gana,negative
+1326,distastefully,distastefully,negative
+1327,distinguished,mukhang mahal na tao,positive
+1328,distort,magpapangit,negative
+1329,distortion,pagbaluktot,negative
+1330,distracting,distracting,negative
+1331,distraction,kaguluhan ng isip,negative
+1332,distraught,naguguluhan,negative
+1333,distraughtly,distraughtly,negative
+1334,distraughtness,distraughtness,negative
+1335,distress,pagkabalisa,negative
+1336,distressed,namimighati,negative
+1337,distressing,kasakitsakit,negative
+1338,distressingly,distressingly,negative
+1339,distrust,kawalan ng tiwala,negative
+1340,distrustful,walang tiwala,negative
+1341,distrusting,distrusting,negative
+1342,disturb,abalahin,negative
+1343,disturbed,nabalisa,negative
+1344,disturbed-let,maaabala-let,negative
+1345,disturbing,nakakagambala,negative
+1346,disturbingly,disturbingly,negative
+1347,disunity,kawalan ng pagkakaisa,negative
+1348,disvalue,disvalue,negative
+1349,divine,banal,positive
+1350,divinely,divinely,positive
+1351,divisive,naghahati,negative
+1352,divisively,divisively,negative
+1353,divisiveness,divisiveness,negative
+1354,dizzy,nahihilo,negative
+1355,dizzing,dizzing,negative
+1356,dizzingly,dizzingly,negative
+1357,doddering,nanginginig,negative
+1358,dodge,umigtad,positive
+1359,dodgey,dodgey,negative
+1360,dogged,mapilit,negative
+1361,doggedly,doggedly,negative
+1362,dogmatic,matigas kung magsalita,negative
+1363,doldrums,kawalang-sigla,negative
+1364,domination,pangingibabaw,negative
+1365,domineer,makapangyari,negative
+1366,domineering,mapagmataas,negative
+1367,doom,kapalaran,negative
+1368,doomsday,katapusan ng mundo,negative
+1369,dote,mahaling,positive
+1370,dotingly,dotingly,positive
+1371,doubt,pag-aalinlangan,negative
+1372,doubtful,walang katiyakan,negative
+1373,doubtfully,doubtfully,negative
+1374,doubtless,walang alinlangan,positive
+1375,doubts,alinlangan,negative
+1376,downbeat,downbeat,negative
+1377,downcast,sira ang loob,negative
+1378,downer,Downer,negative
+1379,downfall,malakas na ulan,negative
+1380,downfallen,downfallen,negative
+1381,downhearted,sira ang loob,negative
+1382,downheartedly,downheartedly,negative
+1383,downright,talaga,neutral
+1384,downside,downside,negative
+1385,drab,hindi maganda,negative
+1386,draconian,Drakoniko,negative
+1387,draconic,Drakoniko,negative
+1388,dragon,dragon,negative
+1389,dragons,dragons,negative
+1390,dragoon,taong bastos,negative
+1391,drain,alisan ng tubig,negative
+1392,drama,drama,negative
+1393,dramatic,dramatiko,neutral
+1394,dramatically,kapansin-pansing,neutral
+1395,drastic,marahas,negative
+1396,drastically,labis,negative
+1397,dread,kahila-hilakbot,negative
+1398,dreadful,kakila-kilabot,negative
+1399,dreadfully,katakut-takot,negative
+1400,dreadfulness,dreadfulness,negative
+1401,dream,mangarap,positive
+1402,dreamland,hindi tunay na bansa,positive
+1403,dreary,pagod na pagod,negative
+1404,drones,drones,negative
+1405,drunk,lasing,negative
+1406,drunkard,maglalasing,negative
+1407,drunken,lango,negative
+1408,dubious,nakapag-aalinlangan,negative
+1409,dubiously,dubiously,negative
+1410,dubitable,dubitable,negative
+1411,dullard,tanga,negative
+1412,dumb,walang imik,negative
+1413,dumbfound,masiraan ng loob,negative
+1414,dumbfounded,dumbfounded,negative
+1415,dummy,pantalya,negative
+1416,dunce,batang mahina ang ulo,negative
+1417,dungeon,piitan,negative
+1418,dungeons,dungeons,negative
+1419,dupe,malinlang,negative
+1420,eager,sabik,positive
+1421,eagerly,sabik,positive
+1422,eagerness,pagkasabik,positive
+1423,earnest,maalab,positive
+1424,earnestly,seriyosong,positive
+1425,earnestness,earnestness,positive
+1426,earsplitting,sobrang ingay,negative
+1427,easygoing,madaling pakisamahan,positive
+1428,ebullience,pagka-sobrang saya,positive
+1429,ebullient,nagniningning sa saya,positive
+1430,ebulliently,ebulliently,positive
+1431,eclectic,maraming hilig,positive
+1432,ecstasies,ecstasies,positive
+1433,ecstasy,sobrang saya,positive
+1434,ecstatic,masayang-masaya,positive
+1435,ecstatically,ecstatically,positive
+1436,edgy,nerbiyoso,negative
+1437,edify,magbigay ng magandang halimbawa,positive
+1438,effigy,imahen,negative
+1439,effortless,walang hirap,positive
+1440,effortlessly,walang kahirap-hirap,positive
+1441,effrontery,kapal ng mukha,negative
+1442,effusion,umagos,positive
+1443,effusive,gayon na lamang,positive
+1444,effusively,effusively,positive
+1445,effusiveness,effusiveness,positive
+1446,ego,sarili,negative
+1447,egocentric,mayabang,negative
+1448,egomania,ubod ng yabang,negative
+1449,egotism,labis na pagpapahalaga sa sarili,negative
+1450,egotistical,egotistical,negative
+1451,egotistically,egotistically,negative
+1452,egregious,kapansin-pansin,negative
+1453,egregiously,labis,negative
+1454,ejaculate,magbulalas,negative
+1455,elaborate,dagdagan ng mga paliwanag,neutral
+1456,elan,Elan,positive
+1457,elated,galak na galak,positive
+1458,elatedly,elatedly,positive
+1459,elation,pagkasaya,positive
+1460,election-rigger,eleksyon-taong nagbubuo,negative
+1461,electrification,magpakuryente,positive
+1462,elegance,gilas,positive
+1463,elegant,elegante,positive
+1464,elegantly,elegante,positive
+1465,eloquence,mahusay na pagsasalita,positive
+1466,eloquent,magaling magsalita,positive
+1467,eloquently,eloquently,positive
+1468,emaciated,payat na payat,negative
+1469,emasculate,nakakatanggal ng pagkalalaki,negative
+1470,embarrass,mapahiya,negative
+1471,embarrassing,nakakahiya,negative
+1472,embarrassingly,kahiya-hiya,negative
+1473,embarrassment,kahihiyan,negative
+1474,embellish,palamutihan,positive
+1475,embodiment,pinakadiwa,neutral
+1476,embrace,yakapin,positive
+1477,embroil,masangkot sa gulo,negative
+1478,embroiled,nagulo,negative
+1479,embroilment,guluhin,negative
+1480,eminence,mataas na lugar,positive
+1481,eminent,bantog,positive
+1482,emotion,damdamin,neutral
+1483,emotional,nagpapahayag ng damdamin,negative
+1484,empathize,empathize,negative
+1485,empathy,makiramay,negative
+1486,emphatic,maliwanag,negative
+1487,emphatically,matigas,negative
+1488,emptiness,kawalan ng laman,negative
+1489,enchant,gayumahin,positive
+1490,enchanted,enchanted,positive
+1491,enchanting,kabigha-bighani,positive
+1492,enchantingly,enchantingly,positive
+1493,encouragement,bigyan ng lakas at pag-asa,positive
+1494,encouraging,nagbibigay-pag-asa,positive
+1495,encouragingly,encouragingly,positive
+1496,endanger,ilagay sa panganib,negative
+1497,endear,mapamahal,positive
+1498,endearing,endearing,positive
+1499,endorse,ilagda,positive
+1500,endorsement,liham ng paglilipat,positive
+1501,endorser,endorser,positive
+1502,endurable,mababata,positive
+1503,endure,magtiis,positive
+1504,endures,tinitiis,positive
+1505,endured,tiniis,positive
+1506,enduring,walang maliw,positive
+1507,enervate,nakakapanghina,negative
+1508,enfeeble,papanghinain,negative
+1509,enflame,enflame,negative
+1510,engaging,nakakaengganyo,positive
+1511,engrossing,nakakalulon,positive
+1512,enjoin,magtagubilin,negative
+1513,enjoy,tangkilikin,positive
+1514,enjoys,tinatangkilik,positive
+1515,enjoyable,kasiya-siya,positive
+1516,enjoyably,enjoyably,positive
+1517,enjoyment,kasiyahan,positive
+1518,enmity,pagkapoot,negative
+1519,ennoble,magpadakila,positive
+1520,enormities,enormities,negative
+1521,enormity,katakut-takot na kasamaan,negative
+1522,enormous,napakalubha,negative
+1523,enormously,sobrang sobra,negative
+1524,enrage,papag-apuyin sa galit,negative
+1525,enraged,galit na galit,negative
+1526,enrapt,enrapt,positive
+1527,enraptured,enraptured,positive
+1528,enslave,mang-alipin,negative
+1529,entertaining,kasiya-siya,positive
+1530,enthral,mabighani,positive
+1531,enthrall,mabighani,positive
+1532,enthralled,enthralled,positive
+1533,enthuse,magpakita ng interes,positive
+1534,enthusiasm,sigasig,positive
+1535,enthusiast,taong masigla,positive
+1536,enthusiastic,masigasig,positive
+1537,enthusiastically,enthusiastically,positive
+1538,entice,mag-udyok,positive
+1539,enticing,nakakaakit,positive
+1540,enticingly,enticingly,positive
+1541,entirely,lahatan,neutral
+1542,entranced,entranced,positive
+1543,entrancing,nakakaakit,positive
+1544,entrap,mabitag,negative
+1545,entrapment,entrapment,negative
+1546,entreat,pamanhikan,positive
+1547,entreatingly,entreatingly,positive
+1548,entrenchment,paghimasok,neutral
+1549,enviable,nakahihili,positive
+1550,enviably,enviably,positive
+1551,envious,mapanghili,negative
+1552,enviously,enviously,negative
+1553,enviousness,enviousness,negative
+1554,envy,inggit,negative
+1555,envies,naiinggit,negative
+1556,epic,mahabang tula,positive
+1557,epitome,ehemplo,positive
+1558,equivocal,may dalawang magkaibang kahulugan,negative
+1559,err,maligaw,negative
+1560,erratic,mali-mali,negative
+1561,erratically,erratically,negative
+1562,erroneous,liko,negative
+1563,erroneously,hindi wasto,negative
+1564,erudite,maalam,positive
+1565,eschew,eschew,negative
+1566,especially,lalo na,positive
+1567,esteem,pahalagahan,positive
+1568,estranged,hiwalay,negative
+1569,eternity,kawalang-hanggan,positive
+1570,ethical,tama,positive
+1571,eulogize,mataas na papuri,positive
+1572,euphoria,makaramdam ng sobrang tuwa,positive
+1573,euphoric,euphoric,positive
+1574,euphorically,euphorically,positive
+1575,evaluate,tumasa,neutral
+1576,everlasting,walang hanggan,positive
+1577,evidently,talaga,positive
+1578,evil,kasamaan,negative
+1579,evildoer,masamang tao,negative
+1580,evils,evils,negative
+1581,eviscerate,eviscerate,negative
+1582,evocative,evocative,positive
+1583,exacerbate,palalain,negative
+1584,exact,eksakto,neutral
+1585,exactly,ganap,neutral
+1586,exaggerate,magpahigit,negative
+1587,exaggeration,pagmamalabis,negative
+1588,exalt,magpuri,positive
+1589,exaltation,pagpaparangal,positive
+1590,exalted,matayog,positive
+1591,exaltedly,exaltedly,positive
+1592,exalting,exalting,positive
+1593,exaltingly,exaltingly,positive
+1594,exasperate,magpagalit,negative
+1595,exasperation,matinding pagkayamot,negative
+1596,exasperating,nakakabugnot,negative
+1597,exasperatingly,exasperatingly,negative
+1598,exceed,lumampas,positive
+1599,exceeding,pambihira,positive
+1600,exceedingly,lubha,positive
+1601,excel,pangibabawan,positive
+1602,excellence,kataasan ng uri,positive
+1603,excellency,kamahalan,positive
+1604,excellent,mahusay na mahusay,positive
+1605,excellently,napakahusay,positive
+1606,exceptional,pambihira,positive
+1607,exceptionally,iba,positive
+1608,excessive,labis,negative
+1609,excessively,sobra-sobra,negative
+1610,excite,excite,positive
+1611,excites,excites,positive
+1612,excited,natutuwa,positive
+1613,excitedly,excitedly,positive
+1614,excitedness,excitedness,positive
+1615,excitement,kaguluhan,positive
+1616,exciting,nakapupukaw,positive
+1617,excitingly,excitingly,positive
+1618,exclaim,mapabulalas,negative
+1619,excoriate,pintasan ng malala,negative
+1620,excruciating,masakit na masakit,negative
+1621,excruciatingly,excruciatingly,negative
+1622,excusable,maaaring ipatawad,positive
+1623,execrate,kulamin,negative
+1624,exemplar,exemplar,positive
+1625,exemplary,kapuri-puri,positive
+1626,exhilarate,maging masayang-masaya,positive
+1627,exhilarating,exhilarating,positive
+1628,exhilaratingly,exhilaratingly,positive
+1629,exhilaration,galak,positive
+1630,exhort,payuhan,negative
+1631,exonerate,pawalang-sala,positive
+1632,exorbitant,napakamahal,negative
+1633,exorbitantance,exorbitantance,negative
+1634,exorbitantly,exorbitantly,negative
+1635,expansive,malawak,positive
+1636,expertly,expertly,positive
+1637,expire,lumipas,negative
+1638,explicit,malinaw,positive
+1639,explicitly,tahasan,positive
+1640,exploit,maningning na tagumpay,negative
+1641,exploitation,pagsasamantala,negative
+1642,expunge,pumawi,negative
+1643,exquisite,magandang-maganda,positive
+1644,exquisitely,exquisitely,positive
+1645,extemporize,magsalita nang hindi handa,neutral
+1646,extensively,malawak,neutral
+1647,exterminate,lumipol,negative
+1648,extermination,pagpuksa,negative
+1649,extol,itanghal,positive
+1650,extoll,itanghal,positive
+1651,extortion,paghingi nang sapilitan,negative
+1652,extraordinarily,extraordinarily,positive
+1653,extraordinary,pambihira,positive
+1654,extravagance,pag-aaksaya,negative
+1655,extravagant,mapag-aksaya,negative
+1656,extravagantly,extravagantly,negative
+1657,extreme,matindi,negative
+1658,extremely,labis,negative
+1659,exuberance,paghayag ng sobrang saya,positive
+1660,exuberant,masayang-masaya,positive
+1661,exuberantly,exuberantly,positive
+1662,exult,magpakasaya,positive
+1663,exultation,malaking kasayahan,positive
+1664,exultingly,exultingly,positive
+1665,fabrication,katha,negative
+1666,fabulous,hindi kapani-paniwala,positive
+1667,fabulously,fabulously,positive
+1668,facetious,palabiro,negative
+1669,facetiously,pabiro,negative
+1670,fact,katunayan,neutral
+1671,facts,katotohanan,neutral
+1672,failing,bagsak,negative
+1673,fainthearted,fainthearted,negative
+1674,faith,pananampalataya,positive
+1675,faithful,tapat,positive
+1676,faithfully,matapat,positive
+1677,faithfulness,katapatan,positive
+1678,faithless,walang pananampalataya,negative
+1679,fake,pekeng,negative
+1680,fakes,niloloko,negative
+1681,faked,niloko,negative
+1682,fallacies,fallacies,negative
+1683,fallacious,nakakalinlang,negative
+1684,fallaciously,fallaciously,negative
+1685,fallaciousness,pagkamalinlang,negative
+1686,fallacy,kamalian,negative
+1687,fallout,fallout,negative
+1688,false,false,negative
+1689,falsehood,kasinungalingan,negative
+1690,falsely,pasinungaling,negative
+1691,falsify,palsipikahin,negative
+1692,falter,panghinaan ng loob,negative
+1693,fame,katanyagan,positive
+1694,famed,sikat,positive
+1695,famine,gutom,negative
+1696,famished,gutom na gutom,negative
+1697,famously,patanyag,positive
+1698,fanatic,bulag na alagad,negative
+1699,fanatical,papanatiko,negative
+1700,fanatically,fanatically,negative
+1701,fanaticism,panatismo,negative
+1702,fanatics,panatiko,negative
+1703,fanciful,imahinatibo,negative
+1704,fancy,mahumaling,positive
+1705,fanfare,tokata,positive
+1706,fantastic,hindi kapani-paniwala,positive
+1707,fantastically,fantastically,positive
+1708,fantasy,pantasiya,positive
+1709,far-fetched,mula sa imahinasyon,negative
+1710,farfetched,farfetched,negative
+1711,farce,komedya,negative
+1712,farcical,pasaynete,negative
+1713,farcical-yet-provocative,pasaynete-pa-kagalit-galit,negative
+1714,farcically,farcically,negative
+1715,fascinate,gayumahin,positive
+1716,fascinating,nakahahalina,positive
+1717,fascinatingly,fascinatingly,positive
+1718,fascination,pang-akit,positive
+1719,fascism,pasismo,negative
+1720,fascist,pasista,negative
+1721,fashionable,sunod sa moda,positive
+1722,fashionably,fashionably,positive
+1723,fastidious,maselan,negative
+1724,fastidiously,fastidiously,negative
+1725,fastuous,fastuous,negative
+1726,fatalistic,fatalistic,negative
+1727,fatalistically,fatalistically,negative
+1728,fateful,nakamamatay,negative
+1729,fatefully,fatefully,negative
+1730,fathomless,hindi maarok ang lalim,negative
+1731,fatuity,kalokohan,negative
+1732,fatuous,maloko,negative
+1733,fatuously,paloko,negative
+1734,fault,pumuna,negative
+1735,favor,paboran,positive
+1736,favorable,sang-ayon,positive
+1737,favorite,paborito,positive
+1738,fawn,usa,both
+1739,fawningly,fawningly,negative
+1740,favour,paboran,positive
+1741,fear,takot,negative
+1742,fears,natatakot,
+1743,feared,natakot,
+1744,fearful,matatakutin,negative
+1745,fearfully,takot,negative
+1746,fearless,walang takot,positive
+1747,fearlessly,fearlessly,positive
+1748,fears,mga takot,negative
+1749,fearsome,nakakatakot,negative
+1750,featly,featly,positive
+1751,feckless,walang lakas,negative
+1752,feebleminded,mahina ang isip,negative
+1753,feel,pakiramdam,neutral
+1754,feels,nararamdaman,neutral
+1755,felt,pyeltro,neutral
+1756,feeling,pakiramdam,neutral
+1757,feelings,damdamin,neutral
+1758,feisty,Feisty,positive
+1759,felicitate,batiin,positive
+1760,felicitous,nababagay,positive
+1761,felicity,ligaya,positive
+1762,fell,patumbahin,negative
+1763,ferocious,galit na galit,negative
+1764,ferociously,ferociously,negative
+1765,ferocity,bagsik,negative
+1766,fervent,taimtim,positive
+1767,fervently,fervently,positive
+1768,fervid,maalab,positive
+1769,fervidly,fervidly,positive
+1770,fervor,pagkainit,positive
+1771,festive,maligaya,positive
+1772,fetid,mabaho,negative
+1773,fiasco,ganap na kabiguan,negative
+1774,fib,maliit na kasinungalingan,negative
+1775,fibber,sinungaling na tao,negative
+1776,fickle,salawahan,negative
+1777,fictitious,gawa-gawa lamang,negative
+1778,fidelity,katapatan,positive
+1779,fidget,hindi mapakali,negative
+1780,fidgety,hindi mapakali,negative
+1781,fiend,halimaw na tao,negative
+1782,fiendish,napakahayop,negative
+1783,filth,maruruming salita,negative
+1784,filthy,napakarumi,negative
+1785,finally,sa wakas,neutral
+1786,finely,makinis,positive
+1787,first-rate,napakabuti,positive
+1788,fit,akma,positive
+1789,fitting,agpang,positive
+1790,fixer,tagaayos,neutral
+1791,flabbergast,flabbergast,negative
+1792,flabbergasted,tuliro,negative
+1793,flagrant,garapal,negative
+1794,flagrantly,flagrantly,negative
+1795,flak,paputok laban sa eroplano,negative
+1796,flat-out,flat-out,negative
+1797,flatter,purihin nang labis-labis,positive
+1798,flattering,nakakabigay-puri,positive
+1799,flatteringly,flatteringly,positive
+1800,flaunt,ipagparangalan,negative
+1801,flawless,walang kamali-mali,positive
+1802,flawlessly,walang aberya,positive
+1803,fleer,mangungutya,negative
+1804,flexible,nababaluktot,positive
+1805,flighty,may pagkasira-sira,negative
+1806,flimflam,panloloko,negative
+1807,flirt,manlilimbang,negative
+1808,flirty,malandi,negative
+1809,floored,Pino-floor,negative
+1810,flounder,magkumayod,negative
+1811,floundering,floundering,negative
+1812,flourish,lumakas,positive
+1813,flourishing,yumayabong,positive
+1814,flout,pawalang-kabuluhan,negative
+1815,foe,kaaway,negative
+1816,fond,hibang na hibang,positive
+1817,fondly,pakarinyo,positive
+1818,fondness,pagkamatuwain,positive
+1819,fool,lokohin,negative
+1820,foolhardy,walang patumangga,negative
+1821,foolish,sira ang bait,negative
+1822,foolishly,maloko,negative
+1823,foolishness,kagaguhan,negative
+1824,forbid,ipagbawal,negative
+1825,forbidden,ipinagbabawal,negative
+1826,foreboding,agam,negative
+1827,forebodingly,forebodingly,negative
+1828,foremost,nangunguna sa lahat,positive
+1829,forsee,forsee,neutral
+1830,foresight,pag-iintindi sa hinaharap,positive
+1831,foretell,manghula,neutral
+1832,forgave,forgave,positive
+1833,forget,kalimutan,negative
+1834,forgetful,malilimutin,negative
+1835,forgetfully,forgetfully,negative
+1836,forgetfulness,limot,negative
+1837,forgive,magpatawad,positive
+1838,forgives,pinapatawad,positive
+1839,forgave,pinatawad,positive
+1840,forgiven,pinatawad,positive
+1841,forgiveness,kapatawaran,positive
+1842,forgiving,mapagpatawad,positive
+1843,forgivingly,forgivingly,positive
+1844,forlorn,napapabayaan,negative
+1845,forlornly,forlornly,negative
+1846,formidable,mahirap talunin,negative
+1847,forsake,pabayaan,negative
+1848,forsaken,tinalikdan,negative
+1849,forswear,sumira sa pangako,negative
+1850,fortitude,tibay ng loob,positive
+1851,fortress,muog,neutral
+1852,fortuitous,nagkataon,positive
+1853,fortuitously,nagkataon,positive
+1854,fortunate,masuwerte,positive
+1855,fortunately,sa kabutihang-palad,positive
+1856,fortune,kapalaran,positive
+1857,foul,napakarumi,negative
+1858,foully,mabaho,negative
+1859,foulness,pagkadumi,negative
+1860,fractious,praksiyus,negative
+1861,fractiously,fractiously,negative
+1862,fragrant,masamyo,positive
+1863,frank,berbal,positive
+1864,frankly,nang tapat,neutral
+1865,frantic,galit na galit,negative
+1866,frantically,frantically,negative
+1867,franticly,franticly,negative
+1868,fraternize,makipagkapatiran,negative
+1869,fraught,lipos,negative
+1870,freak,taong kakatuwa,negative
+1871,freakish,nakakatakot,negative
+1872,freakishly,freakishly,negative
+1873,frazzle,magkagutay-gatay,negative
+1874,frazzled,frazzled,negative
+1875,frenetic,masilakbo,negative
+1876,frenetically,frenetically,negative
+1877,frenzied,ulol,negative
+1878,frenzy,siklab ng galit,negative
+1879,fret,mag-alaala,negative
+1880,fretful,mayamutin,negative
+1881,friction,pagkikiskisan,negative
+1882,frictions,frictions,negative
+1883,friendliness,pagkamagiliw,positive
+1884,friendly,magiliw,positive
+1885,friggin,friggin,negative
+1886,fright,biglang gulat,negative
+1887,frighten,takutin,negative
+1888,frightening,nakakatakot,negative
+1889,frighteningly,frighteningly,negative
+1890,frightful,katakot-takot,negative
+1891,frightfully,pasindak,negative
+1892,frivolous,walang gaanong kabuluhan,negative
+1893,frolic,nagsasaya,positive
+1894,frown,hindi sumang-ayon,negative
+1895,fruitless,walang bunga,negative
+1896,fruitlessly,fruitlessly,negative
+1897,fun,magsaya,negative
+1898,frustrate,bumigo,negative
+1899,frustrated,bigo,negative
+1900,frustrating,nakakabigo,negative
+1901,frustratingly,frustratingly,negative
+1902,frustration,pagkabigo,negative
+1903,fudge,gawing kalokohan,negative
+1904,fulminate,tumuligsa,negative
+1905,fume,asap,negative
+1906,fundamental,saligan,neutral
+1907,fundamentally,sa panimula,neutral
+1908,funny,nakakatawa,positive
+1909,furious,galit na galit,negative
+1910,furiously,furiously,negative
+1911,furor,pagkakagulo,negative
+1912,furthermore,at saka,neutral
+1913,fury,pagngangalit ng bagyo,negative
+1914,fuss,manligalig,negative
+1915,fustigate,magsulat ng palabis,negative
+1916,fussy,masyadong delikado,negative
+1917,fusty,niluma,negative
+1918,futile,walang kapararakan,negative
+1919,futilely,futilely,negative
+1920,futility,pagkawalang-saysay,negative
+1921,gabble,magsasatsat,negative
+1922,gaff,taga,negative
+1923,gaffe,gaffe,negative
+1924,gaiety,pagkabakla,positive
+1925,gaily,tuwang-tuwa,positive
+1926,gainful,mapagtutubuan,positive
+1927,gainfully,gainfully,positive
+1928,gainsay,tumutol,negative
+1929,gainsayer,gainsayer,negative
+1930,gaga,mangha,negative
+1931,gaggle,grupo ng pabo,negative
+1932,gall,sama ng loob,negative
+1933,gallant,mag-ilas na manliligaw,positive
+1934,gallantly,gallantly,positive
+1935,galling,nakayayamot,negative
+1936,gallingly,gallingly,negative
+1937,galore,masagana,positive
+1938,gape,mapatunganga,negative
+1939,garish,mahalay,negative
+1940,gasp,paghahabol ng hihinga,negative
+1941,gauche,mahalay,negative
+1942,gaudy,matingkad,negative
+1943,gawk,tulala,negative
+1944,gawky,masamang kumilos,negative
+1945,geezer,matanda,negative
+1946,generosity,pagkabukas-palad,positive
+1947,generous,bukas-palad,positive
+1948,generously,generously,positive
+1949,genius,likas na kakayahan,positive
+1950,genocide,pagpatay ng lahi,negative
+1951,get-rich,makakuha ng mayaman,negative
+1952,ghastly,parang multo,negative
+1953,gibber,magsasatsat,negative
+1954,gibberish,satsat,negative
+1955,gibe,mang-aglahi,negative
+1956,giddy,salawahan,positive
+1957,gifted,likas na matalino,positive
+1958,glad,natutuwa,positive
+1959,gladden,sumaya,positive
+1960,gladly,masaya,positive
+1961,gladness,galak,positive
+1962,glamorous,mapanghalina,positive
+1963,glare,liwanag na nakasisilaw,negative
+1964,glaring,nakasisilaw,negative
+1965,glaringly,nandidilat,negative
+1966,glean,pulutin,neutral
+1967,glee,saya,positive
+1968,gleeful,masayahin,positive
+1969,gleefully,tuwang-tuwa,positive
+1970,glib,masarap lamang sa pandinig,negative
+1971,glibly,matatas,negative
+1972,glimmer,kislap,positive
+1973,glimmering,kutitaptap,positive
+1974,glisten,pagkislap,positive
+1975,glistening,kumikislap,positive
+1976,glitter,kuminang,positive
+1977,gloat,ikalugod,both
+1978,gloatingly,malugod,negative
+1979,gloom,lagim,negative
+1980,gloomy,malungkot,negative
+1981,glorify,luwalhatiin,positive
+1982,glorious,maluwalhati,positive
+1983,gloriously,gloriously,positive
+1984,glory,kaluwalhatian,positive
+1985,gloss,pagpapakitang-tao,negative
+1986,glossy,makintab,positive
+1987,glow,mamula-mula,positive
+1988,glower,galit na tao,negative
+1989,glowing,pagkinang,positive
+1990,glowingly,glowingly,positive
+1991,glum,walang imik,negative
+1992,goad,pantaboy,negative
+1993,goading,goading,negative
+1994,god-awful,diyos-kakila-kilabot,negative
+1995,god-given,diyos-given,positive
+1996,goddam,goddam,negative
+1997,goddamn,goddamn,negative
+1998,godlike,tulad ng diyos,positive
+1999,goodness,kabutihan,positive
+2000,goodwill,tapat na kalooban,positive
+2001,goof,loko,negative
+2002,gorgeous,napakarilag,positive
+2003,gorgeously,gorgeously,positive
+2004,gossip,tsismis,negative
+2005,grace,pagpapala,positive
+2006,graceful,magandang kumilos,positive
+2007,gracefully,maganda,positive
+2008,graceless,walang karikitan,negative
+2009,gracelessly,gracelessly,negative
+2010,gracious,mapagbigay-loob,positive
+2011,graciously,marikit,positive
+2012,graciousness,pagka-mapagbigay-loob,positive
+2013,grandeur,kadakilaan,positive
+2014,grandiose,engrande,negative
+2015,grate,lagyan ng rehas,negative
+2016,grateful,tumatanaw ng utang na loob,positive
+2017,gratefully,mapasalamat,positive
+2018,gratification,pagbibigay-kasiyahan,positive
+2019,gratify,bigyang-kasiyahan,positive
+2020,gratifying,gratifying,positive
+2021,gratifyingly,gratifyingly,positive
+2022,grating,parilya,negative
+2023,gratitude,pagkilala ng utang na loob,positive
+2024,gratuitous,walang batayan,negative
+2025,gratuitously,gratuitously,negative
+2026,grave,libingan,negative
+2027,gravely,seriyoso,negative
+2028,great,malaki,positive
+2029,greatest,kalubus-lubusan,positive
+2030,greatly,labis,neutral
+2031,greatness,kadakilaan,positive
+2032,greed,kasibaan,negative
+2033,greedy,matakaw,negative
+2034,greet,bumati,positive
+2035,grief,lungkot,negative
+2036,grievance,karaingan,negative
+2037,grievances,grievances,negative
+2038,grieve,makalungkot,negative
+2039,grieves,grieves,negative
+2040,grieving,grieving,negative
+2041,grievous,mahirap tiisin,negative
+2042,grievously,madalamhati,negative
+2043,grim,mabangis,negative
+2044,grimace,pagngiwi,negative
+2045,grin,ngiti,positive
+2046,grind,gumiling,negative
+2047,gripe,sama ng loob,negative
+2048,grisly,karumal-dumal,negative
+2049,grit,tigas ng loob,positive
+2050,grossly,mahalay,negative
+2051,grotesque,lubhang kakatuwa,negative
+2052,grouch,tampo,negative
+2053,grouchy,matampuhin,negative
+2054,groundbreaking,groundbreaking,positive
+2055,groundless,walang katwiran,negative
+2056,grouse,pag-angal,negative
+2057,growl,magmaktol,negative
+2058,grudge,sama ng loob,negative
+2059,grudges,grudges,negative
+2060,grudging,masama ang loob,negative
+2061,grudgingly,masama sa loob,negative
+2062,gruesome,nakasusuklam,negative
+2063,gruesomely,gruesomely,negative
+2064,gruff,magaspang,negative
+2065,grumble,bumulung-bulong,negative
+2066,guile,lalang,negative
+2067,guilt,pagkakasala,negative
+2068,guiltless,walang kasalanan,positive
+2069,guiltily,makasalanan,negative
+2070,gullible,mapaniwalain,negative
+2071,gumption,gumption,positive
+2072,gusto,sarap,positive
+2073,gutsy,gutsy,positive
+2074,haggard,mukhang may sakit,negative
+2075,haggle,pagtalunan,negative
+2076,haha,haha,positive
+2077,hahaha,hahaha,positive
+2078,hahahah,hahahah,positive
+2079,hail,ulang may yelo,positive
+2080,halcyon,matiwasay,positive
+2081,hale,mabuti ang katawan,positive
+2082,halfhearted,halfhearted,negative
+2083,halfheartedly,halfheartedly,negative
+2084,hallowed,hallowed,positive
+2085,hallucinate,maghalusinasyon,negative
+2086,hallucination,guniguni,negative
+2087,hamper,makapigil,negative
+2088,hamstring,pilayan,negative
+2089,hamstrung,hamstrung,negative
+2090,handily,handily,positive
+2091,handsome,makisig,positive
+2092,handy,sanay,positive
+2093,hanker,mithiin,positive
+2094,hapless,kulang-palad,negative
+2095,happily,sa kabutihang-palad,positive
+2096,happiness,kaligayahan,positive
+2097,happy,masaya,positive
+2098,harangue,mainit na talumpati,negative
+2099,harassment,panliligalig,negative
+2100,hard-line,hard-line,negative
+2101,hard-liner,panatiko,negative
+2102,hardball,hardball,negative
+2103,hardheaded,hardheaded,negative
+2104,hardhearted,hardhearted,negative
+2105,hardier,hardier,positive
+2106,hardly,para bagang,negative
+2107,hardship,hirap,negative
+2108,hardships,hardships,negative
+2109,harm,pinsala,negative
+2110,harmful,mapaminsala,negative
+2111,harmless,hindi makasasama,positive
+2112,harmonious,magkabagay,positive
+2113,harmoniously,harmoniously,positive
+2114,harmonize,ilagay sa armonya,positive
+2115,harmony,masarap na pagsasamahan,positive
+2116,harms,harms,negative
+2117,harpy,suwapang,negative
+2118,harridan,harridan,negative
+2119,harried,harried,negative
+2120,harrow,magparagos,negative
+2121,harsh,masakit sa tainga,negative
+2122,harshly,malupit,negative
+2123,hassle,gulo,negative
+2124,haste,pagmamadali,negative
+2125,hasty,walang isip-isip,negative
+2126,hate,pagkamuhi,negative
+2127,hates,galit,negative
+2128,hated,nagalit,negative
+2129,hater,hater,negative
+2130,hateful,nakamumuhi,negative
+2131,hatefully,hatefully,negative
+2132,hatefulness,hatefulness,negative
+2133,haughtily,mapagmataas,negative
+2134,haughty,mapagmalaki,negative
+2135,hatred,galit,negative
+2136,haunting,kalagim-lagim,negative
+2137,haven,panganlungan ng mga bapor,positive
+2138,havoc,wasak,negative
+2139,hawkish,hawkish,negative
+2140,heady,nakakalasing,positive
+2141,healthful,nakapagpapalusog,positive
+2142,heartbreak,dalamhati,negative
+2143,heartbreaker,heartbreaker,negative
+2144,heartbreaking,nakakasakit ng damdamin,negative
+2145,heartbreakingly,heartbreakingly,negative
+2146,hearten,buhayin ang loob,positive
+2147,heartening,heartening,positive
+2148,heartfelt,mataos,positive
+2149,heartily,nang buong kasiyahan,positive
+2150,heartless,walang puso,negative
+2151,heartrending,makabagbag-damdamin,negative
+2152,heartwarming,nakakabagbag-damdamin,positive
+2153,heathen,pagano,negative
+2154,heavenly,sa langit,positive
+2155,heavily,mabigat,negative
+2156,heavy-handed,malupit,negative
+2157,heavyhearted,heavyhearted,negative
+2158,heck,ano ba,negative
+2159,heckle,mangantiyaw,negative
+2160,hedge,halamang-bakod,negative
+2161,hedonistic,hedonistic,negative
+2162,heedless,walang pag-iintindi,negative
+2163,hegemonistic,hegemonistic,negative
+2164,hegemony,pananakop,negative
+2165,heinous,kasuklam-suklam,negative
+2166,hell,impyerno,negative
+2167,hell-bent,impiyerno-baluktot,negative
+2168,hellion,hellion,negative
+2169,herald,tagapagbando,positive
+2170,heresy,maling pananampalataya,negative
+2171,heretic,erehe,negative
+2172,heretical,erehe,negative
+2173,hero,bayani,positive
+2174,heroic,nagpapakilala ng kabayanihan,positive
+2175,heroically,heroically,positive
+2176,heroine,magiting na babae,positive
+2177,heroize,heroize,positive
+2178,heros,heros,positive
+2179,hesitant,nag-aalangan,negative
+2180,hideous,kahindik-hindik,negative
+2181,hideously,hideously,negative
+2182,hideousness,pagkakilabot,negative
+2183,highlight,i-highlight,positive
+2184,hilarious,maingay at masaya,positive
+2185,hilariously,hilariously,positive
+2186,hilariousness,hilariousness,positive
+2187,hilarity,maingay na pagsasaya,positive
+2188,hinder,mang-abala,negative
+2189,hindrance,istorbo,negative
+2190,hm,Hm,neutral
+2191,hmm,Hmm,neutral
+2192,hoard,magtipon,negative
+2193,hoax,salamangkahin,negative
+2194,hollow,guwang,negative
+2195,homage,pamimintuho,positive
+2196,honest,matapat,positive
+2197,honestly,matapat,positive
+2198,honesty,katapatan,positive
+2199,honor,karangalan,positive
+2200,honorable,kagalang-galang,positive
+2201,hoodwink,malinlang,negative
+2202,hope,inaasahan,positive
+2203,hopeful,may pag-asa,positive
+2204,hopefully,sana,positive
+2205,hopefulness,pagiging maasahin,positive
+2206,hopeless,nawawalan ng pag-asa,negative
+2207,hopelessly,hopelessly,negative
+2208,hopelessness,kawalan ng pag-asa,negative
+2209,hopes,pag-asa,positive
+2210,hopes,umaasa,positive
+2211,horrendous,horrendous,negative
+2212,horrendously,horrendously,negative
+2213,horrible,kalagim-lagim,negative
+2214,horribly,horribly,negative
+2215,horrid,kasindak-sindak,negative
+2216,horrific,kasuklam-suklam,negative
+2217,horrifically,horrifically,negative
+2218,horrify,manginig sa takot,negative
+2219,horrifying,Kahindik,negative
+2220,horrifyingly,horrifyingly,negative
+2221,horror,panginginig sa takot,negative
+2222,horrors,horrors,negative
+2223,hospitable,magiliw sa mga panauhin,positive
+2224,hostility,poot,negative
+2225,hothead,mainit ang ulo,negative
+2226,hotheaded,mainit ang ulo,negative
+2227,hotbeds,hotbeds,negative
+2228,hubris,hubris,negative
+2229,huckster,maglako,negative
+2230,hug,mangapit,positive
+2231,humane,hindi malupit,positive
+2232,humankind,katauhan,positive
+2233,humble,mapagpakumbaba,positive
+2234,humbling,humbling,negative
+2235,humiliate,manghiya,negative
+2236,humiliating,nakakahiya,negative
+2237,humiliation,panghihiya,negative
+2238,humility,kababaang-loob,positive
+2239,humor,katatawanan,positive
+2240,humorous,nakakatawa,positive
+2241,humorously,humorously,positive
+2242,humour,katatawanan,positive
+2243,humourous,humourous,positive
+2244,hunger,magutom,negative
+2245,hypocrisy,hindi katapatan,negative
+2246,hypocrite,mapagpaimbabaw,negative
+2247,hypocrites,hypocrites,negative
+2248,hypocritical,mapagkunwari,negative
+2249,hypocritically,hypocritically,negative
+2250,hysteria,isterismo,negative
+2251,hysteric,hysteric,negative
+2252,hysterical,masayang-maingay,negative
+2253,hysterically,hysterically,negative
+2254,hysterics,pagka-isteriko,negative
+2255,ideal,tamang-tama,positive
+2256,idealize,uliranin,positive
+2257,ideally,sa isip,positive
+2258,idiocies,idiocies,negative
+2259,idiocy,pagkasintu-sinto,negative
+2260,idiot,tulala,negative
+2261,idiotic,walang kahulugan,negative
+2262,idiotically,idiotically,negative
+2263,idiots,idiots,negative
+2264,idol,idolo,positive
+2265,idolize,pakamahalin,positive
+2266,idolized,idolized,positive
+2267,idyllic,payapa't maligaya,positive
+2268,ignoble,walang puri,negative
+2269,ignominious,kahiya-hiya,negative
+2270,ignominiously,ignominiously,negative
+2271,ignominy,kahihiyan,negative
+2272,ignorance,kamangmangan,negative
+2273,ignorant,walang pinag-aralan,negative
+2274,ignorant,bobo,negative
+2275,ignorant,bobing,negative
+2276,ill-advised,walang ingat,negative
+2277,ill-conceived,may masamang conceived,negative
+2278,ill-fated,malas,negative
+2279,ill-favored,pangit,negative
+2280,ill-mannered,walang modo,negative
+2281,ill-natured,mainit ang ulo,negative
+2282,ill-sorted,masamang pinili,negative
+2283,ill-tempered,mainit ang ulo,negative
+2284,ill-treated,amis,negative
+2285,ill-treatment,may masamang pakikitungo,negative
+2286,ill-usage,may masamang paggamit,negative
+2287,ill-used,may masamang ginamit,negative
+2288,illogic,illogic,negative
+2289,illogical,hindi makatwiran,negative
+2290,illogically,illogically,negative
+2291,illuminate,patamaan ng liwanag,positive
+2292,illuminati,illuminati,positive
+2293,illuminating,pagbibigay,positive
+2294,illumine,mag-ilaw,positive
+2295,illusion,ilusyon,negative
+2296,illusions,illusions,negative
+2297,illusory,hindi tunay,negative
+2298,illustrious,bantog,positive
+2299,imaginary,nasa isip,negative
+2300,imagination,imahinasyon,neutral
+2301,imaginative,mapanlikha,positive
+2302,imagine,mag-akala,neutral
+2303,imbalance,kawalan ng timbang,negative
+2304,imbecile,tangang tao,negative
+2305,imbroglio,mabigat na hidwaan,negative
+2306,immaculate,malinis na malinis,positive
+2307,immaculately,immaculately,positive
+2308,immaterial,pangkaluluwa,negative
+2309,immediately,agad,neutral
+2310,immensely,napakalaki,neutral
+2311,immensity,imensidad,neutral
+2312,immensurable,immensurable,neutral
+2313,imminence,panganib,negative
+2314,imminent,malamang na dumating agad,negative
+2315,imminently,imminently,negative
+2316,immoderate,walang tuto,negative
+2317,immoderately,immoderately,negative
+2318,immodest,hindi mahinhin,negative
+2319,immoral,imoral,negative
+2320,immorality,kasalaulaan,negative
+2321,immorally,immorally,negative
+2322,immovable,hindi magagalaw,negative
+2323,impair,pahinain,negative
+2324,impaired,pinahina,negative
+2325,impasse,hindi pagkakasundo,negative
+2326,impassioned,makabagbag-puso,positive
+2327,impatience,pagkayamot,negative
+2328,impatient,walang tiyaga,negative
+2329,impatiently,impatiently,negative
+2330,impeach,taluwalagin,negative
+2331,impeccable,hindi maaaring magkamali,positive
+2332,impeccably,impeccably,positive
+2333,impede,sumagabal,negative
+2334,impedance,impedance,negative
+2335,impediment,depekto sa pagsasalita,negative
+2336,impel,magtulak,positive
+2337,impending,nagbabala,negative
+2338,impenitent,walang pagsisisi,negative
+2339,imperative,hindi maiwasan,neutral
+2340,imperatively,imperatively,neutral
+2341,imperialist,imperyalista,negative
+2342,imperil,magsapanganib,negative
+2343,imperious,mapagmataas,negative
+2344,imperiously,imperiously,negative
+2345,impertinent,walang hiya,negative
+2346,imperturbable,walang gulat,positive
+2347,impervious,hindi naniniwala sa pangangatwiran,positive
+2348,impetuous,magahasa,negative
+2349,impetuously,impetuously,negative
+2350,impiety,kawalang-galang sa diyos,negative
+2351,impinge,mabangga,negative
+2352,impious,walang galang sa diyos,negative
+2353,implacable,walang awa,negative
+2354,implausible,hindi kapani-paniwala,negative
+2355,implausibly,implausibly,negative
+2356,implode,pumutok sa loob,negative
+2357,implore,pamanhikan,both
+2358,imploring,imploring,both
+2359,imploringly,nagsusumamo,both
+2360,imply,magpahiwatig,neutral
+2361,impolite,walang pinag-aralan,negative
+2362,impolitely,impolitely,negative
+2363,impolitic,hindi mabuti,negative
+2364,importunate,masigasig siya sa paghingi ng pera,negative
+2365,importune,ulit-ulitin,negative
+2366,impose,magpataw,negative
+2367,imposes,nagpapataw,negative
+2368,imposed,nagpataw,negative
+2369,imposers,imposers,negative
+2370,imposition,pagpapataw,negative
+2371,impotent,walang kaya,negative
+2372,impractical,hindi maisasagawa,negative
+2373,imprecate,sumumpa,negative
+2374,impregnable,hindi maigugupo,positive
+2375,impressive,kahanga-hanga,positive
+2376,impressively,impressively,positive
+2377,impressiveness,katingkaran,positive
+2378,improbability,improbabilidad,negative
+2379,improbable,malamang na hindi totoo,negative
+2380,improbably,improbably,negative
+2381,improper,hindi tama,negative
+2382,improperly,hindi tama,negative
+2383,impropriety,kawalan ng kaangkupan,negative
+2384,improvise,gumawa agad,positive
+2385,imprudence,kawalan ng hinahon,negative
+2386,imprudent,pabigla-bigla,negative
+2387,impudence,kawalang-hiyaan,negative
+2388,impudent,walang hiya,negative
+2389,impudently,impudently,negative
+2390,impugn,pag-alinlanganan,negative
+2391,impulsive,pabigla-bigla,negative
+2392,impulsively,pabigla-bigla,negative
+2393,impure,hindi malinis,negative
+2394,impurity,kasalaulaan,negative
+2395,inaccurate,mali-mali,negative
+2396,inaccurately,hindi tumpak,negative
+2397,inane,walang kabuluhan,negative
+2398,inanely,inanely,negative
+2399,inappropriate,hindi naaangkop,negative
+2400,inappropriately,hindi naaangkop,negative
+2401,inapt,hindi bagay,negative
+2402,inaptitude,kawalan ng sanay,negative
+2403,inarguable,inarguable,neutral
+2404,inarguably,inarguably,neutral
+2405,inarticulate,hindi makapagsalita,negative
+2406,inattentive,hindi nag-iintindi,negative
+2407,incapable,walang kaya,negative
+2408,incapably,incapably,negative
+2409,incautious,pabigla-bigla,negative
+2410,incendiary,sumusunog,negative
+2411,incessant,walang humpay,negative
+2412,incessantly,walang pahinga,negative
+2413,incisive,masakit,positive
+2414,incisively,incisively,positive
+2415,incisiveness,incisiveness,positive
+2416,incivility,kawalan ng pinag-aralan,negative
+2417,inclination,pagkahilig,positive
+2418,inclinations,inclinations,positive
+2419,inclined,nakakiling,positive
+2420,incognizant,incognizant,negative
+2421,incoherence,kawalang-kawawaan,negative
+2422,incoherent,walang pagkakaugnay-ugnay,negative
+2423,incoherently,incoherently,negative
+2424,incommensurate,mapapantayan,negative
+2425,incompetence,kawalan ng kakayahan,negative
+2426,incompetent,walang kaya,negative
+2427,incompetently,incompetently,negative
+2428,incomprehensible,hindi kayang unawain,negative
+2429,incomprehension,kawalan ng pag-unawa,negative
+2430,inconceivable,hindi iisipin,negative
+2431,inconceivably,inconceivably,negative
+2432,incongruous,hindi bagay,negative
+2433,incongruously,incongruously,negative
+2434,inconsequent,walang kaugnayan,negative
+2435,inconsequently,inconsequently,negative
+2436,inconsequential,hindi makatwiran,negative
+2437,inconsequentially,inconsequentially,negative
+2438,inconsiderate,walang pakundangan,negative
+2439,inconsiderately,inconsiderately,negative
+2440,inconsistence,inconsistence,negative
+2441,inconsistencies,hindi pagkakapare-pareho,negative
+2442,inconsolable,hindi maaliw-aliw,negative
+2443,inconsolably,inconsolably,negative
+2444,inconstant,paiba-iba,negative
+2445,incontestable,hindi mapag-aalinlanganan,positive
+2446,incontrovertible,hindi mapag-aalinlanganan,positive
+2447,inconvenience,abala,negative
+2448,inconvenient,pang-abala,negative
+2449,inconveniently,inconveniently,negative
+2450,incorrectly,nang hindi wasto,negative
+2451,incorrigible,hindi na mababago,negative
+2452,incorrigibly,incorrigibly,negative
+2453,incorruptible,hindi masisira,positive
+2454,incredible,hindi mapaniniwalaan,positive
+2455,incredibly,hindi mapaniniwalaan o kapani-paniwala,positive
+2456,incredulous,ayaw maniwala,negative
+2457,incredulously,incredulously,negative
+2458,inculcate,itanim sa isip,negative
+2459,indecency,halay,negative
+2460,indecent,bastos,negative
+2461,indecently,indecently,negative
+2462,indecision,pag-aatubili,negative
+2463,indecisive,urong-sulong,negative
+2464,indecisively,indecisively,negative
+2465,indecorum,paglabag ng kagandahang-asal,negative
+2466,indeed,sa katunayan,neutral
+2467,indefatigable,hindi marunong mapagod,positive
+2468,indefensible,hindi maipagtatanggol,negative
+2469,indelible,hindi napapawi,positive
+2470,indelibly,indelibly,positive
+2471,indelicate,mahalay,negative
+2472,indescribable,mailarawan o maipaliwanag,positive
+2473,indescribably,indescribably,positive
+2474,indestructible,hindi masisira,positive
+2475,indicative,pinagkakilanlan,neutral
+2476,indifference,kalamigan ng loob,negative
+2477,indifferent,malamig ang loob,negative
+2478,indignant,nagngingitngit,negative
+2479,indignantly,nagagalit,negative
+2480,indignation,galit,negative
+2481,indignity,kawalang-dangal,negative
+2482,indiscreet,pabigla-bigla,negative
+2483,indiscreetly,indiscreetly,negative
+2484,indiscretion,kakulangan ng mabuting pasya,negative
+2485,indiscriminate,walang pinipili,negative
+2486,indiscriminating,indiscriminating,negative
+2487,indiscriminately,nang walang pili-pili,negative
+2488,indispensable,kailangang-kailangan,positive
+2489,indispensability,indispensability,positive
+2490,indisposed,walang gana,negative
+2491,indisputable,hindi mapag-aalinlanganan,positive
+2492,indoctrinate,turuan paniniwala,negative
+2493,indoctrination,pagtuturo ng doktrina,negative
+2494,indolent,matigas ang katawan,negative
+2495,indomitable,matigas,positive
+2496,indomitably,indomitably,positive
+2497,indubitable,hindi mapag-aalinlanganan,positive
+2498,indubitably,indubitably,positive
+2499,indulge,magpakasawa,negative
+2500,indulgence,utang na loob,positive
+2501,indulgent,masyadong mapagbigay,positive
+2502,inefficacious,walang bisa,negative
+2503,inefficacy,kawalan ng epekto,negative
+2504,inelegance,kawalang-kisig,negative
+2505,inelegant,hindi makisig,negative
+2506,ineloquent,ineloquent,negative
+2507,ineloquently,ineloquently,negative
+2508,inept,wala sa ayos,negative
+2509,ineptitude,kawalan ng kabagayan,negative
+2510,ineptly,ineptly,negative
+2511,inequality,hindi pagkakapantay o pagkakapantay-pantay,negative
+2512,inequitable,hindi makatarungan,negative
+2513,inequitably,inequitably,negative
+2514,inequities,inequities,negative
+2515,inescapable,hindi maiwasan,negative
+2516,inescapably,inescapably,negative
+2517,inessential,hindi importante,negative
+2518,inestimable,hindi mataya,positive
+2519,inestimably,inestimably,positive
+2520,inevitable,walang mintis,negative
+2521,inevitably,hindi maaaring hindi,negative
+2522,inexcusable,hindi mapagpapaumanhinan,negative
+2523,inexcusably,inexcusably,negative
+2524,inexorable,hindi matinag,negative
+2525,inexorably,inexorably,negative
+2526,inexpiable,hindi mapagbabayaran,negative
+2527,inexplainable,inexplainable,negative
+2528,inexplicable,hindi maipaliliwanag,negative
+2529,inextricable,hindi malulutas,negative
+2530,inextricably,inextricably,negative
+2531,infallible,hindi maaaring magkamali,positive
+2532,infallibly,infallibly,positive
+2533,infallibility,hindi pagkakamali,positive
+2534,infamous,walang hiya,negative
+2535,infamously,infamously,negative
+2536,infamy,labis na kasamaan,negative
+2537,infatuated,hibang sa pag-ibig,both
+2538,infer,magpakilala,neutral
+2539,inferior,bulok,negative
+2540,inferiority,kababaan ng uri,negative
+2541,infernal,makademonyo,negative
+2542,infidel,taong hindi naniniwala sa relihiyon,negative
+2543,infidels,infidels,negative
+2544,infirm,mahina ang loob,negative
+2545,inflame,papag-alabin,negative
+2546,inflammatory,nagpapasiklab,negative
+2547,inflexible,hindi mabaluktot,negative
+2548,inflict,pahirapan,negative
+2549,infringe,lumabag,negative
+2550,infringement,paglabag,negative
+2551,infringements,mga paglabag,negative
+2552,infuriate,papagsiklabin sa galit,negative
+2553,infuriates,ginagalit,negative
+2554,infuriated,ginalit,negative
+2555,infuriating,nagpapasiklab sa galit,negative
+2556,infuriatingly,infuriatingly,negative
+2557,ingenious,mapanlikha,positive
+2558,ingeniously,ingeniously,positive
+2559,ingenuity,talino sa paglikha,positive
+2560,ingenuous,walang malay sa masama,positive
+2561,ingenuously,ingenuously,positive
+2562,inglorious,hindi marangal,negative
+2563,ingrate,taong walang utang na loob,negative
+2564,ingratiate,magmapuri,positive
+2565,ingratiating,kaakit-akit,positive
+2566,ingratiatingly,nang kaakit-akit,positive
+2567,ingratitude,hindi pagtanaw ng utang na loob,negative
+2568,inherent,likas,neutral
+2569,inhospitable,masamang ugali sa panauhin,negative
+2570,inhospitality,inhospitality,negative
+2571,inhuman,hindi makatao,negative
+2572,inhumane,malupit,negative
+2573,inhumanity,kawalan ng damdamin,negative
+2574,inimical,nalalabag,negative
+2575,inimically,inimically,negative
+2576,iniquitous,napakawalang-katarungan,negative
+2577,iniquity,mabigat na pagkakasala,negative
+2578,injudicious,marapat,negative
+2579,injustice,kawalan ng katarungan,negative
+2580,injustices,injustices,negative
+2581,inkling,sapantaha,neutral
+2582,inklings,inklings,neutral
+2583,innocuous,hindi nakasasama,positive
+2584,innuendo,parinig,negative
+2585,inoffensive,hindi nakasasakit,positive
+2586,inopportune,hindi bagay,negative
+2587,inordinate,sobra,negative
+2588,inordinately,inordinately,negative
+2589,inquisitive,matanong,positive
+2590,insane,basag ang pula,negative
+2591,insanely,insanely,negative
+2592,insanity,pagkasira ng ulo,negative
+2593,insatiable,walang kabusugan,negative
+2594,insecurity,kawalan ng kapanatagan,negative
+2595,insensitive,walang nararamdaman,negative
+2596,insensitively,insensitively,negative
+2597,insensitivity,kawalan ng damdamin,negative
+2598,insidious,lihim na mapanira,negative
+2599,insidiously,insidiously,negative
+2600,insight,maliwanag na pagkaunawa,positive
+2601,insightful,#NAME?,positive
+2602,insightfully,insightfully,positive
+2603,insights,mga pananaw,neutral
+2604,insincere,walang katapatan,negative
+2605,insincerely,insincerely,negative
+2606,insincerity,kawalan ng katapatan,negative
+2607,insinuate,magparamdam,negative
+2608,insinuating,insinuating,negative
+2609,insinuation,paramdam,negative
+2610,insist,gumitgit,positive
+2611,insistent,mapilit,positive
+2612,insistently,insistently,positive
+2613,insociable,insociable,negative
+2614,insolence,kawalang-hiyaan,negative
+2615,insolent,walang galang,negative
+2616,insolently,insolently,negative
+2617,insouciance,pagkapabaya,negative
+2618,inspiration,inspirasyon,positive
+2619,inspirational,Pampasigla,positive
+2620,inspire,magbigay ng inspirasyon,positive
+2621,inspires,inspires,positive
+2622,inspiring,nakasisigla,positive
+2623,instigate,umapoyo,negative
+2624,instigator,manunulsol,negative
+2625,instigators,instigators,negative
+2626,insubstantial,sa guniguni lamang,negative
+2627,insubstantially,insubstantially,negative
+2628,insufferable,hindi mabata,negative
+2629,insufferably,insufferably,negative
+2630,insult,mang-insulto,negative
+2631,insults,ininsulto,negative
+2632,insulted,inalipusta,negative
+2633,insulting,mapanlait,negative
+2634,insultingly,insultingly,negative
+2635,insupportable,hindi makatwiran,negative
+2636,insupportably,insupportably,negative
+2637,integrity,integridad,positive
+2638,intelligent,matalas ang isip,positive
+2639,intelligible,naiintindihan,positive
+2640,interesting,kawili-wili,positive
+2641,intimacy,pagpapalagayang-loob,positive
+2642,intimate,kilalang-kilala,neutral
+2643,intimidating,intimidating,negative
+2644,intimidatingly,intimidatingly,negative
+2645,intolerable,hindi matitiis,negative
+2646,intolerablely,intolerablely,negative
+2647,intolerance,hindi pagpaparaan,negative
+2648,intolerant,intolerante,negative
+2649,intransigence,intransigence,negative
+2650,intransigent,hindi mapagkakasundo,negative
+2651,intrigue,makatawag ng pansin,positive
+2652,intriguing,nag-iintriga,positive
+2653,intriguingly,intriguingly,positive
+2654,intrude,pumasok nang walang pahintulot,negative
+2655,intrusive,pang-abala,negative
+2656,intuitive,madaling maunawaan,positive
+2657,inundate,umapaw,negative
+2658,inundated,inundated,negative
+2659,invalid,walang bisa,negative
+2660,invalidate,magpawalang-bisa,negative
+2661,invalidity,kawalang-bisa,negative
+2662,invaluable,walang kasinghalaga,positive
+2663,invaluablely,invaluablely,positive
+2664,invective,pagmumura,negative
+2665,inveigle,umakit,negative
+2666,invidious,kainis-inis,negative
+2667,invidiously,invidiously,negative
+2668,invidiousness,invidiousness,negative
+2669,invigorating,nakapagpapalakas,positive
+2670,invincibility,kawalan ng kayang magagapi,positive
+2671,invincible,walang talo,positive
+2672,inviolable,hindi malalabag,positive
+2673,inviolate,hindi nalalabag,positive
+2674,invulnerable,hindi tinatablan,positive
+2675,irate,nagagalit,negative
+2676,irately,irately,negative
+2677,ire,pagkagalit,negative
+2678,irk,mabuwisit,negative
+2679,irked,irked,negative
+2680,irksome,nakapagsasawa,negative
+2681,ironic,mapanuya,negative
+2682,ironies,ironies,negative
+2683,irony,kabalintunaan,negative
+2684,irrational,hindi makatwiran,negative
+2685,irrationality,kalabagan sa katwiran,negative
+2686,irrationally,irrationally,negative
+2687,irreconcilable,hindi mapagkakasundo,negative
+2688,irredeemable,wala nang pag-asa,negative
+2689,irredeemably,irredeemably,negative
+2690,irreformable,irreformable,negative
+2691,irrefutable,mapasisinungalingan,positive
+2692,irrefutably,irrefutably,positive
+2693,irregardless,irregardless,neutral
+2694,irrelevance,kawalan ng kabagayan,negative
+2695,irrelevant,hindi kaugnay,negative
+2696,irreparable,hindi na mapananauli,negative
+2697,irreplacible,irreplacible,negative
+2698,irrepressible,hindi mapigil,negative
+2699,irreproachable,walang masasabi,positive
+2700,irresistible,hindi mapaglabanan,positive
+2701,irresistibly,sa paraang hindi mapaglalabanang maakit,positive
+2702,irresolute,walang matibay na pasya,negative
+2703,irresponsible,hindi mapagkakatiwalaan,negative
+2704,irresponsibly,irresponsibly,negative
+2705,irreverence,kawalang-pitagan,negative
+2706,irreverent,walang pitagan,negative
+2707,irreverently,irreverently,negative
+2708,irreversible,hindi maaaring pawalang-bisa,negative
+2709,irritable,magagalitin,negative
+2710,irritably,irritably,negative
+2711,irritate,makainis,negative
+2712,irritates,nang-iinis,negative
+2713,irritated,nainis,negative
+2714,irritating,nanggagalit,negative
+2715,irritating,nakakainis,negative
+2716,irritation,pangangati,negative
+2717,itch,hindi mapalagay o mapakali,negative
+2718,jabber,magdadaldal,negative
+2719,jaded,pinagod,negative
+2720,jaundiced,madilaw ang balat,negative
+2721,jauntily,nang masigla,positive
+2722,jaunty,masigla,positive
+2723,jealous,naninibugho,negative
+2724,jealously,jealously,negative
+2725,jealousness,jealousness,negative
+2726,jealousy,selos,negative
+2727,jeer,mang-aglahi,negative
+2728,jeering,jeering,negative
+2729,jeeringly,jeeringly,negative
+2730,jeers,jeers,negative
+2731,jeopardize,malagay sa panganib,negative
+2732,jeopardy,panganib,negative
+2733,jerk,biglang takbo,negative
+2734,jest,pagbibiro,positive
+2735,jittery,ninenerbiyos,negative
+2736,joke,magbiro,positive
+2737,joker,taong mapagbiro,negative
+2738,jolly,magbiro,positive
+2739,jovial,masigla,positive
+2740,joy,kagalakan,positive
+2741,joyful,nagagalak,positive
+2742,joyfully,joyfully,positive
+2743,joyless,hindi masaya,positive
+2744,joyous,masayang-masaya,positive
+2745,joyously,joyously,positive
+2746,jubilant,galak na galak,positive
+2747,jubilantly,jubilantly,positive
+2748,jubilate,magalak,positive
+2749,jubilation,pagkakatuwa,positive
+2750,judicious,mahusay magpasiya,positive
+2751,just,lamang,positive
+2752,justifiable,makatwiran,positive
+2753,justifiably,justifiably,positive
+2754,justification,pagbibigay-katarungan,positive
+2755,justify,pawalang-sala,positive
+2756,justly,nang matarong,positive
+2757,kaput,kaput,negative
+2758,keen,matalim,positive
+2759,keenly,keenly,positive
+2760,keenness,katalasan,positive
+2761,kemp,Kemp,positive
+2762,kick,sipa,negative
+2763,kid,batang kambing,positive
+2764,killjoy,killjoy,negative
+2765,kind,uri,positive
+2766,kindly,nang mabait,positive
+2767,kindliness,kabaitan,positive
+2768,kindness,kagandahang-loob,positive
+2769,kingmaker,kingmaker,positive
+2770,knave,taong tuso,negative
+2771,knew,Alam,neutral
+2772,know,kilala,neutral
+2773,knowing,kaalaman,neutral
+2774,knowingly,sadya,neutral
+2775,knowledge,kaalaman,neutral
+2776,knowledgeable,matalino,positive
+2777,kook,kook,negative
+2778,kooky,kooky,negative
+2779,lack,kakulangan,negative
+2780,lackadaisical,walang sigla,negative
+2781,lackey,sumunod ng parang aso,negative
+2782,lackeys,lackeys,negative
+2783,lacking,kulang,negative
+2784,lackluster,walang kinang,negative
+2785,laconic,walang maraming salita,negative
+2786,lambast,lambast,negative
+2787,lambaste,bombahin,negative
+2788,lame-duck,pilay-pato,negative
+2789,lament,tumaghoy,negative
+2790,lamentable,kahina-hinayang,negative
+2791,lamentably,lamentably,negative
+2792,languid,walang sigla,negative
+2793,languish,sabik na sabik na syang umuwi,negative
+2794,languor,kawalang-sigla,negative
+2795,languorous,matamlay,negative
+2796,languorously,languorously,negative
+2797,lark,magkatuwaan,positive
+2798,lascivious,malibog,negative
+2799,last-ditch,huling-kanal,negative
+2800,lastly,bilang wakas,neutral
+2801,laud,pagpuri,positive
+2802,laudable,kapuri-puri,positive
+2803,laudably,laudably,positive
+2804,laugh,tumawa,negative
+2805,laughable,nakakatawa,negative
+2806,laughably,laughably,negative
+2807,laughingstock,laughingstock,negative
+2808,laughter,pagtawa,negative
+2809,lavish,bukas ang palad,positive
+2810,lavishly,marangyang,positive
+2811,law-abiding,masunurin sa batas,positive
+2812,lawbreaker,salarin,negative
+2813,lawbreaking,lawbreaking,negative
+2814,lawless,laban sa batas,negative
+2815,lawlessness,kawalan ng batas,negative
+2816,lax,hindi mahigpit,negative
+2817,lazy,tamad,negative
+2818,lech,Lech,negative
+2819,lecher,malibog na tao,negative
+2820,lecherous,malibog,negative
+2821,lechery,kalibugan,negative
+2822,leech,linta,negative
+2823,leer,pairap,negative
+2824,leery,suspetsoso,negative
+2825,left-leaning,kaliwa-nakahilig,negative
+2826,letch,letch,negative
+2827,levity,kawalang-isip,positive
+2828,lewd,malibog,negative
+2829,lewdly,lewdly,negative
+2830,lewdness,kahalayan,negative
+2831,liability,sagutin,negative
+2832,liar,sinungaling,negative
+2833,liars,liars,negative
+2834,liberate,palayain,positive
+2835,liberty,kalayaan,positive
+2836,licentious,walang pagpipigil,negative
+2837,licentiously,licentiously,negative
+2838,licentiousness,kahalayan,negative
+2839,lie,kasinungalingan,negative
+2840,lier,Lier,negative
+2841,lies,mga kasinungalingan,negative
+2842,lifeblood,lifeblood,positive
+2843,light-hearted,masayahin,positive
+2844,likable,kaibig-ibig,positive
+2845,like,katulad,positive
+2846,likes,gusto,positive
+2847,liked,ginusto,positive
+2848,liking,pagkamatuwain,positive
+2849,likewise,gayon din naman,neutral
+2850,limitless,walang tasa,neutral
+2851,limp,malata,negative
+2852,lionhearted,lionhearted,positive
+2853,listless,walang sigla,negative
+2854,litigious,litigious,negative
+2855,little,kaunti,negative
+2856,little-known,maliit na-kilala,negative
+2857,lively,masigla,positive
+2858,livid,nangingitim-ngitim,negative
+2859,lividly,lividly,negative
+2860,loath,mabigat sa loob,negative
+2861,loathe,pagsawaan,negative
+2862,loathing,suya,negative
+2863,loathly,loathly,negative
+2864,loathsome,nakakasuya,negative
+2865,loathsomely,loathsomely,negative
+2866,lofty,matayog,positive
+2867,lone,kaisa-isa,negative
+2868,loneliness,lungkot,negative
+2869,lonely,malungkot,negative
+2870,lonesome,nalulungkot,negative
+2871,long,mahaba,negative
+2872,longing,pag-asam,negative
+2873,longingly,longingly,negative
+2874,loophole,lusot,negative
+2875,loopholes,butas,negative
+2876,loot,pagnakawan,negative
+2877,lorn,pinagtaksilan,negative
+2878,losing,nalulugi,negative
+2879,lousy,walang kuwenta,negative
+2880,lovable,kaibig-ibig,positive
+2881,lovably,lovably,positive
+2882,love,pag-ibig,positive
+2883,loves,mahal,positive
+2884,loved,minahal,positive
+2885,loveless,walang pag-ibig,negative
+2886,loveliness,kagandahan,positive
+2887,lovelorn,sawi sa pag-ibig,negative
+2888,lover,kalaguyo,positive
+2889,lovely,kaibig-ibig,positive
+2890,low-rated,mababang-rated,negative
+2891,lowly,mababang-loob,negative
+2892,loyalty,katapatan,positive
+2893,lucid,matino,positive
+2894,lucidly,lucidly,positive
+2895,luck,suwerte,positive
+2896,luckier,luckier,positive
+2897,luckiest,luckiest,positive
+2898,luckily,sa kabutihang-palad,positive
+2899,luckiness,luckiness,positive
+2900,lucky,mapalad,positive
+2901,ludicrous,nakakatawa,negative
+2902,ludicrously,ludicrously,negative
+2903,lugubrious,malungkot,negative
+2904,lukewarm,walang sigla,negative
+2905,lunatic,sira ang ulo,negative
+2906,lunaticism,lunaticism,negative
+2907,lurch,giwang,negative
+2908,lure,pang-akit,negative
+2909,lurid,naliliwanagan,negative
+2910,lurk,tumago,negative
+2911,lurking,tago,negative
+2912,lush,malabay,positive
+2913,lust,katakawan,negative
+2914,lust,libog,negative
+2915,lusts,linilibog,negative
+2916,lusted,nalibog,negative
+2917,lustful,malibog,negative
+2918,luster,ningning,positive
+2919,lustrous,makislap,positive
+2920,luxuriant,malabay,positive
+2921,luxurious,marangya,positive
+2922,luxuriously,marangya,positive
+2923,luxury,karangyaan,positive
+2924,lying,pagsisinungaling,negative
+2925,lyrical,liriko,positive
+2926,macabre,mapanglaw,negative
+2927,mad,galit na galit,negative
+2928,madden,magalit nang labis,negative
+2929,maddening,kagalit-galit,negative
+2930,maddeningly,maddeningly,negative
+2931,madder,halaman ng meder,negative
+2932,madly,hibang na hibang,negative
+2933,madman,baliw,negative
+2934,madness,kabaliwan,negative
+2935,magic,salamangka,positive
+2936,magical,nakapagtataka,positive
+2937,magnanimous,mapagbigay-loob,positive
+2938,magnanimously,magnanimously,positive
+2939,magnificence,karilagan,positive
+2940,magnificent,kahanga-hanga,positive
+2941,magnificently,magnificently,positive
+2942,majestic,marilag,positive
+2943,majesty,kamahalan,positive
+2944,maladjusted,maladjusted,negative
+2945,maladjustment,kawalan ng pagtutugma,negative
+2946,malcontent,walang kasiyahan,negative
+2947,malcontented,malcontented,negative
+2948,maledict,maledict,negative
+2949,malevolence,paghahangad ng masama sa kapwa,negative
+2950,malevolent,mapaghangad ng masama sa kapwa,negative
+2951,malevolently,malevolently,negative
+2952,malice,masamang hangarin,negative
+2953,malicious,nakahahamak,negative
+2954,maliciously,maliciously,negative
+2955,maliciousness,maliciousness,negative
+2956,malign,siraan ng puri,negative
+2957,malodorous,malodorous,negative
+2958,maltreatment,pang-aapi,negative
+2959,mangle,sumira,negative
+2960,mania,hangal na pagnanasa,negative
+2961,maniac,baliw,negative
+2962,maniacal,maniacal,negative
+2963,manic,isang buhok,negative
+2964,manifest,talaan ng mga kargamento,positive
+2965,manipulate,manipula,negative
+2966,manipulates,minamanipula,negative
+2967,manipulative,manipulahin,negative
+2968,manipulators,manipulators,negative
+2969,manly,tunay na lalaki,positive
+2970,mannerly,magalang,positive
+2971,mantra,Mantra,neutral
+2972,mar,magpapangit,negative
+2973,martyrdom,kamatayan bilang isang martir,negative
+2974,martyrdom-seeking,kamatayan bilang isang martir-naghahanap,negative
+2975,marvel,mamangha,positive
+2976,marvellous,kamangha-mangha,positive
+2977,marvelous,kamangha-mangha,positive
+2978,marvelously,marvelously,positive
+2979,marvelousness,marvelousness,positive
+2980,marvels,marvels,positive
+2981,massacre,patayan,negative
+2982,massacres,massacres,negative
+2983,master,panginoon,positive
+2984,masterful,sanay,positive
+2985,masterfully,masterfully,positive
+2986,masterpiece,obra maestra,positive
+2987,masterpieces,masterpieces,positive
+2988,masters,Masters,positive
+2989,mastery,pagwawagi,positive
+2990,matchless,hindi mapapantayan,positive
+2991,maverick,taong lagalag,negative
+2992,mawkish,nakaiinis,negative
+2993,mawkishly,mawkishly,negative
+2994,mawkishness,mawkishness,negative
+2995,maxi-devaluation,malaki pagpapawalang halaga,negative
+2996,maximize,i-maximize ang,positive
+2997,maybe,siguro,neutral
+2998,meager,payat,negative
+2999,mean,ibig sabihin,negative
+3000,meaningful,makahulugan,positive
+3001,meaningless,walang kahulugan,negative
+3002,meanness,kahinaan ng uri,negative
+3003,meddle,pakialaman,negative
+3004,meddlesome,mapakialam,negative
+3005,mediocre,katamtaman,negative
+3006,mediocrity,kapangkaraniwanan,negative
+3007,meek,malamig ang loob,positive
+3008,melancholy,mapanglaw,negative
+3009,mellow,malamig na at mahinahon,positive
+3010,melodramatic,melodramatik,negative
+3011,melodramatically,melodramatically,negative
+3012,memorable,hindi malilimot,positive
+3013,memorialize,memorialize,positive
+3014,menace,magsapanganib,negative
+3015,menacing,menacing,negative
+3016,menacingly,menacingly,negative
+3017,mendacious,nagsisinungaling,negative
+3018,mendacity,pagsisinungaling,negative
+3019,mentality,kaisipan,neutral
+3020,merciful,maawain,positive
+3021,mercifully,mercifully,positive
+3022,merciless,walang puso,negative
+3023,mercilessly,mercilessly,negative
+3024,mercy,awa,positive
+3025,mere,galos lamang,negative
+3026,merely,at wala na,negative
+3027,merit,maging marapat,positive
+3028,meritorious,karapat-dapat sa gantimpala,positive
+3029,merrily,nang masaya,positive
+3030,merriment,pagkakatuwa,positive
+3031,merriness,merriness,positive
+3032,merry,lasing nang bahagya,positive
+3033,mesmerize,maghipnotismo,positive
+3034,mesmerizing,mesmerizing,positive
+3035,mesmerizingly,mesmerizingly,positive
+3036,mess,gulo,negative
+3037,metaphorize,metaphorize,neutral
+3038,midget,kutong-lupa,negative
+3039,might,lakas,positive
+3040,mightily,nang buong lakas,positive
+3041,mighty,makapangyarihan,positive
+3042,militancy,kapaladigmaan,negative
+3043,mindful,nasa sa isip,positive
+3044,mindless,walang kahulugan,negative
+3045,mindlessly,mindlessly,negative
+3046,miracle,himala,positive
+3047,miracles,himala,positive
+3048,miraculous,mapaghimala,positive
+3049,miraculously,miraculously,positive
+3050,miraculousness,miraculousness,positive
+3051,mirage,malikmata,negative
+3052,mire,putik,negative
+3053,mirth,pagtatawa,positive
+3054,misbecoming,misbecoming,negative
+3055,misbecome,hindi bumagay,negative
+3056,misbegotten,nakahihiya,negative
+3057,misbehave,gumawa ng kalokohan,negative
+3058,misbehavior,kasamaang asal,negative
+3059,mischief,pagbibiro,negative
+3060,mischievous,mapagbiro,negative
+3061,mischievously,mischievously,negative
+3062,misconception,maling kuru-kuro,negative
+3063,misconceptions,misconceptions,negative
+3064,miscreant,masamang tao,negative
+3065,miscreants,miscreants,negative
+3066,misdirection,misdirection,negative
+3067,miser,kuripot,negative
+3068,miserly,kuripot,negative
+3069,miserable,kahabag-habag,negative
+3070,miserableness,miserableness,negative
+3071,miserably,nang abang-aba,negative
+3072,miseries,miseries,negative
+3073,misery,paghihirap,negative
+3074,misfit,taong hindi akma sa gawain,negative
+3075,misfortune,kasawian,negative
+3076,misgiving,pag-aagam-agam,negative
+3077,misgivings,misgivings,negative
+3078,misguidance,misguidance,negative
+3079,misguide,pumatnubay nang hindi tama,negative
+3080,misguided,naligaw ng landas,negative
+3081,mishandle,pagmalupitan,negative
+3082,mishap,kasawian,negative
+3083,misinform,magbigay ng maling impormasyon,negative
+3084,minsinforms,misinforms,negative
+3085,misinformed,misinformed,negative
+3086,misinterpret,magkamali ng pakahulugan,negative
+3087,misjudge,magkamali ng tantiya,negative
+3088,misjudgment,pagmamaliit,negative
+3089,mislead,iligaw,negative
+3090,misleads,nililigaw,negative
+3091,misled,niligaw,negative
+3092,misleading,nakakalinlang,negative
+3093,misleadingly,misleadingly,negative
+3094,mislike,mislike,negative
+3095,mismanage,mamahala sa masamang paraan,negative
+3096,misread,magkamali ng basa,negative
+3097,misreading,hindi tamang pagbasa,negative
+3098,misrepresent,magsinungaling,negative
+3099,misrepresentation,pagsisinungaling,negative
+3100,misstatement,maling pangungusap,negative
+3101,mistake,pagkakamali,negative
+3102,mistaken,nagkakamali,negative
+3103,mistakenly,sa pagkakamali,negative
+3104,mistakes,pagkakamali,negative
+3105,mistrust,kawalan ng tiwala,negative
+3106,mistrustful,walang tiwala,negative
+3107,mistrustfully,mistrustfully,negative
+3108,misunderstand,hindi maintindihan,negative
+3109,misunderstands,di naintindihan,negative
+3110,misunderstood,gusot,negative
+3111,misunderstanding,hindi pagkakaunawaan,negative
+3112,misunderstandings,misunderstandings,negative
+3113,misuse,maling gamit,negative
+3114,moan,halinghing,negative
+3115,mock,hindi totohanan,negative
+3116,mocks,pinapahiya,negative
+3117,mocked,pinahiya,negative
+3118,mockeries,mockeries,negative
+3119,mockery,pagpapawalang-kabuluhan,negative
+3120,mocking,mapanukso,negative
+3121,mockingly,nang lumilibak,negative
+3122,moderate,katamtaman,positive
+3123,moderation,pagtitimpi,positive
+3124,molest,mang-istorbo,negative
+3125,molestation,pang-iistorbo,negative
+3126,mollify,palamigin,positive
+3127,momentous,napakadakila,positive
+3128,monotonous,walang pagbabago ang tono,negative
+3129,monotony,monotony,negative
+3130,monster,napakalaking halimaw,negative
+3131,monstrosities,monstrosities,negative
+3132,monstrosity,isang napakapangit na bagay,negative
+3133,monstrous,hindi kapani-paniwala,negative
+3134,monstrously,monstrously,negative
+3135,monumental,parang monumento,positive
+3136,monumentally,monumentally,positive
+3137,moody,nalulungkot,negative
+3138,moral,moral,positive
+3139,morality,moralidad,positive
+3140,moralize,magturo ng kagandahang-asal,positive
+3141,morbid,dahil sa sakit,negative
+3142,morbidly,morbidly,negative
+3143,mordant,nakasusugat,negative
+3144,mordantly,mordantly,negative
+3145,moreover,higit sa rito,neutral
+3146,moribund,namamatay,negative
+3147,mortification,kahihiyan,negative
+3148,mortified,mortified,negative
+3149,mortify,pasakitan ang sarili,negative
+3150,mortifying,mapanghamak,negative
+3151,motivate,mag-udyok,positive
+3152,motivates,motivates,positive
+3153,motivated,motivated,positive
+3154,motivation,pagganyak,positive
+3155,motley,halu-halong bagay,negative
+3156,mourn,humagulgol,negative
+3157,mourns,pinagluluksa,negative
+3158,mourned,pinagluksa,negative
+3159,mourner,taong nagdadalamhati,negative
+3160,mournful,malungkot,negative
+3161,mournfully,mournfully,negative
+3162,moving,gumagalaw,positive
+3163,mudslinger,mudslinger,negative
+3164,mudslinging,paninirang-puri,negative
+3165,mulish,matigas ang ulo,negative
+3166,multi-polarization,multi-polariseysyon,negative
+3167,mum,kawalan ng imik,neutral
+3168,mundane,pangmundo,negative
+3169,muscle-flexing,kalamnan-flexing,negative
+3170,must,kailangan,neutral
+3171,mysterious,mahiwaga,negative
+3172,mysteriously,mysteriously,negative
+3173,mystery,misteryo,negative
+3174,myth,gawa-gawa,negative
+3175,nag,magmura,negative
+3176,nags,kinukulit,negative
+3177,nagged,kinulit,negative
+3178,nagging,mapag-angil,negative
+3179,naive,walang muwang,negative
+3180,naively,naively,negative
+3181,narrower,mas makitid,negative
+3182,nastily,kasumpa-sumpa,negative
+3183,nastiness,nastiness,negative
+3184,nasty,pangit,negative
+3185,nationalism,nasyonalismo,negative
+3186,naughty,galawgaw,negative
+3187,nauseating,nauseating,negative
+3188,nauseatingly,nauseatingly,negative
+3189,nebulous,parang ulap,negative
+3190,nebulously,nebulously,negative
+3191,need,kailangan,neutral
+3192,needful,kailangan,neutral
+3193,needfully,needfully,neutral
+3194,nefarious,kasuklam-suklam,negative
+3195,nefariously,nefariously,negative
+3196,neglect,kapabayaan,negative
+3197,neglected,nagpapabaya,negative
+3198,negligent,pabaya,negative
+3199,negligence,kapabayaan,negative
+3200,nemesis,katarungan,negative
+3201,nettlesome,nettlesome,negative
+3202,nevertheless,gayon pa man,neutral
+3203,nervous,kinakabahan,negative
+3204,nervously,nervously,negative
+3205,nervousness,nerbiyos,negative
+3206,neurotic,matatakutin,negative
+3207,neurotically,neurotically,negative
+3208,nice,magaling,positive
+3209,nicely,mahusay,positive
+3210,nifty,makisig,positive
+3211,nightmare,nakatatakot na karanasan,negative
+3212,nightmarish,kakila-kilabot,negative
+3213,nightmarishly,nightmarishly,negative
+3214,nimble,matalino,positive
+3215,nix,ala,negative
+3216,noble,marangal,positive
+3217,nobly,matenakan,positive
+3218,non-confidence,hindi pagtitiwala,negative
+3219,nonsense,bagay na walang kapararakan,negative
+3220,nosey,pakialamero,negative
+3221,notable,taong litaw,positive
+3222,notably,kapansin-pansin,positive
+3223,noteworthy,kapansin-pansing pagtatagumpay,positive
+3224,notorious,kilalang-kilala,negative
+3225,notoriously,notoriously,negative
+3226,novel,akdang-buhay,positive
+3227,nuance,pananarinari,neutral
+3228,nuances,nuances,neutral
+3229,nuisance,istorbo,negative
+3230,nurture,mag-alaga,positive
+3231,nurtures,nag-aaala,positive
+3232,nurtured,nag-alaga,positive
+3233,nurturing,maalaga,positive
+3234,oasis,oasis,positive
+3235,obedience,pagkamasunurin,positive
+3236,obedient,masunurin,positive
+3237,obediently,obediently,positive
+3238,obey,sumunod,positive
+3239,obeys,sumusunod,positive
+3240,obeyed,obeyed,positive
+3241,obese,napakataba,negative
+3242,object,bagay,negative
+3243,objects,objects,neutral
+3244,objected,objected,neutral
+3245,objection,pagtutol,negative
+3246,objectionable,hindi kanais-nais,negative
+3247,objections,mga pagtutol,negative
+3248,obliged,nagpapasalamat,positive
+3249,obliterate,mapawi,negative
+3250,obliterated,obliterated,negative
+3251,oblivious,hindi alumana,negative
+3252,obnoxious,kahalay-halay,negative
+3253,obnoxiously,nakaiinis,negative
+3254,obscene,mahalay,negative
+3255,obscenely,obscenely,negative
+3256,obscenity,kalaswaan,negative
+3257,obscure,nakatago,negative
+3258,obscurity,hindi katanyagan,negative
+3259,obsess,sumaging lagi sa isip,negative
+3260,obsesses,obsesses,
+3261,obsession,kinahuhumalingan,negative
+3262,obsessions,obsessions,negative
+3263,obsessive,laging sumasagi sa alaala,negative
+3264,obsessively,obsessively,negative
+3265,obsessiveness,obsessiveness,negative
+3266,obstacle,balakid,negative
+3267,obstinate,magmatigas ng ulo,negative
+3268,obstinately,obstinately,negative
+3269,obtrusive,mapanghimasok,negative
+3270,obtuse,mapurol ang ulo,negative
+3271,obviate,makapawi,positive
+3272,obviously,nang walang alinlangan,negative
+3273,odder,odder,negative
+3274,oddest,oddest,negative
+3275,oddities,oddities,negative
+3276,oddity,kakaibang tao o bagay,negative
+3277,oddly,nang kakatwa,negative
+3278,offbeat,Offbeat,positive
+3279,offend,sumugat ng damdamin,negative
+3280,offends,pinapahiya,negative
+3281,offended,pinahiya,negative
+3282,offending,nakakasakit,negative
+3283,offenses,pagkakasala,negative
+3284,offensively,nang masakit,negative
+3285,offensiveness,offensiveness,negative
+3286,officious,mapakialam,negative
+3287,oh,naku,neutral
+3288,ok,ok,positive
+3289,okay,ayos,positive
+3290,ominous,nagbabala,negative
+3291,ominously,ominously,negative
+3292,one-side,isa-side,negative
+3293,one-sided,may pinapanigan,negative
+3294,onerous,mabigat,negative
+3295,onerously,mabigat,negative
+3296,opinion,pag-aakala,neutral
+3297,opinionated,matigas sa palagay,negative
+3298,opinions,opinyon,neutral
+3299,opponent,kalaban,negative
+3300,opportune,bagay na bagay,positive
+3301,opportunity,pagkakataon,positive
+3302,oppose,hindi sumang-ayon,negative
+3303,opposes,kumukontra,negative
+3304,opposed,kumontra,negative
+3305,opposition,pagsalungat,negative
+3306,oppositions,oppositions,negative
+3307,oppress,mang-api,negative
+3308,oppression,pang-aapi,negative
+3309,oppressive,mapang-api,negative
+3310,oppressively,oppressively,negative
+3311,oppressiveness,mapagpahirap na kapaligiran,negative
+3312,oppressors,oppressors,negative
+3313,optimal,pinakamainam,positive
+3314,optimism,pag-asa sa mabuting ibubunga,positive
+3315,opulent,masagana,positive
+3316,ordeal,mahigpit na pagsubok,negative
+3317,orthodoxy,pagsang-ayon sa kaugalian,neutral
+3318,ostracize,magtakwil,negative
+3319,ought,marapat,neutral
+3320,outburst,pagsilakbo,negative
+3321,outbursts,pagsabog,negative
+3322,outcast,palaboy,negative
+3323,outcry,biglang sigaw,negative
+3324,outdo,lumalo,positive
+3325,outlaw,bandido,negative
+3326,outrage,paghalay,negative
+3327,outraged,outraged,negative
+3328,outrageous,lampas sa matwid,negative
+3329,outrageously,outrageously,negative
+3330,outrageousness,outrageousness,negative
+3331,outrages,outrages,negative
+3332,outright,walang pagpipigil,neutral
+3333,outshine,daigin sa talino,positive
+3334,outsmart,outsmart,positive
+3335,outstanding,hindi pa nababayaran,positive
+3336,outstandingly,outstandingly,positive
+3337,outstrip,maiwan nang malayo,positive
+3338,outwit,malinlang,positive
+3339,ovation,pagbubunyi,positive
+3340,over-acted,over-kumilos,negative
+3341,overachiever,overachiever,positive
+3342,overact,magpapel na lubhang mabuti,negative
+3343,overacted,overacted,negative
+3344,overbearing,mapanupil,negative
+3345,overbearingly,overbearingly,negative
+3346,overblown,hinihip,negative
+3347,overcome,pagtagumpayan,negative
+3348,overdo,lumampas ang luto,negative
+3349,overdone,pinalabis,negative
+3350,overdue,atrasado,negative
+3351,overemphasize,overemphasize,negative
+3352,overjoyed,galak na galak,positive
+3353,overkill,overkill,negative
+3354,overlook,hindi mapuna,negative
+3355,overplay,overplay,negative
+3356,overstate,sabihin sa matigas na pangungusap,negative
+3357,overstatement,labis na pangungusap,negative
+3358,overstatements,overstatements,negative
+3359,overture,obertura,positive
+3360,overwhelming,napakalaki,negative
+3361,overwhelmingly,lubha,negative
+3362,overworked,overworked,negative
+3363,overzealous,overzealous,negative
+3364,overzealously,overzealously,negative
+3365,pacifist,pasipista,positive
+3366,pacifists,pacifists,positive
+3367,pain,sakit,negative
+3368,pains,ng puson,negative
+3369,painstaking,napakaingat,positive
+3370,painstakingly,painstakingly,positive
+3371,palatable,kasiya-siya,positive
+3372,palatial,bagay sa palasiyo,positive
+3373,palliate,pawalang-halaga,positive
+3374,paltry,walang kabagay-bagay,negative
+3375,pandemonium,malaking gulo,negative
+3376,panic,gulilat,negative
+3377,panicky,gulilat,negative
+3378,paradise,paraiso,positive
+3379,paradoxical,makabalighuan,negative
+3380,paradoxically,paradoxically,negative
+3381,paramount,higit sa lahat,positive
+3382,paranoia,paranoya,negative
+3383,paranoid,paranoyd,negative
+3384,pardon,patawad,positive
+3385,pariah,pariah,negative
+3386,parody,patawa,negative
+3387,partiality,pagkatig,negative
+3388,partisan,kapanig,negative
+3389,partisans,partisans,negative
+3390,passe,laos na,negative
+3391,passion,simbuyo ng damdamin,positive
+3392,passionate,makabagbag-puso,positive
+3393,passionately,passionately,positive
+3394,passive,maluwag sa loob,negative
+3395,passiveness,passiveness,negative
+3396,pathetic,kahabag-habag,negative
+3397,pathetically,pathetically,negative
+3398,patience,pagtitiyaga,positive
+3399,patiently,matiyagang,positive
+3400,patriot,taong makabayan,positive
+3401,patriotic,makabayan,positive
+3402,patronize,magtaguyod,negative
+3403,paucity,pagkasalat,negative
+3404,pauper,mahirap na tao,negative
+3405,paupers,paupers,negative
+3406,payback,payback,negative
+3407,peaceable,tahimik,positive
+3408,peculiar,kakaiba,negative
+3409,peculiarly,kakaiba,negative
+3410,pedantic,pilosopo,negative
+3411,peerless,walang kaparis,positive
+3412,peeve,pagkainis,negative
+3413,peeved,nainis,negative
+3414,peevish,mareklamo,negative
+3415,peevishly,peevishly,negative
+3416,penalize,parusahan,negative
+3417,penetrating,mahayap,positive
+3418,penitent,nagsisisi,positive
+3419,perceptions,perception,neutral
+3420,perceptive,mapang-unawa,positive
+3421,perfect,perpekto,positive
+3422,perfection,ganap na ganap,positive
+3423,perfectly,ganap na ganap,positive
+3424,perfidious,taksil,negative
+3425,perfidity,perfidity,negative
+3426,perfunctory,walang interes,negative
+3427,perhaps,marahil,neutral
+3428,peril,kapanganiban,negative
+3429,perish,mamatay,negative
+3430,pernicious,mapanira,negative
+3431,perplex,guluhin ang isip,negative
+3432,perplexed,naguguluhan,negative
+3433,perplexing,nakagugulo ng isip,negative
+3434,perplexity,kaguluhan ng isip,negative
+3435,persecute,pagmalupitan,negative
+3436,persecution,pag-uusig,negative
+3437,perseverance,tiyaga,positive
+3438,persevere,pagtiyagaan,positive
+3439,perseveres,nagtitiyaga,positive
+3440,persevered,nagtiyaga,positive
+3441,persevering,matiyaga,positive
+3442,personality,personalidad,positive
+3443,perspicuous,madaling maintindihan,positive
+3444,perspicuously,perspicuously,positive
+3445,persuade,mang-upat,positive
+3446,persuasive,mapang-akit,positive
+3447,persuasively,persuasively,positive
+3448,pertinacious,naninindigan,negative
+3449,pertinaciously,pertinaciously,negative
+3450,pertinacity,pagmamatigas,negative
+3451,perturb,lumigalig,negative
+3452,perturbed,ligalig,negative
+3453,pervasive,malaganap,negative
+3454,perverse,sinsay,negative
+3455,perversely,perversely,negative
+3456,perversion,kabuktutan,negative
+3457,perversity,katigasan ng ulo,negative
+3458,pervert,akayin sa kasamaan,negative
+3459,perverted,maling gamit,negative
+3460,pessimism,pag-iisip sa mga kabiguan at kahirapan ng buhay,negative
+3461,pessimistic,mapag-isip sa mga kabiguan at kahirapan ng buhay,negative
+3462,pessimistically,pessimistically,negative
+3463,pest,maninira,negative
+3464,pestilent,nakakapeste,negative
+3465,petrify,maging bato,negative
+3466,petrified,petrified,negative
+3467,pettifog,magtalo,negative
+3468,petty,makitid ang isip,negative
+3469,phenomenal,kahanga-hanga,positive
+3470,phenomenally,phenomenally,positive
+3471,philosophize,magpilosopo,neutral
+3472,phobia,takot,negative
+3473,phobic,phobic,negative
+3474,phony,pagkahuwad,negative
+3475,picky,picky,negative
+3476,picturesque,kaakit-akit,positive
+3477,pillage,manloob,negative
+3478,pillar,poste,positive
+3479,pillory,hamakin,negative
+3480,pine,puno ng pino,negative
+3481,pinnacle,summit,positive
+3482,pious,maka-diyos,positive
+3483,pithy,agresibo,positive
+3484,pitiable,kahabag-habag,negative
+3485,pitiful,kahabag-habag,negative
+3486,pitifully,pitifully,negative
+3487,pitiless,walang awa,negative
+3488,pitilessly,pitilessly,negative
+3489,pittance,maliit na sustento,negative
+3490,pity,awa,negative
+3491,placate,palamigin ang loob,positive
+3492,plagiarize,mamlahiyo,negative
+3493,plague,salot,negative
+3494,plainly,malinaw,positive
+3495,plausibility,pagkatotoo,positive
+3496,plausible,maaaring tama,positive
+3497,playful,mapaglaro,positive
+3498,playfully,playfully,positive
+3499,plaything,plaything,negative
+3500,plead,manawagan,both
+3501,pleading,pagsusumamo,both
+3502,pleadingly,pleadingly,both
+3503,pleas,pleas,negative
+3504,please,pakiusap,positive
+3505,pleases,pinasaya,positive
+3506,pleased,nalulugod,positive
+3507,pleasing,kasiya-siya,positive
+3508,pleasingly,pleasingly,positive
+3509,pleasurable,kaaya-aya,positive
+3510,pleasurably,pleasurably,positive
+3511,pleasure,kasiyahan,positive
+3512,plebeian,karaniwang tao,negative
+3513,pledge,pangako,positive
+3514,pledges,mga pangako,positive
+3515,plenty,marami,positive
+3516,plight,ilagay sa panganib,negative
+3517,plot,nagbalak,negative
+3518,plots,nagbabalak,negative
+3519,plotters,plotters,negative
+3520,ploy,plano,negative
+3521,plunder,manloob,negative
+3522,plunderer,plunderer,negative
+3523,plush,pelusa,positive
+3524,poetic,mala-tula,positive
+3525,poeticize,gawing parang tula,positive
+3526,poignant,maanghang,positive
+3527,poise,makatayo nang matatag,positive
+3528,poised,poised,positive
+3529,poison,lagyan ng lason,negative
+3530,polarisation,polariseysyon,negative
+3531,polemize,polemize,negative
+3532,pollute,dumi,negative
+3533,pollutes,dinudumihan,negative
+3534,polluted,dinumihan,negative
+3535,polluter,polluter,negative
+3536,polluters,polluters,negative
+3537,pompous,parang nagmamalaki,negative
+3538,ponder,magnilay-nilay,neutral
+3539,poor,mahirap,negative
+3540,poorly,mahina,negative
+3541,posh,marangya,positive
+3542,positiveness,positiveness,positive
+3543,positively,positibo,positive
+3544,posturing,posturing,negative
+3545,potent,makapangyarihan,positive
+3546,pout,lumabi,negative
+3547,poverty,kahirapan,negative
+3548,pragmatic,praktiko,positive
+3549,praise,papuri,positive
+3550,praiseworthy,maipagkakapuri,positive
+3551,praising,pagpuri,positive
+3552,prate,sumatsat,negative
+3553,pratfall,pratfall,negative
+3554,prattle,ngumawa,negative
+3555,pray,magdasal,neutral
+3556,prays,nagdarasal,positive
+3557,prayed,nagdasal,positive
+3558,preach,pangaralan,positive
+3559,preaching,pangangaral,positive
+3560,precaution,pag-iingat,positive
+3561,precautions,pag-iingat,positive
+3562,precious,mamahalin,positive
+3563,precipitate,namuo,negative
+3564,precipitous,napakatarik,negative
+3565,predicament,mabigat na suliranin,negative
+3566,prefer,mas gusto,positive
+3567,prefers,gusto,positive
+3568,preferred,ginusto,positive
+3569,preferable,lalong kanais-nais,positive
+3570,preferably,mas mabuti,positive
+3571,preference,kagustuhan,positive
+3572,preferences,mga kagustuhan,positive
+3573,prejudge,hatulan nang pauna,negative
+3574,prejudice,hindi matwid na palagay,negative
+3575,prejudicial,makasasama,negative
+3576,premeditated,pinaghandaan,negative
+3577,preponderance,pangingibabaw,positive
+3578,preposterous,salungat sa katwiran,negative
+3579,preposterously,preposterously,negative
+3580,pressing,minamadali,negative
+3581,prestige,prestihiyo,positive
+3582,presumably,siguro,neutral
+3583,presume,maglakas-loob,negative
+3584,presumptuous,malakas ang loob,negative
+3585,presumptuously,presumptuously,negative
+3586,pretence,pagkukunwari,negative
+3587,pretend,magpanggap,negative
+3588,pretends,nagpapanggap,negative
+3589,pretended,nagpanggap,negative
+3590,pretense,pagkukunwari,negative
+3591,pretentious,mapagpanggap,negative
+3592,pretentiously,pretentiously,negative
+3593,prettily,marikit,positive
+3594,pretty,medyo,positive
+3595,prevaricate,magsinungaling,negative
+3596,priceless,hindi mabibili ng salapi,positive
+3597,prickle,tinik,negative
+3598,prickles,prickles,negative
+3599,pride,pagmamataas,positive
+3600,prideful,prideful,negative
+3601,privilege,pribilehiyo,positive
+3602,privileged,may pribilehiyo,positive
+3603,prize,premyo,positive
+3604,pro-American,pro-Amerikano,positive
+3605,pro-Beijing,pro-Beijing,positive
+3606,pro-Cuba,pro-Cuba,positive
+3607,pro-peace,pro-kapayapaan,positive
+3608,proactive,maagap,positive
+3609,problematic,walang katiyakan,negative
+3610,proclaim,ipahayag,neutral
+3611,procrastinate,magpabukas-bukas,negative
+3612,procrastination,pagpapaliban-liban,negative
+3613,prodigious,malaking-malaki,positive
+3614,prodigiously,prodigiously,positive
+3615,prodigy,kagila-gilalas na bagay,positive
+3616,profane,walang galang,negative
+3617,profanity,kalapastanganan,negative
+3618,profess,magpahayag ng paniniwala sa,positive
+3619,proficient,may kaya,positive
+3620,proficiently,proficiently,positive
+3621,profound,malalim,positive
+3622,profoundly,profoundly,positive
+3623,profuse,maraming-marami,positive
+3624,profusely,labis,positive
+3625,profusion,labis na karangyaan,positive
+3626,prognosticate,hulaan,neutral
+3627,promise,pangako,positive
+3628,promising,may pag-asa,positive
+3629,promoter,tagataguyod,positive
+3630,propaganda,propaganda,negative
+3631,propagandize,magpropaganda,negative
+3632,prophesy,manghula,neutral
+3633,propitious,maganda,positive
+3634,propitiously,propitiously,positive
+3635,proscription,pagbabawal,negative
+3636,proscriptions,proscriptions,negative
+3637,prosecute,isakdal,negative
+3638,prosper,palarin,positive
+3639,protector,tagapagsanggalang,positive
+3640,protest,may pasubali,negative
+3641,protests,protest,negative
+3642,proud,maipagmamalaki,positive
+3643,providence,kalooban ng diyos,positive
+3644,provocation,kagalit-galit na bagay,negative
+3645,provocative,kagalit-galit,negative
+3646,provoke,kayagin,negative
+3647,prowess,lakas ng loob,positive
+3648,prudent,may isip,positive
+3649,prudently,prudently,positive
+3650,pugnacious,palaaway,negative
+3651,pugnaciously,pugnaciously,negative
+3652,pugnacity,pagkapalaaway,negative
+3653,punch,suntok,negative
+3654,punctual,hindi nagkukulang sa oras,positive
+3655,pundits,pundits,positive
+3656,punish,parusahan,negative
+3657,punishes,pinaparusahan,negative
+3658,punished,pinarusahan,negative
+3659,puny,mahina ang pangangatawan,negative
+3660,puppet,bulag na tagasunod,negative
+3661,puppets,puppets,negative
+3662,purposeful,mapakay,positive
+3663,puzzle,palaisipan,negative
+3664,puzzled,tuliro,negative
+3665,puzzlement,pagkatuliro,negative
+3666,puzzling,puzzling,negative
+3667,quack,hindi tunay,negative
+3668,quaint,kakatuwa,positive
+3669,qualms,qualms,negative
+3670,quandary,pag-aalanganin,negative
+3671,quarrel,makipag-away,negative
+3672,quarrel,away,negative
+3673,quarrellous,quarrellous,negative
+3674,quarrellously,quarrellously,negative
+3675,quarrels,nag-aaway,negative
+3676,quarrelled,nag-away,negative
+3677,quarrelsome,palaaway,negative
+3678,quash,magpawalang-saysay,negative
+3679,quasi-ally,parang kapanig,positive
+3680,questionable,kahina-hinala,negative
+3681,quibble,iwasan ang pinag-uusapan,negative
+3682,quicken,sumigla,positive
+3683,quite,muntik na,neutral
+3684,quitter,masukuin,negative
+3685,racist,rasista,negative
+3686,racists,racists,negative
+3687,rack,sabitan ng mga sumbrero,negative
+3688,radiance,ningning,positive
+3689,radiant,pinanggagalingan ng liwanag,positive
+3690,radical,radikal,negative
+3691,radicalization,radicalization,negative
+3692,radically,radikal,negative
+3693,radicals,radicals,negative
+3694,rage,magalit nang labis,negative
+3695,ragged,gula-gulanit,negative
+3696,raging,raging,negative
+3697,rail,sa pamamagitan ng tren,negative
+3698,rally,pagmumuling-sigla,positive
+3699,rampage,magalit nang labis,negative
+3700,rampant,galit na galit,negative
+3701,ramshackle,aalug-alog,negative
+3702,rancor,matinding sama ng loob,negative
+3703,rank,ranggo,negative
+3704,rankle,sumakit,negative
+3705,rant,palakat,negative
+3706,ranting,ranting,negative
+3707,rantingly,rantingly,negative
+3708,rapport,kaugnayan,positive
+3709,rapt,nagayuma,positive
+3710,rapture,masidhing kagalakan,positive
+3711,raptureous,raptureous,positive
+3712,raptureously,raptureously,positive
+3713,rapturous,nagayuma,positive
+3714,rapturously,rapturously,positive
+3715,rascal,masamang tao,negative
+3716,rash,pantal,negative
+3717,rather,sa lalong maliwanag,neutral
+3718,rational,may talino,positive
+3719,rationalize,isakatwiran,negative
+3720,rattle,gumaralgal,negative
+3721,ravage,pamiminsala,negative
+3722,rave,magmagaling,positive
+3723,raves,raves,positive
+3724,raved,raved,positive
+3725,raving,galit na galit,negative
+3726,re-conquest,muling pananakop,positive
+3727,reactionary,reaksyonaryo,negative
+3728,realist,parang tunay,positive
+3729,realistic,parang totoo,positive
+3730,realistically,realistically,positive
+3731,really,talaga,neutral
+3732,reassurance,muling pagtiyak,positive
+3733,reassure,muling magbigay-tiwala,positive
+3734,rebellious,suwail,negative
+3735,rebuff,pagtataboy,negative
+3736,rebuke,pagsalitaan,negative
+3737,rebukes,pinagsasabiha,negative
+3738,rebuked,pinagsabihan,negative
+3739,recalcitrant,ayaw sumunod,negative
+3740,recant,pagsisihan,negative
+3741,receptive,receptive,positive
+3742,reckless,walang ingat,negative
+3743,recklessly,aksaya,negative
+3744,recklessness,kawalang-taros,negative
+3745,recoil,biglang urong,negative
+3746,recommend,magrekomenda,positive
+3747,recommendation,rekomendasyon,positive
+3748,recommendations,rekomendasyon,positive
+3749,recommended,inirerekumendang,positive
+3750,rectification,pagtutuwid,positive
+3751,rectify,magtuwid,positive
+3752,rectifying,rectifying,positive
+3753,redeem,tubusin,positive
+3754,redeeming,sa pagkuha ng,positive
+3755,redemption,pagtubos,positive
+3756,reflecting,na sumasalamin sa,neutral
+3757,reflective,mapanimdim,neutral
+3758,refreshing,malamig,positive
+3759,refuge,magkubli,positive
+3760,refuse,tumanggi,negative
+3761,refutation,pagpapabulaan,negative
+3762,refute,pasinungalingan,negative
+3763,regal,ukol sa hari,positive
+3764,regally,nang parang hari,positive
+3765,regard,pagtatangi,positive
+3766,regardless,hindi alintana,neutral
+3767,regardlessly,regardlessly,neutral
+3768,regret,panghihinayang,negative
+3769,regrets,nanghinayang,negative
+3770,regretful,nagsisisi,negative
+3771,regretfully,regretfully,negative
+3772,regrettable,kahina-hinayang,negative
+3773,regrettably,regrettably,negative
+3774,reject,tanggihan,negative
+3775,rejects,tinatanggihan,negative
+3776,rejected,tinanggihan,negative
+3777,rejection,pagtanggi,negative
+3778,rejoice,magalak,positive
+3779,rejoicing,pagkakatuwa,positive
+3780,rejoicingly,nang masaya,positive
+3781,relent,maglubag ang loob,positive
+3782,relentless,walang awa,negative
+3783,relentlessly,relentlessly,negative
+3784,relentlessness,relentlessness,negative
+3785,relief,kaluwagan,positive
+3786,relish,pampasarap,positive
+3787,reluctance,pag-aatubili,negative
+3788,remarkable,kapansin-pansin,positive
+3789,remarkably,lubha,positive
+3790,reminiscent,nakapagpapagunita,positive
+3791,remorse,mataos na pagsisisi,negative
+3792,remorseful,nagsisisi nang taos,negative
+3793,remorsefully,remorsefully,negative
+3794,remorseless,walang pagsisisi,negative
+3795,remorselessly,remorselessly,negative
+3796,remorselessness,remorselessness,negative
+3797,remunerate,bigyan ng gantimpala,positive
+3798,renaissance,muling pagsilang,positive
+3799,renounce,itakwil,negative
+3800,renown,kabunyian,positive
+3801,renowned,may matunog na pangalan,positive
+3802,renunciation,pagtatakwil,negative
+3803,repay,pagbayaran,positive
+3804,repent,magsisi,positive
+3805,repentance,pagsisisi,positive
+3806,reprehensible,maaaring sisihin,negative
+3807,reprehensibly,reprehensibly,negative
+3808,reprehension,paninisi,negative
+3809,reprehensive,reprehensive,negative
+3810,reprimand,mahigpit na pangangaral,negative
+3811,reproach,pagsisi,negative
+3812,reproachful,dapat sisihin,negative
+3813,reprove,pagwikaan,negative
+3814,reprovingly,reprovingly,negative
+3815,repudiate,magtatwa,negative
+3816,repudiation,pagtatakwil,negative
+3817,repugn,repugn,negative
+3818,repugnance,rimarim,negative
+3819,repugnant,nakamumuhi,negative
+3820,repugnantly,repugnantly,negative
+3821,repulsing,repulsing,negative
+3822,repulsive,kagalit-galit,negative
+3823,repulsively,repulsively,negative
+3824,repulsiveness,repulsiveness,negative
+3825,resent,ipagdamdam,negative
+3826,resentful,nagdaramdam,negative
+3827,resentment,sama ng loob,negative
+3828,resounding,resounding,positive
+3829,resourceful,mapamaraan,positive
+3830,resourcefulness,kapamaraanan,positive
+3831,respect,paggalang,positive
+3832,respectable,kagalang-galang,positive
+3833,respectful,magalang,positive
+3834,respectfully,nang gumagalang,positive
+3835,respite,kaunting ginhawa,positive
+3836,resplendent,maluningning,positive
+3837,reticent,walang imik,negative
+3838,revealing,pagbubunyag,neutral
+3839,revel,masayang pagdiriwang,positive
+3840,revelatory,revelatory,neutral
+3841,revenge,hangarin sa paghihiganti,negative
+3842,revengeful,ibig maghiganti,negative
+3843,revengefully,revengefully,negative
+3844,revere,gumalang,positive
+3845,reverence,paggalang,positive
+3846,reverent,magalang,positive
+3847,reverently,magalang,positive
+3848,revile,mang-alimura,negative
+3849,reviled,reviled,negative
+3850,revolting,nakaiinis,negative
+3851,revoltingly,revoltingly,negative
+3852,revulsion,biglang pagbabago,negative
+3853,revulsive,gamot na umaabala,negative
+3854,reward,gantimpala,positive
+3855,rewarding,rewarding,positive
+3856,rewardingly,rewardingly,positive
+3857,rhetorical,patalumpati,negative
+3858,richly,marangya,positive
+3859,richness,kayamanan,positive
+3860,rid,mapupuksa,negative
+3861,ridicule,panlilibak,negative
+3862,ridiculous,walang katotohanan,negative
+3863,ridiculously,ridiculously,negative
+3864,rife,katakut-takot,negative
+3865,rift,pumunit,negative
+3866,rifts,rifts,negative
+3867,right,karapatan,positive
+3868,righten,righten,positive
+3869,righteous,may katwiran,positive
+3870,righteously,righteously,positive
+3871,righteousness,pagkamakatwiran,positive
+3872,rightful,ayon sa batas,positive
+3873,rightfully,may karapatang,positive
+3874,rightly,nang makatarungan,positive
+3875,rightness,katarungan,positive
+3876,rile,mang-abala,negative
+3877,riled,riled,negative
+3878,roadblocks,roadblocks,negative
+3879,rogue,taong tampalasan,negative
+3880,rollercoaster,rollercoaster,negative
+3881,romantic,romantiko,positive
+3882,romantically,romantically,positive
+3883,romanticize,romanticize,positive
+3884,rosy,parang rosas,positive
+3885,rotten,mabaho,negative
+3886,rousing,rousing,positive
+3887,rubbish,basura,negative
+3888,rude,walang galang,negative
+3889,rude,bastos,negative
+3890,rue,pagsisihan,negative
+3891,ruffian,taong malupit,negative
+3892,rumbling,rumbling,negative
+3893,rumor,sabi-sabi,negative
+3894,rumors,alingawngaw,negative
+3895,rumours,alingawngaw,negative
+3896,rumple,tupi,negative
+3897,run-down,sira-sira,negative
+3898,runaway,walang preno,negative
+3899,rusty,kalawangin,negative
+3900,ruthless,walang awa,negative
+3901,ruthlessly,ruthlessly,negative
+3902,ruthlessness,kawalang-habag,negative
+3903,sabotage,pamiminsala,negative
+3904,sacred,banal,positive
+3905,sacrifice,pag-aalay,negative
+3906,sad,malungkot,negative
+3907,sadden,makalungkot,negative
+3908,sadly,sadly,negative
+3909,sadness,lungkot,negative
+3910,safeguard,pangalagaan,positive
+3911,sagacity,katalasan ng isip,positive
+3912,sage,mukhang matalino,positive
+3913,sagely,sagely,positive
+3914,saint,santo,positive
+3915,saintliness,kabanalan,positive
+3916,saintly,parang santo,positive
+3917,salacious,mahalay,negative
+3918,salutary,kasiya-siya,positive
+3919,salute,pugay,positive
+3920,salvation,kaligtasan,positive
+3921,sanctimonious,nagbabanal-banalan,negative
+3922,sanctify,gawing sagrado,positive
+3923,sanction,kapahintulutan,positive
+3924,sanctity,dakilang kabanalan,positive
+3925,sanctuary,banal na lugar,positive
+3926,sanguine,may pag-asa,positive
+3927,sane,may maliwanag na isip,positive
+3928,sanity,kaliwanagan ng isip,positive
+3929,sap,katas,negative
+3930,sarcasm,uyam,negative
+3931,sarcastic,nang-uuyam,negative
+3932,sarcastically,sarcastically,negative
+3933,sardonic,may malisiya,negative
+3934,sardonically,sardonically,negative
+3935,sass,sass,negative
+3936,satirical,satirical,negative
+3937,satirize,mang-uyam,negative
+3938,satisfaction,kasiyahan,positive
+3939,satisfactorily,satisfactorily,positive
+3940,satisfactory,kasiya-siya,positive
+3941,savage,malupit na tao,negative
+3942,savaged,savaged,negative
+3943,savagely,savagely,negative
+3944,savagery,kalagayang hindi sibilisado,negative
+3945,savages,savages,negative
+3946,savvy,katalinuhan,positive
+3947,scandalize,mag-iskandalo,negative
+3948,scandalized,scandalized,negative
+3949,scandalous,nagbibigay ng iskandalo,negative
+3950,scandalously,scandalously,negative
+3951,scandals,Iskandalo,negative
+3952,scapegoat,kasangkapanin,negative
+3953,scar,magkapeklat,negative
+3954,scarred,scarred,negative
+3955,scarcely,tiyak na hindi,negative
+3956,scare,gulatin,negative
+3957,scared,natakot,negative
+3958,scarier,scarier,negative
+3959,scariest,scariest,negative
+3960,scarily,scarily,negative
+3961,scars,scars,negative
+3962,scary,katakot-takot,negative
+3963,scathing,nakasusugat,negative
+3964,scathingly,scathingly,negative
+3965,scheming,scheming,negative
+3966,scoff,mang-aglahi,negative
+3967,scoffingly,scoffingly,negative
+3968,scold,palaaway na babae,negative
+3969,scolding,pagbulyaw,negative
+3970,scoldingly,scoldingly,negative
+3971,scorching,scorching,negative
+3972,scorchingly,scorchingly,negative
+3973,scorn,uyam,negative
+3974,scornful,naiinis,negative
+3975,scornfully,naiinis,negative
+3976,scoundrel,taong tampalasan,negative
+3977,scourge,pahirapan,negative
+3978,scowl,magkunot ng noo,negative
+3979,scream,mapahiyaw,negative
+3980,screaming,magaralgal,neutral
+3981,screamingly,screamingly,neutral
+3982,screech,matinis na sigaw,negative
+3983,scruples,scruples,positive
+3984,scrupulous,mag-igi,positive
+3985,scrupulously,scrupulously,positive
+3986,scrutinize,magsiyasat na mabuti,neutral
+3987,scrutiny,masusing pagsisiyasat,neutral
+3988,scum,mga hamak na tao,negative
+3989,scummy,may iskoma,negative
+3990,seamless,walang pinagtahian,positive
+3991,second-class,pangalawang klase,negative
+3992,seductive,nakatutukso,positive
+3993,seedy,mabuto,negative
+3994,seemingly,para baga,neutral
+3995,seethe,ilaga,negative
+3996,seething,seething,negative
+3997,self-coup,self-kapalaran,negative
+3998,self-criticism,pagpula sa sarili,negative
+3999,self-destructive,self-mapanira,negative
+4000,self-determination,pagsasarili,positive
+4001,self-humiliation,paghiya sa sarili,negative
+4002,self-interest,pagkamakasarili,negative
+4003,self-interested,makasarili,negative
+4004,self-respect,paggalang sa sarili,positive
+4005,self-satisfaction,pagkasiya sa sarili,positive
+4006,self-serving,self-serving,negative
+4007,selfinterested,selfinterested,negative
+4008,selfish,makasarili,negative
+4009,selfishly,selfishly,negative
+4010,selfishness,pagkamakasarili,negative
+4011,senile,gawa ng katandaan,negative
+4012,sensation,pang-amoy,positive
+4013,sensational,nakagulat,positive
+4014,sensationalize,sensationalize,negative
+4015,sensationally,sensationally,positive
+4016,sensations,sensations,positive
+4017,senseless,walang ulirat,negative
+4018,senselessly,senselessly,negative
+4019,sensible,may katwiran,positive
+4020,sensibly,sa matinong paraan,positive
+4021,sensitively,sensitively,positive
+4022,sensitivity,pagkamapagdamdam,positive
+4023,sentiment,damdamin,positive
+4024,sentimentality,hayagang pagdaramdam,positive
+4025,sentimentally,sentimentally,positive
+4026,sentiments,sentiments,positive
+4027,serene,mabini,positive
+4028,serenity,kagandahan ng panahon,positive
+4029,serious,malubha,neutral
+4030,seriously,mataimtim,negative
+4031,seriousness,kabigatan,negative
+4032,sermonize,mangaral,negative
+4033,servitude,mahirap na trabaho,negative
+4034,set-up,itinayo,negative
+4035,severe,malala,negative
+4036,severely,nang mahigpit,negative
+4037,severity,kalubhaan,negative
+4038,sexy,malibog,positive
+4039,shabby,gamit na gamit na,negative
+4040,shadow,anino,negative
+4041,shady,malilim,negative
+4042,sham,paimbabaw,negative
+4043,shambles,katayan ng hayop,negative
+4044,shame,kahihiyan,negative
+4045,shames,hinihiya,negative
+4046,shamed,hiniya,negative
+4047,shameful,kahalay-halay,negative
+4048,shamefully,shamefully,negative
+4049,shamefulness,dumal,negative
+4050,shameless,makapal ang mukha,negative
+4051,shamelessly,shamelessly,negative
+4052,shamelessness,shamelessness,negative
+4053,shark,pating,negative
+4054,shatter,makabasag,negative
+4055,shatters,binabasag,negative
+4056,shattered,binasag,negative
+4057,sheer,manipis na manipis,negative
+4058,shimmer,kuminang,positive
+4059,shimmering,shimmering,positive
+4060,shimmeringly,shimmeringly,positive
+4061,shiny,makintab,positive
+4062,shirk,pabayang tao,negative
+4063,shirker,shirker,negative
+4064,shiver,manginig sa ginaw,negative
+4065,shock,pagkabigla,negative
+4066,shocks,binigla,negative
+4067,shocking,kagulat-gulat,negative
+4068,shockingly,shockingly,negative
+4069,shoddy,mababang uri,negative
+4070,shortchange,pagkakamali,negative
+4071,shortcoming,pagkapabaya,negative
+4072,shortcomings,pagkukulang,negative
+4073,shortsighted,mahina ang paningin sa malayo,negative
+4074,shortsightedness,shortsightedness,negative
+4075,shrew,palaaway na babae,negative
+4076,shrewd,may matalas na isip,positive
+4077,shrewdly,shrewdly,positive
+4078,shrewdness,kotalasan,positive
+4079,shriek,mapatili,negative
+4080,shrill,nakatutulig,negative
+4081,shrilly,shrilly,negative
+4082,shrivel,matigang,negative
+4083,shroud,damit na pamburol,negative
+4084,shrouded,shrouded,negative
+4085,shun,umilag,negative
+4086,shunned,shunned,negative
+4087,shy,mahihiyain,negative
+4088,shyly,shyly,negative
+4089,shyness,pagkamahihiyain,negative
+4090,sickly,mahina ang katawan,negative
+4091,sickening,nakakasuka,negative
+4092,sickeningly,sickeningly,negative
+4093,sidetrack,panghaliling daan,negative
+4094,sidetracked,sidetracked,negative
+4095,sillily,sillily,negative
+4096,silly,ulol,negative
+4097,simmer,sumulak,negative
+4098,simplicity,kababaang-loob,positive
+4099,simplistic,simplistic,negative
+4100,simplistically,simplistically,negative
+4101,sin,kasalanan,negative
+4102,sins,maysala,negative
+4103,sinned,nagkasala,negative
+4104,sinful,makasalanan,negative
+4105,sinfully,sinfully,negative
+4106,sincere,taos-puso,positive
+4107,sincerely,nang matapat,positive
+4108,sinister,malas,negative
+4109,sinisterly,sinisterly,negative
+4110,skeletons,skeletons,negative
+4111,skeptical,may pag-aalinlangan,negative
+4112,skeptically,skeptically,negative
+4113,skepticism,pag-aalinlangan,negative
+4114,skillful,magalang,positive
+4115,skillfully,skillfully,positive
+4116,skittish,magugulatin,negative
+4117,skittishly,skittishly,negative
+4118,skulk,magtago,negative
+4119,slander,siraan ng puri,negative
+4120,slanders,sinisiraan,negative
+4121,slanderred,siniraan,negative
+4122,slanderer,slanderer,negative
+4123,slanderous,naninira,negative
+4124,slanderously,slanderously,negative
+4125,slanders,slanders,negative
+4126,slap,sampal,negative
+4127,slaps,slaps,negative
+4128,slapped,sinampal,negative
+4129,slap,sasampalin,negative
+4130,slashing,paglaslas,negative
+4131,slaves,alipin,negative
+4132,sleazy,manipis,negative
+4133,slime,putik na malapot,negative
+4134,sloppy,nanggigitata,negative
+4135,sloppily,sloppily,negative
+4136,sloth,bagal,negative
+4137,slothful,magtamad,negative
+4138,slur,mang-insulto,negative
+4139,slut,malandi,negative
+4140,sly,patago,negative
+4141,smack,matunog na hampas,negative
+4142,smart,matalino,positive
+4143,smarter,mas matalino,positive
+4144,smartest,smartest,positive
+4145,smartly,nang buong talino,positive
+4146,smile,ngiti,positive
+4147,smiles,ngumingiti,positive
+4148,smiled,ngumiti,positive
+4149,smiling,nakangiting,positive
+4150,smilingly,nakangiti,positive
+4151,smitten,may malubhang sakit,positive
+4152,smokescreen,panabing na usok,negative
+4153,smolder,magbaga,negative
+4154,smoldering,nagbabaga,negative
+4155,smother,hindi makahinga,negative
+4156,smoulder,magbaga,negative
+4157,smouldering,nagbabaga,negative
+4158,smug,mayabang,negative
+4159,smugly,smugly,negative
+4160,smut,magbahid,negative
+4161,smuttier,smuttier,negative
+4162,smuttiest,smuttiest,negative
+4163,smutty,mahalay,negative
+4164,sneer,pag-irap,negative
+4165,sneering,mapanukso,negative
+4166,sneeringly,sneeringly,negative
+4167,snub,pagmamalaki,negative
+4168,snub,mayabang,negative
+4169,snubs,snubs,negative
+4170,snubbed,snubbed,negative
+4171,so-called,tinatawag,negative
+4172,sob,hibik,negative
+4173,sober,hindi lasing,negative
+4174,sobering,paghinahon,negative
+4175,sociable,mahilig sa pakikipagkapwa,positive
+4176,soften,palambutin,positive
+4177,solace,mag-aliw,positive
+4178,solicitous,mapag-alaala,positive
+4179,solicitously,solicitously,positive
+4180,solicitude,pagkamaalalahanin,positive
+4181,solidarity,pagkakaisa,positive
+4182,soliloquize,kausapin ang sarili,neutral
+4183,somber,malamlam,negative
+4184,soothe,paginhawahin,positive
+4185,soothingly,soothingly,positive
+4186,sophisticated,marunong na,positive
+4187,sore,sugat ng damdamin,negative
+4188,sorely,malupit,negative
+4189,sorrow,lungkot,negative
+4190,sorrowful,nalulungkot,negative
+4191,sorrowfully,sorrowfully,negative
+4192,sorry,pinagsisisihan,negative
+4193,spade,maghukay ng pala,negative
+4194,spank,paluin sa puwit,negative
+4195,sparkle,mamilansik,positive
+4196,spectacular,kagila-gilalas,positive
+4197,spectacularly,spectacularly,positive
+4198,spellbind,engkantuhin,positive
+4199,spellbinding,spellbinding,positive
+4200,spellbindingly,spellbindingly,positive
+4201,spellbound,nahahalina,positive
+4202,spilling,ligwak,negative
+4203,spiritless,mahina ang loob,negative
+4204,spiritual,espirituwal,positive
+4205,spite,pang-iinis,negative
+4206,spiteful,mapang-inis,negative
+4207,spitefully,spitefully,negative
+4208,spitefulness,spitefulness,negative
+4209,splayed-finger,splayed daliri,neutral
+4210,splendid,napakainam,positive
+4211,splendidly,splendidly,positive
+4212,splendor,rangya,positive
+4213,spoil,palayawin,negative
+4214,spook,multo,negative
+4215,spookier,spookier,negative
+4216,spookiest,spookiest,negative
+4217,spookily,spookily,negative
+4218,spooky,tulad ng multo,negative
+4219,spoon-fed,gap ng pagkain sa kutsara,negative
+4220,spoon-feed,pakanin,negative
+4221,spoonfed,spoonfed,negative
+4222,spotless,walang dumi,positive
+4223,sprightly,masigla,positive
+4224,spur,sa utos ng pagkakataon,positive
+4225,spurious,hindi totoo,negative
+4226,spurn,sipain,negative
+4227,sputter,utal na pagsasalita,negative
+4228,squabble,magtalo,negative
+4229,squabbling,squabbling,negative
+4230,squander,mag-aksaya ng salapi,negative
+4231,squarely,squarely,positive
+4232,squash,squash,negative
+4233,squirm,pamamaluktot,negative
+4234,staggering,pagsuray,negative
+4235,staggeringly,staggeringly,negative
+4236,stagnate,tumimik,negative
+4237,stagnation,pagwawalang-kilos,negative
+4238,staid,walang kibo,negative
+4239,stale,wala nang lasa,negative
+4240,stalemate,walang magagawa,negative
+4241,stammer,magsalita nang pautal-utal,negative
+4242,standstill,pagkatigil,negative
+4243,star,bituin,positive
+4244,stark,naninigas,negative
+4245,starkly,starkly,negative
+4246,stars,bituin,positive
+4247,startle,gumulantang,negative
+4248,startling,kagulat-gulat,negative
+4249,startlingly,startlingly,negative
+4250,stately,marangal,positive
+4251,statuesque,malaistawa,positive
+4252,staunch,pigilin ang pag-agos ng dugo,positive
+4253,staunchly,staunchly,positive
+4254,staunchness,staunchness,positive
+4255,steadfast,walang bago,positive
+4256,steadfastly,steadfastly,positive
+4257,steadfastness,steadfastness,positive
+4258,stellar,sa bituin,positive
+4259,stellarly,stellarly,positive
+4260,stench,masamang amoy,negative
+4261,stereotype,klitse,negative
+4262,stereotypical,stereotypical,negative
+4263,stereotypically,stereotypically,negative
+4264,stern,mabagsik,negative
+4265,stew,pag-aalaala,negative
+4266,stifle,hindi makahinga,negative
+4267,stifling,mainis,negative
+4268,stiflingly,stiflingly,negative
+4269,stigma,patak ng dumi,negative
+4270,stigmatize,stigmatize,negative
+4271,stimulating,stimulating,positive
+4272,sting,sumakit ang damdamin,negative
+4273,stinging,nakatutuya,negative
+4274,stingingly,stingingly,negative
+4275,stink,mamaho,negative
+4276,stinking,mabaho,negative
+4277,stir,paghalo,neutral
+4278,stirring,makapukaw-damdamin,positive
+4279,stirringly,stirringly,positive
+4280,stodgy,sandat,negative
+4281,stooge,sangkalan,negative
+4282,stooges,stooges,negative
+4283,straightforward,tapat,positive
+4284,strange,kakaiba,negative
+4285,strangely,kakaiba,negative
+4286,stranger,taong hindi kilala,negative
+4287,strangest,strangest,negative
+4288,stress,magbigay-diin,negative
+4289,stressful,nakababahalang,negative
+4290,stressfully,stressfully,negative
+4291,stricken,may mga sugat,negative
+4292,strict,mahigpit,negative
+4293,strictly,istrikto,negative
+4294,stride,lumakad nang mahahaba ang hakbang,positive
+4295,strident,palirit,negative
+4296,stridently,stridently,negative
+4297,strife,sagupaan,negative
+4298,striking,kapansin-pansin,positive
+4299,strikingly,strikingly,positive
+4300,striving,nagsusumikap,positive
+4301,struggle,labanan,negative
+4302,strut,lakad na mag-ilas,negative
+4303,stubborn,matigas ang kalooban,negative
+4304,stubborn,makulit,negative
+4305,stubborn,matigas ang ulo,negative
+4306,stubbornly,stubbornly,negative
+4307,stubbornness,katigasan ng ulo,negative
+4308,studious,masipag mag-aral,positive
+4309,studiously,studiously,positive
+4310,stuffy,walang hangin,negative
+4311,stunned,masindak,positive
+4312,stunning,napakaganda,positive
+4313,stunningly,stunningly,positive
+4314,stupendous,kamangha-mangha,positive
+4315,stupendously,stupendously,positive
+4316,stupid,nakababagod,negative
+4317,stupid,bobo,negative
+4318,stupidity,kahangalan,negative
+4319,stupidly,stupidly,negative
+4320,stupified,stupified,negative
+4321,stupify,stupify,negative
+4322,stupor,kawalang-malay,negative
+4323,sty,kulungan ng baboy,negative
+4324,stylish,makabago,positive
+4325,stylishly,istilo,positive
+4326,suave,pinong kumilos,positive
+4327,subjugate,lupigin,negative
+4328,subjugation,pagkalupig,negative
+4329,sublime,malayog,positive
+4330,subservience,paninipsip,negative
+4331,subservient,masunuring parang alipin,negative
+4332,succumb,sumakabilang-buhay,negative
+4333,sucker,pasusuhin,negative
+4334,sufferer,sufferer,negative
+4335,sufferers,sufferers,negative
+4336,suffering,nagtitiis,negative
+4337,suffocate,habulin ang hininga,negative
+4338,sugar-coat,takpin ng asukal,negative
+4339,sugar-coated,asukal-pinahiran,negative
+4340,sugarcoated,sugarcoated,negative
+4341,sulk,pagmamaktol,negative
+4342,sullen,masama ang loob,negative
+4343,sully,magmantsa,negative
+4344,sumptuous,masagana,positive
+4345,sumptuously,sumptuously,positive
+4346,sumptuousness,sumptuousness,positive
+4347,sunder,papaghiwalayin,negative
+4348,super,magara,positive
+4349,superb,napakahusay,positive
+4350,superbly,superbly,positive
+4351,superficial,mababaw,negative
+4352,superficiality,superficiality,negative
+4353,superficially,sa mababaw,negative
+4354,superfluous,hindi kailangan,negative
+4355,superiority,kataasan ng uri,negative
+4356,superlative,higit sa lahat,positive
+4357,superstition,pamahiin,negative
+4358,superstitious,mapamuhiin,negative
+4359,support,tulong,positive
+4360,supporter,tagataguyod,positive
+4361,supportive,supportive,positive
+4362,suppose,ipagpalagay,neutral
+4363,supposing,kung kaya,neutral
+4364,supremacy,kataas-taasang kapangyarihan,negative
+4365,supreme,kataas-taasan,positive
+4366,supremely,supremely,positive
+4367,supurb,supurb,positive
+4368,supurbly,supurbly,positive
+4369,sure,sigurado,positive
+4370,surely,walang alinlangan,positive
+4371,surge,paggulong ng alon,positive
+4372,surging,surging,positive
+4373,surmise,sapantaha,positive
+4374,surmount,mapagtagumpayan,positive
+4375,surpass,malampasan,positive
+4376,surprise,sorpresa,neutral
+4377,surprising,kagulat-gulat,neutral
+4378,surprisingly,kahanga-hanga,neutral
+4379,suspicions,duda,negative
+4380,suspicious,kahina-hinala,negative
+4381,suspicious,kaduda-duda,negative
+4382,suspiciously,sa paghihinala,negative
+4383,swagger,magyabang,negative
+4384,swamped,swamped,negative
+4385,swear,manumpa,negative
+4386,sweeping,nakamamanghang,positive
+4387,sweet,sweet,positive
+4388,sweeten,pinaganda,positive
+4389,swindle,panananso,negative
+4390,swipe,humampas,negative
+4391,swore,swore,negative
+4392,sworn,sinumpaang,positive
+4393,sympathetic,nagkakasundo,negative
+4394,sympathetically,sympathetically,negative
+4395,sympathies,sympathies,negative
+4396,sympathize,sang-ayunan,negative
+4397,sympathy,simpatiya,negative
+4398,taboo,bawal,negative
+4399,tact,kahusayang makitungo,positive
+4400,taint,makabulok,negative
+4401,tainted,nabubuluk,negative
+4402,talent,mga taong may talento,positive
+4403,talented,may ulo,positive
+4404,tantalizing,mapanukso,positive
+4405,tantalizingly,tantalizingly,positive
+4406,tantamount,gaya na rin,neutral
+4407,tantrum,pag-aalboroto,negative
+4408,tattered,gula-gulanit,negative
+4409,taunt,mang-uyam,negative
+4410,taunting,taunting,negative
+4411,tauntingly,tauntingly,negative
+4412,taunts,taunts,negative
+4413,tawdry,masagwa,negative
+4414,teasingly,teasingly,negative
+4415,tedious,nakakainip,negative
+4416,tediously,tediously,negative
+4417,temerity,lakas ng loob,negative
+4418,temper,init ng ulo,negative
+4419,tempt,mang-udyok,positive
+4420,temptation,tukso,negative
+4421,tempting,mapang-akit,positive
+4422,temptingly,temptingly,positive
+4423,tenacious,magaling ang memorya,positive
+4424,tenaciously,tenaciously,positive
+4425,tenacity,tenasidad,positive
+4426,terrible,kahila-hilakbot,negative
+4427,terribleness,terribleness,negative
+4428,terribly,katakut-takot,negative
+4429,terrific,nakakikilabot,positive
+4430,terrifically,terrifically,positive
+4431,terrified,terrified,positive
+4432,terrify,matakot nang lubha,positive
+4433,terrifying,sumisindak,positive
+4434,terrifyingly,terrifyingly,positive
+4435,terror,malaking takot,negative
+4436,terror-genic,malaking takot-genic,negative
+4437,terrorize,manlupig,negative
+4438,thank,pasasalamat,positive
+4439,thankful,nagpapasalamat,positive
+4440,thankfully,thankfully,positive
+4441,thankless,walang utang na loob,negative
+4442,theoretize,theoretize,neutral
+4443,therefore,samakatwid,neutral
+4444,think,mag-isip,neutral
+4445,thinkable,maiisip,positive
+4446,thinking,pagninilay-nilay,neutral
+4447,thirst,uhaw,negative
+4448,thorny,matinik,negative
+4449,though,bagaman,neutral
+4450,thoughtful,nag-isip,positive
+4451,thoughtfully,thoughtfully,positive
+4452,thoughtfulness,pagkamaalalahanin,positive
+4453,thoughtless,hindi mapag-alaala,negative
+4454,thoughtlessly,thoughtlessly,negative
+4455,thoughtlessness,katangaan,negative
+4456,thrill,pangingilig sa tuwa,positive
+4457,thrilling,nakapangmgilabot,positive
+4458,thrillingly,thrillingly,positive
+4459,thrills,nakapagpapakilig,positive
+4460,throttle,sumakal,negative
+4461,thus,kaya,neutral
+4462,thusly,thusly,neutral
+4463,thwart,hadlangan,negative
+4464,tidy,malaki na rin,positive
+4465,time-honored,nakasindi ng panahon,positive
+4466,timid,mahiyain,negative
+4467,timidity,pagkamahihiyain,negative
+4468,timidly,timidly,negative
+4469,timidness,timidness,negative
+4470,tingle,pangingilig,positive
+4471,tint,tint,neutral
+4472,tired,pagod,negative
+4473,tiresome,nakawawala ng gana,negative
+4474,tiring,nakapapagod,negative
+4475,tiringly,tiringly,negative
+4476,titillating,titillating,positive
+4477,titillatingly,titillatingly,positive
+4478,toast,mag-ihaw,positive
+4479,togetherness,togetherness,positive
+4480,toil,mabigat na trabaho,negative
+4481,tolerable,matitiis,positive
+4482,tolerably,katamtaman,positive
+4483,tolerance,pagpaparaya,positive
+4484,tolerantly,tolerantly,positive
+4485,torment,papaghirapin na mabuti,negative
+4486,tormented,tormented,negative
+4487,torrent,malakas na agos,negative
+4488,torrid,mainit na mainit,positive
+4489,torridly,torridly,positive
+4490,tortuous,pasikut-sikot,negative
+4491,torturous,torturous,negative
+4492,torturously,torturously,negative
+4493,touches,touch,neutral
+4494,touchy,masyadong maramdamin,negative
+4495,toughness,kayamutan,negative
+4496,traduce,siraan ng puri,negative
+4497,tragic,trahedya,negative
+4498,tragically,tragically,negative
+4499,traitor,taksil,negative
+4500,traitorous,taksil,negative
+4501,traitorously,traitorously,negative
+4502,tramp,lumakad nang papadyak,negative
+4503,trample,pagtapak,negative
+4504,tranquil,tahimik,positive
+4505,tranquility,katahimikan,positive
+4506,trauma,trauma,negative
+4507,traumatic,traumatiko,negative
+4508,traumatically,traumatically,negative
+4509,traumatize,magpalesyon,negative
+4510,traumatized,traumatized,negative
+4511,travesties,travesties,negative
+4512,travesty,paglapastangan,negative
+4513,treachery,pagsusukab,negative
+4514,treason,pagtataksil,negative
+4515,treasonous,pantaksil,negative
+4516,treasure,kayamanan,positive
+4517,tremendous,pagkalaki-laki,positive
+4518,tremendously,tremendously,positive
+4519,trendy,lumilihis,positive
+4520,trepidation,pangangatal,positive
+4521,tribute,pagpaparangal,positive
+4522,trick,bilis ng kamay,negative
+4523,tricky,mapaglalang,negative
+4524,trickery,panlalansi,negative
+4525,triumph,pagtatagumpay,positive
+4526,triumphal,matangloy,positive
+4527,triumphant,nagagalak dahil sa tagumpay,positive
+4528,triumphantly,triumphantly,positive
+4529,trivial,walang kuwenta,negative
+4530,trivialize,trivialize,negative
+4531,trivially,trivially,negative
+4532,trouble,gulo,negative
+4533,troublemaker,basag-ulero,negative
+4534,troublesome,mapanggulo,negative
+4535,troublesomely,troublesomely,negative
+4536,troubling,troubling,negative
+4537,troublingly,troublingly,negative
+4538,truculent,mabangis,positive
+4539,truculently,truculently,positive
+4540,1,1,positive
+4541,truly,tunay,positive
+4542,trump,nilikhang paratang sa kapwa,positive
+4543,trumpet,trumpeta,positive
+4544,trusting,nagtitiwala,positive
+4545,trustingly,mapagtiwala,positive
+4546,trustworthiness,trustworthiness,positive
+4547,trustworthy,mapagkakatiwalaan,positive
+4548,truth,katotohanan,positive
+4549,truthful,nagtatapat,positive
+4550,truthfully,makatotohanan,positive
+4551,truthfulness,katapatan,positive
+4552,turmoil,pagkakagulo,negative
+4553,twinkly,twinkly,positive
+4554,twist,iuwi sa ibang bagay,negative
+4555,twisted,baluktot,negative
+4556,tyrannical,malupit,negative
+4557,tyrannically,tyrannically,negative
+4558,tyranny,bagsik,negative
+4559,tyrant,punong malupit,negative
+4560,ugh,he,negative
+4561,ugliness,depormidad,negative
+4562,ugly,mainit ang ulo,negative
+4563,ulterior,hindi hayag,negative
+4564,ultimate,pantapos,positive
+4565,ultimately,sa huli,positive
+4566,ultimatum,ultimeytum,negative
+4567,ultimatums,ultimatums,negative
+4568,ultra,sobra,positive
+4569,ultra-hardline,ultra-hardline,negative
+4570,unabashed,unabashed,positive
+4571,unabashedly,unabashedly,positive
+4572,unacceptable,hindi maaaring tanggapin,negative
+4573,unacceptablely,unacceptablely,negative
+4574,unanimous,nagkakaisa,positive
+4575,unassailable,mahirap dapitan,positive
+4576,unattractive,hindi nakaaakit,negative
+4577,unbearable,hindi mabata,negative
+4578,unbearablely,unbearablely,negative
+4579,unbelievable,mahirap na paniwalaan,negative
+4580,unbelievably,unbelievably,negative
+4581,unbosom,magtapat,positive
+4582,uncivil,walang pakundangan,negative
+4583,uncivilized,hindi sibilisado,negative
+4584,unclean,hindi malinis,negative
+4585,uncommon,hindi pangkaraniwan,positive
+4586,uncommonly,uncommonly,positive
+4587,uncompromising,matigas,negative
+4588,uncompromisingly,uncompromisingly,negative
+4589,unconcerned,walang pag-iintindi,positive
+4590,unconvincing,hilako,negative
+4591,unconvincingly,unconvincingly,negative
+4592,uncouth,pangit,negative
+4593,undaunted,malakas ang loob,positive
+4594,undependability,undependability,negative
+4595,undependable,undependable,negative
+4596,underdog,talunan,negative
+4597,underestimate,masyadong mababang tasa,negative
+4598,underlings,underlings,negative
+4599,undermine,maghukay sa ilalim,negative
+4600,understand,maintindihan,positive
+4601,understandable,maliwanag,positive
+4602,understood,nababatid,positive
+4603,understate,paghalagahan nang maliit,positive
+4604,understated,understated,positive
+4605,understatedly,understatedly,positive
+4606,undesirable,hindi kanais-nais,negative
+4607,undignified,undignified,negative
+4608,undisputable,undisputable,positive
+4609,undisputably,undisputably,positive
+4610,undoubted,hindi pinag-aalinlanganan,positive
+4611,undoubtedly,walang alinlangan,positive
+4612,undue,higit sa nararapat,negative
+4613,unease,unease,negative
+4614,uneasily,uneasily,negative
+4615,uneasiness,kabalisahan,negative
+4616,uneasy,hindi makali,negative
+4617,unequal,walang kaya,negative
+4618,unequivocal,malinaw,positive
+4619,unequivocally,unequivocally,positive
+4620,unethical,walang modo,negative
+4621,unexpectedly,biglaan,negative
+4622,unfair,hindi tapat,negative
+4623,unfairly,unfairly,negative
+4624,unfaithful,hindi tapat,negative
+4625,unfaithfully,unfaithfully,negative
+4626,unfavorable,nakapanghihina ng loob,negative
+4627,unfazed,unfazed,positive
+4628,unfeeling,walang pandamdam,negative
+4629,unfettered,unfettered,positive
+4630,unfit,hindi bagay,negative
+4631,unforgettable,hindi malimut-limot,positive
+4632,unfortunate,kapus-kapalaran,negative
+4633,unfortunately,sa kasamaang-palad,negative
+4634,unfounded,walang batayan,negative
+4635,unfriendly,hindi magiliw sa kapwa,negative
+4636,ungrateful,walang utang na loob,negative
+4637,ungovernable,mahirap pigilin,negative
+4638,unhappily,unhappily,negative
+4639,unhappiness,kamalasan,negative
+4640,unhappy,malungkot,negative
+4641,unilateralism,unilateralism,negative
+4642,unimaginable,hindi mailarawan ng isip,negative
+4643,unimaginably,unimaginably,negative
+4644,unimportant,hindi mahalaga,negative
+4645,unipolar,unipolar,negative
+4646,unjust,hindi makatarungan,negative
+4647,unjustifiable,walang patawad,negative
+4648,unjustifiably,unjustifiably,negative
+4649,unjustly,unjustly,negative
+4650,unkind,walang awa,negative
+4651,unkindly,unkindly,negative
+4652,unlamentable,unlamentable,negative
+4653,unlamentably,unlamentably,negative
+4654,unleash,ipamalas,negative
+4655,unlucky,walang kapalaran,negative
+4656,unnaturally,unnaturally,negative
+4657,unnerve,masiraan ng loob,negative
+4658,unnerved,unnerved,negative
+4659,unnerving,unnerving,negative
+4660,unnervingly,unnervingly,negative
+4661,unorthodox,unorthodox,negative
+4662,unorthodoxy,unorthodoxy,negative
+4663,unparalleled,walang kapantay,positive
+4664,unpleasant,hindi kalugud-lugod,negative
+4665,unpleasantries,unpleasantries,negative
+4666,unpopular,hindi sikat,negative
+4667,unprecedent,unprecedent,negative
+4668,unprecedented,wala pang nakagagawa,negative
+4669,unpretentious,hindi mapagpanggap,positive
+4670,unqualified,walang pasubali,negative
+4671,unquestionable,hindi mapag-aalinlanganan,positive
+4672,unquestionably,unquestionably,positive
+4673,unravel,makalas,negative
+4674,unrealistic,hindi makatotohanang,negative
+4675,unreasonable,hindi makatwiran,negative
+4676,unreasonably,hindi makatwirang,negative
+4677,unrelenting,walang pahinga,negative
+4678,unrelentingly,unrelentingly,negative
+4679,unreliability,unreliability,negative
+4680,unreliable,hindi kapani-paniwala,negative
+4681,unrest,pagkabagabag,negative
+4682,unruly,hindi mapipigil,negative
+4683,unsavory,walang lasa,negative
+4684,unscrupulous,walang prinsipyo,negative
+4685,unscrupulously,unscrupulously,negative
+4686,unseemly,hindi bagay,negative
+4687,unselfish,hindi makasarili,positive
+4688,unsettle,tigatigin,negative
+4689,unsettling,unsettling,negative
+4690,unsettlingly,unsettlingly,negative
+4691,unsophisticated,walang arte,negative
+4692,unsound,wala sa mabuting kalagayan,negative
+4693,unspeakable,hindi masabi,negative
+4694,unspeakablely,unspeakablely,negative
+4695,unsuspecting,mapagtiwala,negative
+4696,untenable,hindi bagay,negative
+4697,unthinkable,hindi sukat akalain,negative
+4698,unthinkably,unthinkably,negative
+4699,untimely,hindi panahon,negative
+4700,untrue,hindi totoo,negative
+4701,untrustworthy,hindi karapat-dapat sa pagtitiwala,negative
+4702,untruthful,labag sa katotohanan,negative
+4703,unusually,hindi karaniwang,negative
+4704,unwanted,hindi kaibig-ibig,negative
+4705,unwarranted,hindi sapilitan,negative
+4706,unwelcome,hindi kinagigiliwan,negative
+4707,unwieldy,mahirap gamitin,negative
+4708,unwilling,mabigat sa kalooban,negative
+4709,unwillingly,nang hindi sinasadya,negative
+4710,unwillingness,unwillingness,negative
+4711,unwise,hindi mabuti,negative
+4712,unwisely,unwisely,negative
+4713,unworkable,unworkable,negative
+4714,unworthy,kahiya-hiya,negative
+4715,unyielding,matigas ang ulo,negative
+4716,upbeat,pagtaas,positive
+4717,upbraid,pagsalitaan,negative
+4718,upheaval,pagbabago,negative
+4719,upheld,upheld,positive
+4720,uphold,sang-ayunan,positive
+4721,uplifting,uplifting,positive
+4722,upliftingly,upliftingly,positive
+4723,upliftment,upliftment,positive
+4724,uproar,paghihiyawan,negative
+4725,uproarious,nagkakagulo,negative
+4726,uproariously,uproariously,negative
+4727,uproarous,uproarous,negative
+4728,uproarously,uproarously,negative
+4729,upsetting,upsetting,negative
+4730,upsettingly,upsettingly,negative
+4731,upside,tuwad,positive
+4732,urge,gumiit,positive
+4733,urgency,pangangailangan ng madaliang pagkilos,negative
+4734,usurp,mang-agaw,negative
+4735,usurper,usurper,negative
+4736,utmost,lalo sa lahat,positive
+4737,utter,magbitiw,negative
+4738,utterances,pagkakabigkas,neutral
+4739,utterly,sobra sobra,negative
+4740,uttermost,lalo sa lahat,positive
+4741,vagrant,pagala-gala,negative
+4742,vain,walang kabuluhan,negative
+4743,vainly,may kahambugan,negative
+4744,valiant,magiting,positive
+4745,valiantly,valiantly,positive
+4746,valor,lakas ng loob,positive
+4747,valuable,mahalaga,positive
+4748,vanquish,manlupig,positive
+4749,vehement,nagngangalit,negative
+4750,vehemently,vehemently,negative
+4751,venerable,kagalang-galang,positive
+4752,venerably,venerably,positive
+4753,vengeance,nang buong lakas,negative
+4754,vengeful,gustong maghiganti,negative
+4755,vengefully,vengefully,negative
+4756,vengefulness,vengefulness,negative
+4757,venom,kamandag,negative
+4758,venomous,makamandag,negative
+4759,venomously,venomously,negative
+4760,vent,palabasan,negative
+4761,veritable,talaga,positive
+4762,vestiges,vestiges,negative
+4763,veto,pagbeto,negative
+4764,vex,bagay na pinagtatalunan,negative
+4765,vexation,pang-iinis,negative
+4766,vexing,nakakayamot,negative
+4767,vexingly,vexingly,negative
+4768,vibrant,matunog,positive
+4769,vibrantly,vibrantly,positive
+4770,vice,masamang ugali,negative
+4771,vicious,may masamang hangad,negative
+4772,viciously,viciously,negative
+4773,viciousness,kabangisan,negative
+4774,victimize,pagsamantalahan,negative
+4775,vie,makipag-agawan,negative
+4776,view,pagtingin,neutral
+4777,viewpoints,pananaw,neutral
+4778,views,mga tanawin,neutral
+4779,vile,mabaho,negative
+4780,vileness,vileness,negative
+4781,vilify,siraan ng puri,negative
+4782,villainous,tampalasan,negative
+4783,villainously,villainously,negative
+4784,villains,villains,negative
+4785,villian,villian,negative
+4786,villianous,villianous,negative
+4787,villianously,villianously,negative
+4788,villify,villify,negative
+4789,vindicate,pawalang-sala,positive
+4790,vindictive,mapanghiganti,negative
+4791,vindictively,vindictively,negative
+4792,vindictiveness,vindictiveness,negative
+4793,violate,lumabag,negative
+4794,violator,tagalabag,negative
+4795,virtue,kabutihan,positive
+4796,virtuous,malinis,positive
+4797,virtuously,virtuously,positive
+4798,virulence,malaking galit,negative
+4799,virulent,nagpapahayag ng galit,negative
+4800,virulently,virulently,negative
+4801,virus,mikrobiyo,negative
+4802,visionary,pangarap lamang,positive
+4803,vital,mahalaga sa buhay,positive
+4804,vitality,kalakasan,positive
+4805,vivacious,magaan ang katawan,positive
+4806,vivid,masigla,positive
+4807,vociferous,maingay,negative
+4808,vociferously,vociferously,negative
+4809,vouch,garantiyahan,positive
+4810,vouchsafe,marapatin,positive
+4811,vow,mangako nang taimtim,positive
+4812,vulgar,bastos,negative
+4813,vulnerable,maaaring masaktan,positive
+4814,wail,tumaghoy,negative
+4815,waning,Waning,negative
+4816,want,gusto,positive
+4817,wanton,walang puso,negative
+4818,war-like,digmaan-tulad ng,negative
+4819,warlike,paladigma,negative
+4820,warmhearted,mabuting loob,positive
+4821,warmly,mabait,positive
+4822,wary,maalaga,negative
+4823,warily,maingat,negative
+4824,wariness,pagkamaingat,negative
+4825,watchdog,asong tagapagbantay,negative
+4826,wayward,naliligaw,negative
+4827,weaken,mag-ato,negative
+4828,weakening,pagpapahina,negative
+4829,weakness,kahinaan,negative
+4830,weaknesses,kahinaan,negative
+4831,weariness,kapaguran,negative
+4832,wearisome,nakakainip,negative
+4833,weary,napapagod,negative
+4834,wee,pagkaliit-liit,negative
+4835,weird,kakaiba,negative
+4836,weirdly,weirdly,negative
+4837,welcome,mabuhay,positive
+4838,well-being,kagalingan,positive
+4839,well-connected,konektado ng husto,positive
+4840,well-informed,maraming alam,positive
+4841,well-intentioned,well-intentioned,positive
+4842,well-managed,well-pinamamahalaang,positive
+4843,well-received,mahusay na natanggap,positive
+4844,well-regarded,mahusay na itinuturing,positive
+4845,well-run,mabuting patakbo,positive
+4846,well-wishers,well-wishers,positive
+4847,wellbeing,kabutihan,positive
+4848,wheedle,mang-ulok,negative
+4849,whimper,maguungot,negative
+4850,whimsical,kakatuwa,positive
+4851,whine,ngulngol,negative
+4852,whips,whips,negative
+4853,wholeheartedly,bukas-loob,positive
+4854,wholesome,mabuti sa katawan,positive
+4855,wicked,masama,negative
+4856,wickedly,wickedly,negative
+4857,wickedness,kasamaan,negative
+4858,wiles,wiles,negative
+4859,will,pamanahan,positive
+4860,willful,matigas ang ulo,positive
+4861,willfully,kusang-loob,positive
+4862,willing,payag,positive
+4863,willingness,pagpayag,positive
+4864,wilt,manlambot,negative
+4865,wily,mapaglalang,negative
+4866,wince,mapangiwi,negative
+4867,wink,sa isang kisap-mata,positive
+4868,winnable,winnable,positive
+4869,winners,nagwagi,positive
+4870,wisdom,karunungan,positive
+4871,wise,matalino,positive
+4872,wisely,matalino,positive
+4873,wish,nais,positive
+4874,wishes,bumabati,positive
+4875,wishing,na nagnanais,positive
+4876,witty,nakakatawa,positive
+4877,woe,lungkot,negative
+4878,woebegone,mukhang malungkot,negative
+4879,woeful,kahabag-habag,negative
+4880,woefully,woefully,negative
+4881,wonder,Wonder,positive
+4882,wonderful,kahanga-hanga,positive
+4883,wonderfully,kamangha-mangha,positive
+4884,wonderous,wonderous,positive
+4885,wonderously,wonderously,positive
+4886,wondrous,nakakamangha,positive
+4887,woo,manligaw,positive
+4888,workable,maisasagawa,positive
+4889,world-famous,sikat sa mundong,positive
+4890,worried,nag-aalala,negative
+4891,worriedly,worriedly,negative
+4892,worrier,palaging nag-aalala,negative
+4893,worries,alala,negative
+4894,worrisome,nakakaligalig,negative
+4895,worry,mag-alala,negative
+4896,worrying,nag-aalala,negative
+4897,worryingly,worryingly,negative
+4898,worse,mas masama,negative
+4899,worsen,lalong sumama,negative
+4900,worsening,worsening,negative
+4901,worst,pinakamasama,negative
+4902,worth,nagkakahalaga,positive
+4903,worth-while,nagkakahalaga-habang,positive
+4904,worthiness,pagiging karapat-dapat,positive
+4905,worthless,walang kapararakan,negative
+4906,worthless,walang kwenta,negative
+4907,worthlessly,worthlessly,negative
+4908,worthlessness,worthlessness,negative
+4909,worthwhile,may halaga,positive
+4910,worthy,may halaga,positive
+4911,wound,sugat,negative
+4912,wow,wow,positive
+4913,wrangle,mag-away,negative
+4914,wrath,galit,negative
+4915,wrest,mang-agaw,negative
+4916,wretch,walang hiya,negative
+4917,wretched,isang aba,negative
+4918,wretchedly,wretchedly,negative
+4919,wretchedness,pagkaimbi,negative
+4920,wrongly,hindi wasto,negative
+4921,wry,tabingi,positive
+4922,yawn,paghigab,negative
+4923,yeah,oo,neutral
+4924,yearn,magnasa,positive
+4925,yearning,matinding paghahangad,positive
+4926,yearningly,yearningly,positive
+4927,yelp,atungal,negative
+4928,yep,yep,positive
+4929,yes,oo,positive
+4930,zeal,kasigasigan,positive
+4931,zealot,taong labis na masipag,negative
+4932,zealous,masipag,negative
+4933,zealously,masigasig,negative
+4934,zenith,taluktok,positive
+4935,zest,sobrang kasiyahan,positive
