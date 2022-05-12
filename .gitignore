@@ -3,3 +3,4 @@ checkpoint
 .transformers
 *.ipynb
 *.sh
+*.pyc
