@@ -117,6 +117,28 @@ class Trainer():
         else:
             print('Invalid truncation value')
 
+    def print_config(self):
+        print('===== Configuration =====')
+        print('> Pretrained:', self._pretrained)
+        print('> MSL:', self._msl)
+        print('> Batch Size:', self._batch_size)
+        print('> Epochs:', self.epochs)
+        print()
+
+        print('===== Dataset =====')
+        print('> Train:', self._train_data)
+        print('> Valid:', self._valid_data)
+        print('> Test:', self._test_data)
+        print('> Truncation:', self._truncation)
+        print('> Wordlist:', self._wordlist)
+        print()
+
+        print('===== Misc =====')
+        print('> Device:', self._device)
+        print('> Seed:', self._seed)
+        print('> Checkpoint:', self._checkpoint)
+        print()
+
     def __init__(self):
         self.get_options()
 

@@ -20,9 +20,8 @@ class HateModel():
                 self._mapping[word] = i
 
     def __clean_text__(self, text: str) -> str:
-        text = text.lower()
         # Letters and dash(-)
-        text = re.sub('[^A-Za-z- ]+', '', text)
+        text = re.sub('[^a-z- ]+', '', text.strip().lower())
         return text
 
     def frequency_count(self, texts: list) -> torch.Tensor:
