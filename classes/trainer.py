@@ -142,7 +142,8 @@ class Trainer():
     def __init__(self):
         self.get_options()
 
-        torch.cuda.set_device('cuda:0' if self._tpu else self._device)
+        if self._device == 'cuda:0':
+            torch.cuda.set_device('cuda:0')
 
         np.random.seed(self._seed)
         torch.manual_seed(self._seed)
